@@ -1,0 +1,3217 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kausar, F
+   Shahbaz, M
+   Ashraf, M
+AF Kausar, Farhana
+   Shahbaz, Muhammad
+   Ashraf, Muhammad
+TI Protective role of foliar-applied nitric oxide in Triticum aestivum
+   under saline stress
+SO TURKISH JOURNAL OF BOTANY
+LA English
+DT Article
+DE Wheat; nitric oxide; salinity; antioxidants; proline
+ID HELIANTHUS-ANNUUS L.; SALT TOLERANCE; EXOGENOUS APPLICATION; ANTIOXIDANT
+   ENZYMES; HYDROGEN-PEROXIDE; OXIDATIVE STRESS; GAS-EXCHANGE; PROLINE;
+   SEEDLINGS; SYSTEM
+AB A study was conducted to assess whether foliar-applied nitric oxide (NO) could alleviate the adverse effects of salt stress on wheat (Triticum aestivum L.). Four sodium nitroprusside levels (control [water spray] and 0.05, 0.10, and 0.15 mM) were sprayed as a donor of NO on the leaves of cultivar S-24 plants grown under nonsaline and saline conditions (150 mM NaCl). Data for growth and yield, chlorophyll contents, activities of antioxidants, and concentrations of mineral nutrients were recorded. Root-medium salinity adversely affected shoot and root dry weight, shoot length, and yield attributes of the wheat plants while it enhanced the activities of antioxidants, proline accumulation, and concentrations of shoot and root Na+ and Cl-. Foliar-applied NO improved growth of only nonstressed plants. Exogenously applied NO enhanced the activities of antioxidant enzymes (superoxide dismutase [SOD], peroxidase [POD], and catalase [CAT]) and levels of soluble proteins and proline, in both stressed and nonstressed wheat plants. Overall, exogenous application of NO enhanced chlorophyll contents; activities of CAT, POD, and SOD; and levels of soluble proteins and total free proline in the salt stressed wheat plants. The exogenous application of NO had a protective role against salt-induced oxidative damage by enhancing the activities of antioxidant enzymes, thereby improving plant growth under saline stress.
+C1 [Kausar, Farhana; Shahbaz, Muhammad] Univ Agr Faisalabad, Dept Bot, Faisalabad, Pakistan.
+   [Ashraf, Muhammad] Univ Sargodha, Univ Coll Agr, Sargodha, Pakistan.
+RP Shahbaz, M (reprint author), Univ Agr Faisalabad, Dept Bot, Faisalabad, Pakistan.
+EM shahbazmuaf@yahoo.com
+RI Ashraf, Muhammad/F-6294-2010; Ashraf, Muhammad/I-6800-2015; Shahbaz,
+   Muhammad/F-6661-2010
+OI Ashraf, Muhammad/0000-0002-8226-7758; 
+CR Adebooye OC, 2012, TURK J BOT, V36, P328, DOI 10.3906/bot-1107-8
+   Akram NA, 2012, SCI HORTIC-AMSTERDAM, V142, P143, DOI 10.1016/j.scienta.2012.05.007
+   Anjum A., 2008, INT J AGRIC BIOL, V10, P619
+   Apel K, 2004, ANNU REV PLANT BIOL, V55, P373, DOI 10.1146/annurev.arplant.55.031903.141701
+   ARNON DI, 1949, PLANT PHYSIOL, V24, P1, DOI 10.1104/pp.24.1.1
+   Ashraf MA, 2012, FLORA, V207, P388, DOI 10.1016/j.flora.2012.03.004
+   Basra S.M.A., 2009, J AGRON CROP SCI, V14, P220
+   BATES LS, 1973, PLANT SOIL, V39, P205, DOI 10.1007/BF00018060
+   Batool A, 2013, J HORTIC SCI BIOTECH, V88, P231, DOI 10.1080/14620316.2013.11512961
+   BRADFORD MM, 1976, ANAL BIOCHEM, V72, P248, DOI 10.1016/0003-2697(76)90527-3
+   Carden DE, 2003, PLANT PHYSIOL, V131, P676, DOI 10.1104/pp.011445
+   CHANCE B, 1955, METHOD ENZYMOL, V2, P764, DOI 10.1016/S0076-6879(55)02300-8
+   Chen SB, 2009, J EXP BOT, V60, P2005, DOI 10.1093/jxb/erp075
+   Desikan R, 2004, J EXP BOT, V55, P205, DOI 10.1093/jxb/erh033
+   Fan Huaifu, 2007, Frontiers of Agriculture in China, V1, P308, DOI 10.1007/s11703-007-0052-5
+   GIANNOPOLITIS CN, 1977, PLANT PHYSIOL, V59, P309, DOI 10.1104/pp.59.2.309
+   GRIEVE CM, 1983, PLANT SOIL, V70, P303, DOI 10.1007/BF02374789
+   Guo Y., 2008, LIFE SCI J, V6, P67
+   Hameed M, 2013, TURK J BOT, V37, P715, DOI 10.3906/bot-1208-1
+   Hasanuzzaman M., 2012, Australian Journal of Crop Science, V6, P1314
+   Hasanuzzaman M, 2013, ECOTOXICOLOGY, V22, P584, DOI 10.1007/s10646-013-1050-4
+   Hasanuzzaman M, 2011, PLANT BIOTECHNOL REP, V5, P353, DOI 10.1007/s11816-011-0189-9
+   Jin CW, 2009, ANN APPL BIOL, V155, P113, DOI 10.1111/j.1744-7348.2009.00327.x
+   Joseph Baby, 2010, International Journal of Botany, V6, P456, DOI 10.3923/ijb.2010.456.464
+   Kanwal H, 2011, PAK J BOT, V43, P2693
+   Kausar F, 2013, PAK J BOT, V45, P67
+   Lopez-Carrion AI, 2008, BIOL PLANTARUM, V52, P587, DOI 10.1007/s10535-008-0117-1
+   Naheed G, 2008, PAK J BOT, V40, P1601
+   Noreen S, 2008, PAK J BOT, V40, P1657
+   Perveen S, 2012, J APPL BOT FOOD QUAL, V85, P41
+   Perveen S, 2012, PAK J BOT, V44, P27
+   Perveen S, 2011, PAK J BOT, V43, P2463
+   Perveen S, 2010, PAK J BOT, V42, P3073
+   Ruan HH, 2004, ACTA BOT SIN, V46, P415
+   Saadia M, 2012, MOLECULES, V17, P5803, DOI 10.3390/molecules17055803
+   Shahbaz M, 2013, CRIT REV PLANT SCI, V32, P237, DOI 10.1080/07352689.2013.758544
+   Shahbaz M, 2012, CRIT REV PLANT SCI, V31, P303, DOI 10.1080/07352689.2012.656496
+   Shahbaz M, 2011, J APPL BOT FOOD QUAL, V84, P54
+   Shahbaz M, 2008, PLANT GROWTH REGUL, V55, P51, DOI 10.1007/s10725-008-9262-y
+   Shahbaz M, 2013, J PLANT INTERACT, V8, P350, DOI 10.1080/17429145.2013.764469
+   Shahbaz M, 2011, ACTA PHYSIOL PLANT, V33, P1113, DOI 10.1007/s11738-010-0639-y
+   Shaheen HL, 2012, INT J AGRIC BIOL, V14, P980
+   Snedecor G. W., 1989, STAT METHODS
+   Tunc-Ozdemir M, 2009, PLANT PHYSIOL, V151, P421, DOI 10.1104/pp.109.140046
+   Uchida A, 2002, PLANT SCI, V163, P515, DOI 10.1016/S0168-9452(02)00159-0
+   Wang Xian-Ye, 2004, Zhiwu Shengli yu Fenzi Shengwuxue Xuebao, V30, P195
+   WOLF B, 1982, COMMUN SOIL SCI PLAN, V13, P1035, DOI 10.1080/00103628209367332
+   Wu X, 2010, ACTA PHYSIOL PLANT, V10, P1007
+   Zanardo Daniele I. L., 2005, Physiology and Molecular Biology of Plants, V11, P81
+   Zhang LP, 2008, PLANT CELL PHYSIOL, V49, P411, DOI 10.1093/pcp/pcn017
+   Zhang Yan-yan, 2004, Zhiwu Shengli yu Fenzi Shengwuxue Xuebao, V30, P455
+   Zhang YY, 2006, PLANTA, V224, P545, DOI 10.1007/s00425-006-0242-z
+   Zhang YK, 2009, SCI HORTIC-AMSTERDAM, V123, P217, DOI 10.1016/j.scienta.2009.08.015
+   Zheng CF, 2009, ENVIRON EXP BOT, V67, P222, DOI 10.1016/j.envexpbot.2009.05.002
+   Zhou BY, 2005, J EXP BOT, V56, P3223, DOI 10.1093/jxb/eri319
+   Zhu JK, 2002, ANNU REV PLANT BIOL, V53, P247, DOI 10.1146/annurev.arplant.53.091401.143329
+NR 56
+TC 34
+Z9 34
+U1 1
+U2 18
+PU TUBITAK SCIENTIFIC & TECHNICAL RESEARCH COUNCIL TURKEY
+PI ANKARA
+PA ATATURK BULVARI NO 221, KAVAKLIDERE, ANKARA, 00000, TURKEY
+SN 1300-008X
+EI 1303-6106
+J9 TURK J BOT
+JI Turk. J. Bot.
+PY 2013
+VL 37
+IS 6
+BP 1155
+EP 1165
+DI 10.3906/bot-1301-17
+PG 11
+WC Plant Sciences
+SC Plant Sciences
+GA 240LD
+UT WOS:000326096500017
+OA Bronze
+DA 2019-11-19
+ER
+
+PT J
+AU Saeed, A
+   Arif, M
+   Irfan, M
+   Bolte, M
+AF Saeed, Aamer
+   Arif, Mubeen
+   Irfan, Madiha
+   Bolte, Michael
+TI A two-component protocol for synthesis of 3-(2-(substituted
+   phenylamino)thiazol-4-yl)-2H-chromen-2-ones
+SO TURKISH JOURNAL OF CHEMISTRY
+LA English
+DT Article
+DE 3-Thiazolcoumarins; crystal structure
+ID COUMARIN DERIVATIVES; INHIBITORY-ACTIVITY; BIOLOGICAL-ACTIVITY;
+   THIAZOLE; AGENTS; ANALOGS; DESIGN; BACTERIAL; MECHANISM; SYSTEMS
+AB An efficient 2-component synthesis of a series of 3-(2-(substituted phenylamino)thiazol-4-yl)-2H-chromen-2-ones (3a-j) was achieved by the reaction of 3-(2-thiocyanatoacetyl)-2H-chromen-2-one (1) with a variety of suitably substituted anilines in 1:1 molar ratio in ethanol. The structures of the products were established by elemental analyses, and UV-vis, FTIR, H-1 and C-13 NMR, and mass spectroscopy. 3-(2-(4-Methylphenylamino)thiazol-4-yl)-2H-chromen-2-one (3j) was further characterized by single crystal X-ray diffraction study. This compound, C19H14N2OS, crystallizes in the orthorhombic space group Pna21, with Z = 4, and unit cell parameters a = 13.0785(11), b = 25.746(2), c = 4.7235(3) angstrom, alpha - beta - gamma - 90 degrees.
+C1 [Saeed, Aamer; Arif, Mubeen; Irfan, Madiha] Quaid I Azam Univ, Dept Chem, Islamabad, Pakistan.
+   [Bolte, Michael] Goethe Univ Frankfurt, Inst Inorgan & Analyt Chem, D-60054 Frankfurt, Germany.
+RP Saeed, A (reprint author), Quaid I Azam Univ, Dept Chem, Islamabad, Pakistan.
+EM aamersaeed@yahoo.com
+RI Saeed Bhatti, Aamer/H-6770-2015; Saeed, Aamer/N-9879-2019; Saeed,
+   Aamer/D-6610-2014
+OI Saeed, Aamer/0000-0002-7112-9296; Saeed, Aamer/0000-0002-7112-9296
+CR Abdel-Aziz HA, 2009, MONATSH CHEM, V140, P431, DOI 10.1007/s00706-008-0053-y
+   Al-Soud YA, 2008, Z NATURFORSCH B, V63, P83, DOI 10.1515/znb-2008-0112
+   Andreani A, 1996, EUR J MED CHEM, V31, P383, DOI 10.1016/0223-5234(96)89164-1
+   BELL FW, 1995, J MED CHEM, V38, P4929, DOI 10.1021/jm00025a010
+   Belluti F, 2010, BIOORGAN MED CHEM, V18, P3543, DOI 10.1016/j.bmc.2010.03.069
+   BLESSING RH, 1995, ACTA CRYSTALLOGR A, V51, P33, DOI 10.1107/S0108767394005726
+   BRESLOW R, 1958, J AM CHEM SOC, V80, P3719, DOI 10.1021/ja01547a064
+   Cheng JF, 2003, BIOORG MED CHEM LETT, V13, P3647, DOI 10.1016/j.bmcl.2003.08.025
+   Chimenti F, 2004, BIOORG MED CHEM LETT, V14, P3697, DOI 10.1016/j.bmcl.2004.05.010
+   CLEMENCE F, 1988, J MED CHEM, V31, P1453, DOI 10.1021/jm00402a034
+   Dawane B. S., 2010, INT J PHARM SCI REV, V3, P96
+   Dear K. M., 1971, [No title captured], Patent No. [3,630,738. US, 3630738]
+   Dekic V, 2011, AFR J PHARM PHARMACO, V5, P371, DOI 10.5897/AJPP10.408
+   Donovalova J, 2012, MOLECULES, V17, P3259, DOI 10.3390/molecules17033259
+   EDENHARDER R, 1995, MUTAT RES-GENET TOX, V345, P57, DOI 10.1016/0165-1218(95)90070-5
+   El-Gaby MSA, 2004, J CHIN CHEM SOC-TAIP, V51, P125, DOI 10.1002/jccs.200400020
+   Fink BE, 1999, CHEM BIOL, V6, P205, DOI 10.1016/S1074-5521(99)80037-4
+   Flasik R, 2009, MOLECULES, V14, P4838, DOI 10.3390/molecules14124838
+   Garcia-Baez EV, 2003, ARKIVOC, P100, DOI 10.3998/ark.5550190.0004.b11
+   Geronikaki A, 2007, BIOINORG CHEM APPL, DOI 10.1155/2007/92145
+   Hara K, 2003, J PHYS CHEM B, V107, P597, DOI 10.1021/jp026963x
+   Helal A, 2011, TETRAHEDRON, V67, P2794, DOI 10.1016/j.tet.2011.01.093
+   Hoult JRS, 1996, GEN PHARMACOL-VASC S, V27, P713, DOI 10.1016/0306-3623(95)02112-4
+   Hwu JR, 2008, ANTIVIR RES, V77, P157, DOI 10.1016/j.antiviral.2007.09.003
+   Kalkhambkar RG, 2007, EUR J MED CHEM, V42, P1272, DOI 10.1016/j.ejmech.2007.01.023
+   Kalkhambkar RG, 2008, EUR J MED CHEM, V43, P2178, DOI 10.1016/j.ejmech.2007.08.007
+   Kaloyanova S, 2011, J PHOTOCH PHOTOBIO B, V103, P215, DOI 10.1016/j.jphotobiol.2011.03.012
+   Koti RS, 2007, SYNTHETIC COMMUN, V37, P99, DOI 10.1080/00397910600978481
+   Lee B. H., 2005, J ETHNOPHARMACOL, V97, P293
+   Lee SH, 2010, B KOREAN CHEM SOC, V31, P615, DOI 10.5012/bkcs.2010.31.03.615
+   Lim NC, 2005, INORG CHEM, V44, P2018, DOI 10.1021/ic048905r
+   Lin WY, 2008, EUR J ORG CHEM, P4981, DOI 10.1002/ejoc.200800667
+   Manvar A, 2008, EUR J MED CHEM, V43, P2395, DOI 10.1016/j.ejmech.2008.01.016
+   Mills JT, 1998, J MATER CHEM, V8, P2385, DOI 10.1039/a805611k
+   Mizukami S, 2009, INORG CHEM, V48, P7630, DOI 10.1021/ic900247r
+   Muijlwijk-Koezen J. Ev., 2001, J MED CHEM, V44, P749
+   Nebe-von-Caron G, 2000, J MICROBIOL METH, V42, P97, DOI 10.1016/S0167-7012(00)00181-0
+   PATT WC, 1992, J MED CHEM, V35, P2562, DOI 10.1021/jm00092a006
+   PLOUVIER B, 1994, BIOCONJUGATE CHEM, V5, P475, DOI 10.1021/bc00029a016
+   Radanyi C, 2008, BIOORG MED CHEM LETT, V18, P2495, DOI 10.1016/j.bmcl.2008.01.128
+   Raj HG, 1998, BIOORGAN MED CHEM, V6, P833, DOI 10.1016/S0968-0896(98)00043-1
+   Rudolph J, 2001, J MED CHEM, V44, P619, DOI 10.1021/jm0010623
+   RYE HS, 1992, NUCLEIC ACIDS RES, V20, P2803, DOI 10.1093/nar/20.11.2803
+   Sarojini B. K., 2010, J EUR MED CHEM, V45, P3490
+   Sheldrick GM, 2008, ACTA CRYSTALLOGR A, V64, P112, DOI 10.1107/S0108767307043930
+   Smyth T, 2009, INT J ANTIMICROB AG, V33, P421, DOI 10.1016/j.ijantimicag.2008.10.022
+   Spek AL, 2003, J APPL CRYSTALLOGR, V36, P7, DOI 10.1107/S0021889802022112
+   Starcevic S, 2011, CHEM-BIOL INTERACT, V191, P60, DOI 10.1016/j.cbi.2011.01.002
+   Vijesh AM, 2010, EUR J MED CHEM, V45, P5460, DOI 10.1016/j.ejmech.2010.07.048
+   Wagner BD, 2009, MOLECULES, V14, P210, DOI 10.3390/molecules14010210
+   Wood WJL, 2005, J AM CHEM SOC, V127, P15521, DOI 10.1021/ja0547230
+   Yanxi S., 2012, CURR ORG CHEM, V16, P2690
+   Yao H, 2005, LANGMUIR, V21, P1067, DOI 10.1021/la0479004
+   Yoon S, 2005, J AM CHEM SOC, V127, P16030, DOI 10.1021/ja0557987
+   Zhou X, 2008, BIOORGAN MED CHEM, V16, P8011, DOI 10.1016/j.bmc.2008.07.068
+NR 55
+TC 2
+Z9 2
+U1 0
+U2 6
+PU SCIENTIFIC TECHNICAL RESEARCH COUNCIL TURKEY-TUBITAK
+PI ANKARA
+PA ATATURK BULVARI NO 221, KAVAKLIDERE, TR-06100 ANKARA, TURKEY
+SN 1300-0527
+J9 TURK J CHEM
+JI Turk. J. Chem.
+PY 2013
+VL 37
+IS 3
+BP 383
+EP 393
+DI 10.3906/kim-1204-81
+PG 11
+WC Chemistry, Multidisciplinary; Engineering, Chemical
+SC Chemistry; Engineering
+GA 172GA
+UT WOS:000320987000007
+OA Bronze
+DA 2019-11-19
+ER
+
+PT J
+AU Saeed, A
+   Rafique, H
+AF Saeed, Aamer
+   Rafique, Hummera
+TI Synthesis of new
+   N-[3-(Benzo[d]thiazol-2-yl)-4-methylthiazol-2(3H)-ylidene] substituted
+   benzamides
+SO TURKISH JOURNAL OF CHEMISTRY
+LA English
+DT Article
+DE N-[3-(2-Benzothiazolyl)-4-methylthiazol-2(3H)-ylidene] substituted
+   benzamides; 1-(benzo[d] thiazol-2-yl)-3-aroylthioureas;
+   2-aminobenzothiazoles
+ID THIAZOLINE
+AB A series of novel N-[3-(2-benzo[d]thiazol-2-yl)-4-methylthiazol-2(3H)-ylidene] substituted benzamides (2a-k) were efficiently synthesized by heterocyclization of the corresponding 1-(benzo[d]thiazol-2-yl)-3-aroylthioureas(1a-k). The cyclization was achieved by the reaction of alpha-bromoacteone produced in situ using bromine in dry acetone in the presence of triethylamine.
+C1 [Saeed, Aamer; Rafique, Hummera] Quaid I Azam Univ, Dept Chem, Islamabad, Pakistan.
+RP Saeed, A (reprint author), Quaid I Azam Univ, Dept Chem, Islamabad, Pakistan.
+EM aamersaeed@yahoo.com
+RI Saeed, Aamer/N-9879-2019; Saeed, Aamer/D-6610-2014; Saeed Bhatti,
+   Aamer/H-6770-2015
+OI Saeed, Aamer/0000-0002-7112-9296; Saeed, Aamer/0000-0002-7112-9296; 
+CR Amin KM, 2008, BIOORGAN MED CHEM, V16, P5377, DOI 10.1016/j.bmc.2008.04.021
+   BENSIMON G, 1994, NEW ENGL J MED, V330, P585, DOI 10.1056/NEJM199403033300901
+   BOYCE RJ, 1994, TETRAHEDRON LETT, V35, P5705, DOI 10.1016/S0040-4039(00)77284-4
+   Cetinkaya E., 1995, ARZNEIM FORSCH DRUG, V45, P1331
+   CHAUDHARY M, 1976, SCIENCES, V65, P443
+   Fahmy HTY, 2002, PHARMAZIE, V57, P800
+   Fillippone P., 2003, TETRAHEDRON LETT, V44, P8391
+   FOSCOLOS G, 1977, ANN PHARM FR, V35, P295
+   Hutchinson I, 2002, J MED CHEM, V45, P744, DOI 10.1021/jm011025r
+   Jimonet P, 1999, J MED CHEM, V42, P2828, DOI 10.1021/jm980202u
+   Kucukguzel G, 2006, EUR J MED CHEM, V41, P353, DOI 10.1016/j.ejmech.2005.11.005
+   Lai JY, 1996, TETRAHEDRON LETT, V37, P7167, DOI 10.1016/0040-4039(96)01616-4
+   Maeda R., 1977, United State Patent, US, Patent No. [4, 018, 785, 4018785]
+   OMAR AMME, 1984, J PHARM SCI, V73, P1166, DOI 10.1002/jps.2600730837
+   Paget C. J., 1969, J MED CHEM, V12, P1061
+   Piscitelli F, 2010, BIOORG MED CHEM LETT, V20, P644, DOI 10.1016/j.bmcl.2009.11.055
+   Ragab F. A., 1993, J PHARM SCI, V34, P387
+   Rooney C. S., 1980, United States Patent, US, Patent No. [4, 181, 661, 4181661]
+   Saeed A., 2008, PHARM CHEM J, V42, P191, DOI DOI 10.1007/S11094-008-0094-X
+   Saeed A, 2011, Z NATURFORSCH B, V66, P512, DOI 10.5560/ZNB.2011.66b0512
+   Saeed A, 2010, J FLUORINE CHEM, V131, P333, DOI 10.1016/j.jfluchem.2009.11.005
+   SAWHNEY SN, 1978, INDIAN J CHEM B, V16, P605
+   Shih MH, 2004, BIOORGAN MED CHEM, V12, P4633, DOI 10.1016/j.bmc.2004.06.033
+   Shirke V. G., 1990, INDIAN DRUGS, V27, P350
+   Sihgh S. P., 1981, CHEM PHARM BULL, V81, P197
+   Thanh N. D., 2012, E-J CHEM, V9, P55
+   Ulusoy N., 2002, ARZNEIM FORSCH DRUG, V52, P565
+   Vittoria D. M., 1992, J MED CHEM, V35, P2910
+   Walton MI, 2005, MOL CANCER THER, V4, P1369, DOI 10.1158/1535-7163.MCT-04-0341
+   WERBEL LM, 1972, J MED CHEM, V15, P955, DOI 10.1021/jm00279a020
+   WIPF P, 1994, TETRAHEDRON LETT, V35, P5397, DOI 10.1016/S0040-4039(00)73509-X
+NR 31
+TC 0
+Z9 0
+U1 0
+U2 3
+PU SCIENTIFIC TECHNICAL RESEARCH COUNCIL TURKEY-TUBITAK
+PI ANKARA
+PA ATATURK BULVARI NO 221, KAVAKLIDERE, TR-06100 ANKARA, TURKEY
+SN 1300-0527
+J9 TURK J CHEM
+JI Turk. J. Chem.
+PY 2013
+VL 37
+IS 6
+BP 909
+EP 916
+DI 10.3906/kim-1212-26
+PG 8
+WC Chemistry, Multidisciplinary; Engineering, Chemical
+SC Chemistry; Engineering
+GA 251NM
+UT WOS:000326936200006
+OA Bronze
+DA 2019-11-19
+ER
+
+PT J
+AU Iqbal, J
+   Read, JJ
+   Whisler, FD
+AF Iqbal, Javed
+   Read, John J.
+   Whisler, Frank D.
+TI USING REMOTE SENSING AND SOIL PHYSICAL PROPERTIES FOR PREDICTING THE
+   SPATIAL DISTRIBUTION OF COTTON LINT YIELD
+SO TURKISH JOURNAL OF FIELD CROPS
+LA English
+DT Article
+DE Alluvial soils; Degree days; Precision agriculture; Soil texture;
+   Volumetric water content
+ID CANOPY REFLECTANCE; VEGETATION INDEXES; GROWTH; WATER; MAIZE; NDVI
+AB This field crop research study addresses the potential of image based remote sensing to provide spatially and temporally distributed information on timely basis for site-specific cotton crop management. Universal applicability of site specific crop management is hampered by lack of timely distributed and economically feasible information on soils and crop conditions in the field and their interaction. The objectives of this study were to demonstrate (1) how site-specific lint yield and associated soil physical properties in a cotton (Gossypium hirsutum L) production field are related to changes in NDVI across the growing season, and (2) when multispectral images should be collected to optimize the cost and efficiency of remote sensing as a tool for site-specific management of the cotton crop. Temporal multispectral images data acquired comprised 10 dates (1998) and 17 dates (1999) during growing seasons, respectively with analysis focused on 24 areas of interest (AOI) (each 2 x 8 m) located in two transects on a 162-ha farm field. Along each transect, soil textural classification ranged from sandy loam to silt loam. At an early growth stage [similar to 300-600 degree days (DDs) after emergence], low NDVI and plant density were associated with soils having low saturated hydraulic conductivity (k(s)) and characterized as drainage ways. Among the AOI's, maximal NDVI was reached at approximately 1565 DD in 1998 and 1350 DD in 1999. A strong range of Pearson correlation (r(2)=0.65 - 0.83) between lint yield and NDVI during flowering stage (similar to 800-1500 DDs) supports the utility of NDVI maps for site-specific application. However, values for NDVI did not correlate well with lint yields beyond 1500 DDs [fruit (boll) opening stage] and decreased sharply on sites with sandy soil texture. Visual separation of seasonal trends in the NDVI vs. DD relationship was also related to sandy soil vs. silt loam soil texture and seasonal rainfall difference between years. Based on the statistical relationship between NDVI vs. DD it was concluded that acquisition of a single imagery during peak bloom period would be sufficient for predicting the spatial distribution of lint yield and will also be economically feasible. Results of this study indicate that spatial variability in soil physical properties induced variability in crop growth and yield. Similar methodology could be adopted for site-specific management of other crops.
+C1 [Iqbal, Javed] Natl Univ Sci & Technol, Sch Civil & Environm Engn, Inst Geog Informat Syst, Islamabad, Pakistan.
+   [Read, John J.] Agr Res Serv2, USDA, Genet & Precis Agr Res Unit, Oxford, MS USA.
+   [Whisler, Frank D.] Mississippi State Univ, Dept Plant & Soil Sci, Mississippi State, MS USA.
+RP Iqbal, J (reprint author), Natl Univ Sci & Technol, Sch Civil & Environm Engn, Inst Geog Informat Syst, Islamabad, Pakistan.
+EM javed@igis.nust.edu.pk
+FU National Aeronautical and Space AdministrationNational Aeronautics &
+   Space Administration (NASA) [NCC13-99001]
+FX This study was in part supported by The National Aeronautical and Space
+   Administration-funded Geosystems Research Institute (formerly Remote
+   Sensing Technology Center) at Mississippi State University (NASA grant
+   number NCC13-99001). The excellent technical assistance of Kim Gourley
+   and Sam Turner (USDA, Agricultural Research Service) is greatly
+   appreciated.
+CR Basso B, 2012, EUR J AGRON, V41, P52, DOI 10.1016/j.eja.2012.03.007
+   Boken VK, 2005, INT J REMOTE SENS, V26, P3877, DOI 10.1080/01431160500292478
+   Bronson KF, 2005, AGRON J, V97, P654, DOI 10.2134/agronj2004.0093
+   Duchemin B, 2006, AGR WATER MANAGE, V79, P1, DOI 10.1016/j.agwat.2005.02.013
+   ERDAS, 1997, ERDAS IM VER 8 5
+   ESRI, 1998, ARCVIEWGIS VER 3 2
+   Flowers M, 2001, AGRON J, V93, P783, DOI 10.2134/agronj2001.934783x
+   GEE GW, 1986, AGRONOMY, V9, P383, DOI DOI 10.2136/SSSAB00KSER5.1.2ED.C15
+   Guerif M, 2000, AGR ECOSYST ENVIRON, V81, P57, DOI 10.1016/S0167-8809(00)00168-7
+   HATFIELD JL, 2008, AGRON J, V100, P117, DOI DOI 10.2134/AGR0NJ2006.0370C
+   Hochman Z, 2013, EUR J AGRON, V44, P109, DOI 10.1016/j.eja.2011.11.003
+   Iqbal J, 2005, SOIL SCI SOC AM J, V69, P1338, DOI 10.2136/sssaj2004.0154
+   Jury W.A, 1991, SOIL PHYS
+   Kastens JH, 2005, REMOTE SENS ENVIRON, V99, P341, DOI 10.1016/j.rse.2005.09.010
+   Klute A., 1986, AGRONOMY, P687, DOI DOI 10.2136/SSSAB00KSER5.1.2ED.C28
+   Klute A., 1965, AGRONOMY, V9, P635, DOI DOI 10.2136/SSSABOOKSER5.1.2ED.C26
+   Li H, 2001, AGRON J, V93, P1327, DOI 10.2134/agronj2001.1327
+   Lofton J, 2012, SENSORS-BASEL, V12, P7529, DOI 10.3390/s120607529
+   Plant RE, 2000, T ASAE, V43, P535, DOI 10.13031/2013.2733
+   RABENHORST MC, 1988, SOIL SCI SOC AM J, V52, P965, DOI 10.2136/sssaj1988.03615995005200040012x
+   Reddy K. R., 1993, Biotronics, V22, P47
+   Ritchie GL, 2005, J COTTON SCI, V9, P182
+   Shaver TM, 2011, PRECIS AGRIC, V12, P892, DOI 10.1007/s11119-011-9229-2
+   TURNER NC, 1986, FIELD CROP RES, V14, P153, DOI 10.1016/0378-4290(86)90054-7
+   USDA-NRCS, 1951, USDA NAT RES CONS SE, V5
+   Wall L, 2008, INT J REMOTE SENS, V29, P2211, DOI 10.1080/01431160701395252
+   WIEGAND CL, 1991, REMOTE SENS ENVIRON, V35, P105, DOI 10.1016/0034-4257(91)90004-P
+   Winterhalter L, 2011, EUR J AGRON, V35, P22, DOI 10.1016/j.eja.2011.03.004
+   Yang Chenghai, 2004, Precision Agriculture, V5, P445, DOI 10.1007/s11119-004-5319-8
+   Zhang H, 2012, T ASABE, V55, P275
+   Zhao DL, 2007, EUR J AGRON, V26, P335, DOI 10.1016/j.eja.2006.12.001
+NR 31
+TC 5
+Z9 5
+U1 0
+U2 14
+PU SOC FIELD CROP SCI
+PI BORNOVA
+PA EGE UNIV ZIRAAT FAK TARLA, BITKILERI BOLUMU, BORNOVA, IZMIR 35100,
+   TURKEY
+SN 1301-1111
+J9 TURK J FIELD CROPS
+JI Turk. J. Field Crops
+PY 2013
+VL 18
+IS 2
+BP 158
+EP 165
+PG 8
+WC Agronomy
+SC Agriculture
+GA 295BG
+UT WOS:000330091000005
+DA 2019-11-19
+ER
+
+PT J
+AU Rathor, HR
+   Nadeem, G
+   Khan, IA
+AF Rathor, Hamayun Rashid
+   Nadeem, Ghazala
+   Khan, Imtinan Akram
+TI Pesticide Susceptibility Status of Anopheles Mosquitoes in Four
+   Flood-Affected Districts of South Punjab, Pakistan
+SO VECTOR-BORNE AND ZOONOTIC DISEASES
+LA English
+DT Article
+DE Anopheles; Flood; Insecticide; Pakistan; Pesticide resistance;
+   Susceptibility
+ID STEPHENSI
+AB Recent floods drastically increased the burden of disease, in particular the incidence of malaria, in the southern districts of the Punjab province in Pakistan. Control of malaria vector mosquitoes in these districts requires the adoption of an appropriate evidence-based policy on the use of pesticides, and having the latest information on the insecticide resistance status of malaria vector mosquitoes is essential for designing effective disease prevention policy. Using World Health Organization (WHO) test kits, the present study utilized papers impregnated with DDT, malathion, deltamethrin, lambda-cyhalothrin, and permethrin, to determine the insecticide susceptibility/resistance status of malaria vector mosquitoes in four flood-affected districts. The test results showed that both Anopheles stephensi and Anopheles culicifacies remained resistant to DDT and malathion. Tests with three commonly used pyrethroids, permethrin, lambda-cyhalothrin, and deltamethrin, detected resistance in the majority of cases, but in a number of localities mortalities with these three pyrethroids ranged from 80-97% and were therefore placed under verification-required status. This status indicates the presence of susceptible individuals in these populations. These results suggest that if appropriate resistance management strategies are applied in these areas, then the development of high levels of resistance can still be prevented or slowed. This study forms an important evidence base for the strategic planning of vector control in the four flood-affected districts.
+C1 [Rathor, Hamayun Rashid; Khan, Imtinan Akram] Hlth Serv Acad, Islamabad 44000, Capital Territo, Pakistan.
+   [Nadeem, Ghazala] NIMRT, Lahore, Pakistan.
+RP Rathor, HR (reprint author), Hlth Serv Acad, Opposite NIH, Islamabad 44000, Capital Territo, Pakistan.
+EM hamayun_r@hotmail.com
+CR [Anonymous], 2008, GLOB MAL ACT PLAN MA, P13
+   Aslam K, 1971, MOSQ SYST NEWSLETTER, V3, P147
+   Joint FAO/WHO Expert Committee on Food Additives, 2006, World Health Organ Tech Rep Ser, V930, P1
+   Malaria vector control in Africa, 2001, EM PREV CONTR STRAT
+   Ministry of Health Directorate of Malaria Control, 2009, MON INS RES MAL VECT
+   RATHOR H R, 1980, Southeast Asian Journal of Tropical Medicine and Public Health, V11, P332
+   Rathor H. R., 1996, Eastern Mediterranean Health Journal, V2, P61
+   Rathor H.R., 1985, Pakistan Journal of Zoology, V17, P35
+   RATHOR HR, 1980, MOSQ NEWS, V40, P526
+   Rathor HR, 1983, PAKISTAN J MED RES, V22, P25
+   Sylvie C, 2007, MALARIA J, V6, P75
+   Tiwari S, 2010, MALARIA J, V9, DOI 10.1186/1475-2875-9-179
+   WHO, 2010, WORLD MAL REP 2010
+   World Health Organization, 2008, EXP M REV TOX ASP ME, P1
+   World Health Organization, 2011, WORLD MAL REP 2011
+   World Health Organization, 1998, WHOCDSCPCMAL9812
+   World Health Organization, 2005, WHOMAL951073
+   World Health Organization (WHO), 2004, WHO SCI GROUP ASS OS, P5, DOI DOI 10.1016/S0140-6736(02)08761-5
+NR 18
+TC 8
+Z9 8
+U1 0
+U2 15
+PU MARY ANN LIEBERT, INC
+PI NEW ROCHELLE
+PA 140 HUGUENOT STREET, 3RD FL, NEW ROCHELLE, NY 10801 USA
+SN 1530-3667
+EI 1557-7759
+J9 VECTOR-BORNE ZOONOT
+JI Vector-Borne Zoonotic Dis.
+PD JAN
+PY 2013
+VL 13
+IS 1
+BP 60
+EP 66
+DI 10.1089/vbz.2012.1055
+PG 7
+WC Public, Environmental & Occupational Health; Infectious Diseases
+SC Public, Environmental & Occupational Health; Infectious Diseases
+GA 069KD
+UT WOS:000313433600010
+PM 23199276
+DA 2019-11-19
+ER
+
+PT J
+AU Jan, MA
+   Khanum, RA
+AF Jan, Muhammad Asif
+   Khanum, Rashida Adeeb
+TI A study of two penalty-parameterless constraint handling techniques in
+   the framework of MOEA/D
+SO APPLIED SOFT COMPUTING
+LA English
+DT Article
+DE Constrained multiobjective optimization; Constraint-domination
+   principle; Decomposition; MOEA/D; Stochastic ranking
+ID GENETIC LOCAL SEARCH; MULTIOBJECTIVE OPTIMIZATION; EVOLUTIONARY
+   ALGORITHM; PERFORMANCE ASSESSMENT
+AB Penalty functions are frequently employed for handling constraints in constrained optimization problems (COPs). In penalty function methods, penalty coefficients balance objective and penalty functions. However, finding appropriate penalty coefficients to strike the right balance is often very hard. They are problems dependent. Stochastic ranking (SR) and constraint-domination principle (CDP) are two promising penalty functions based constraint handling techniques that avoid penalty coefficients. In this paper, the extended/modified versions of SR and CDP are implemented for the first time in the multiobjective evolutionary algorithm based on decomposition (MOEA/D) framework. This led to two new algorithms, CMOEA/D-DE-SR and CMOEA/D-DE-CDP. The performance of these new algorithms is tested on CTP-series and CF-series test instances in terms of the HV-metric, IGD-metric, and SC-metric. The experimental results are compared with NSGA-II, IDEA, and the three best performers of CEC 2009 MOEA competition, which showed better and competitive performance of the proposed algorithms on most test instances of the two test suits. The sensitivity of the performance of proposed algorithms to parameters is also investigated. The experimental results reveal that CDP works better than SR in the MOEA/D framework. (C) 2012 Elsevier B. V. All rights reserved.
+C1 [Jan, Muhammad Asif] KUST, Dept Math, Kohat 26000, Khyber Pakhtunk, Pakistan.
+   [Khanum, Rashida Adeeb] Univ Essex, Dept Math Sci, Colchester CO4 3SQ, Essex, England.
+RP Jan, MA (reprint author), KUST, Dept Math, Kohat 26000, Khyber Pakhtunk, Pakistan.
+EM janmathpk@gmail.com; rakhan@essex.ac.uk
+CR Das I, 1998, SIAM J OPTIMIZ, V8, P631, DOI 10.1137/S1052623496307510
+   Deb K, 2000, COMPUT METHOD APPL M, V186, P311, DOI 10.1016/S0045-7825(99)00389-8
+   Deb K, 2001, LECT NOTES COMPUT SC, V1993, P284
+   Deb K, 2002, IEEE T EVOLUT COMPUT, V6, P182, DOI 10.1109/4235.996017
+   Deb K., 2001, MULTIOBJECTIVE OPTIM
+   Fonseca C., 1993, P 5 INT C GEN ALG, V423, P416
+   Gass S., 1955, NAV RES LOG, V2, P39, DOI DOI 10.1002/NAV.3800020106
+   Horn J., 1994, P 1 IEEE C EV COMP I, P82, DOI DOI 10.1109/ICEC.1994.350037
+   Hughes EJ, 2003, IEEE C EVOL COMPUTAT, P2678
+   Ishibuchi H, 1998, IEEE T SYST MAN CY C, V28, P392, DOI 10.1109/5326.704576
+   Jaszkiewicz A, 2002, IEEE T EVOLUT COMPUT, V6, P402, DOI 10.1109/TEVC.2002.802873
+   KNOWLES JD, 1999, IEEE INT C EV COMP, P98
+   Leung YW, 2000, IEEE T SYST MAN CY C, V30, P293, DOI 10.1109/5326.885111
+   Li H., 2008, THESIS U ESSEX, VUniversity of Essex, P2008
+   Li H, 2009, IEEE T EVOLUT COMPUT, V13, P284, DOI 10.1109/TEVC.2008.925798
+   Liu HL, 2009, IEEE C EVOL COMPUTAT, P1928, DOI 10.1109/CEC.2009.4983176
+   Liu MZ, 2009, IEEE C EVOL COMPUTAT, P2913, DOI 10.1109/CEC.2009.4983309
+   Messac A, 2003, STRUCT MULTIDISCIP O, V25, P86, DOI 10.1007/s00158-002-0276-1
+   Miettinen K., 1999, NONLINEAR MULTIOBJEC
+   Murata T, 2001, LECT NOTES COMPUT SC, V1993, P82
+   Okabe T, 2003, IEEE C EVOL COMPUTAT, P878
+   Price K. V., 2005, DIFFERENTIAL EVOLUTI
+   Ray T, 2009, STUD COMPUT INTELL, V198, P145
+   Runarsson TP, 2000, IEEE T EVOLUT COMPUT, V4, P284, DOI 10.1109/4235.873238
+   Steuer R., 1986, MULTIPLE CRITERIA OP, V233
+   Tseng LY, 2009, IEEE C EVOL COMPUTAT, P1951, DOI 10.1109/CEC.2009.4983179
+   Van Veldhuizen D. A., 1999, EVOLUTIONARY COMPUTA
+   ZADEH LA, 1963, IEEE T AUTOMAT CONTR, VAC 8, P59, DOI 10.1109/TAC.1963.1105511
+   Zhang Q., 2008, CES487 U ESS NAN TU
+   Zhang Q, 2008, SPEC SESS PERF ASS M
+   Zhang QF, 2007, IEEE T EVOLUT COMPUT, V11, P712, DOI 10.1109/TEVC.2007.892759
+   Zitzler E, 2003, IEEE T EVOLUT COMPUT, V7, P117, DOI 10.1109/TEVC.2003.810758
+   Zitzler E, 1998, LECT NOTES COMPUT SC, V1498, P292
+   Zitzler E., 2002, EVOLUTIONARY METHODS, P95
+NR 34
+TC 37
+Z9 43
+U1 2
+U2 25
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1568-4946
+J9 APPL SOFT COMPUT
+JI Appl. Soft. Comput.
+PD JAN
+PY 2013
+VL 13
+IS 1
+BP 128
+EP 148
+DI 10.1016/j.asoc.2012.07.027
+PG 21
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Interdisciplinary Applications
+SC Computer Science
+GA 042XY
+UT WOS:000311506900010
+DA 2019-11-19
+ER
+
+PT J
+AU Javed, T
+   Ali, N
+   Abbas, Z
+   Sajid, M
+AF Javed, Tariq
+   Ali, Nasir
+   Abbas, Zaheer
+   Sajid, Muhammad
+TI Flow of an Eyring-Powell Non-Newtonian Fluid over a Stretching Sheet
+SO CHEMICAL ENGINEERING COMMUNICATIONS
+LA English
+DT Article
+DE Boundary layer flow; Eyring-Powell model; Keller box method;
+   Non-Newtonian fluid; Numerical solution; Stretching sheet
+ID VISCOELASTIC FLUID; HEAT-TRANSFER; MICROPOLAR FLUID; MASS-TRANSFER;
+   LIQUID-FILM; MHD FLOW; 2ND-GRADE; CONVECTION; SURFACE
+AB This article is devoted to the study of the boundary layer flow of a non-Newtonian fluid over a stretching sheet. The non-Newtonian behavior of the fluid is characterized by the constitutive equation due to Powell and Eyring (1944). A second-order approximation of the Eyring-Powell model is used to obtain the flow equations. A local similarity solution of the governing problem is obtained numerically using an implicit finite difference scheme known as the Keller box method. The influence of pertinent non-Newtonian fluid parameters M and lambda on the velocity and skin-friction coefficient is analyzed through graphical and tabular results.
+C1 [Abbas, Zaheer] Islamia Univ Bahawalpur, Dept Math, Bahawalpur 63100, Pakistan.
+   [Javed, Tariq; Ali, Nasir] Int Islamic Univ, Dept Math & Stat, Islamabad, Pakistan.
+   [Sajid, Muhammad] PINSTECH, Theoret Plasma Phys Div, Islamabad, Pakistan.
+RP Abbas, Z (reprint author), Islamia Univ Bahawalpur, Dept Math, Bahawalpur 63100, Pakistan.
+EM za_qau@yahoo.com
+RI Sajid, Muhammad/G-2075-2015; ali, nasir/F-9122-2015; Abbas,
+   Zaheer/I-7279-2015
+FU Abdus Salam International Centre for Theoretical Physics, Trieste, Italy
+FX We are thankful to the anonymous reviewers for useful comments to
+   improve the final version of the article. One of the authors, M. Sajid,
+   acknowledges the support from Abdus Salam International Centre for
+   Theoretical Physics, Trieste, Italy.
+CR Abd El-Aziz M, 2010, CAN J PHYS, V88, P607, DOI 10.1139/P10-043
+   Alizadeh-Pahlavan A, 2009, COMMUN NONLINEAR SCI, V14, P1355, DOI 10.1016/j.cnsns.2008.03.001
+   BRADY JF, 1981, J FLUID MECH, V112, P127, DOI 10.1017/S0022112081000323
+   Cebeci T., 1988, PHYS COMPUTATIONAL A
+   Cortell R, 2006, INT J NONLINEAR MECH, V41, P78, DOI 10.1016/j.ijnonlinmec.2005.04.008
+   CORTELL R, 1994, INT J NONLINEAR MECH, V29, P155, DOI 10.1016/0020-7462(94)90034-5
+   Cortell R, 2007, CHEM ENG PROCESS, V46, P721, DOI 10.1016/j.cep.2006.09.008
+   CRANE LJ, 1970, Z ANGEW MATH PHYS, V21, P645, DOI 10.1007/BF01587695
+   DANDAPAT BS, 1989, INT J NONLINEAR MECH, V24, P215, DOI 10.1016/0020-7462(89)90040-1
+   Eldabe NTM, 2003, Z NATURFORSCH A, V58, P204
+   GUPTA PS, 1977, CAN J CHEM ENG, V55, P744, DOI 10.1002/cjce.5450550619
+   Hayat T, 2008, PHYS LETT A, V372, P637, DOI 10.1016/j.physleta.2007.08.006
+   Hayat T, 2007, INT J HEAT MASS TRAN, V50, P931, DOI 10.1016/j.ijheatmasstransfer.2006.08.014
+   Hayat T, 2006, PHYS LETT A, V358, P396, DOI 10.1016/j.physleta.2006.04.117
+   MCLEOD JB, 1987, ARCH RATION MECH AN, V98, P385, DOI 10.1007/BF00276915
+   Nazar R, 2004, INT J NONLIN MECH, V39, P1227, DOI [10.1016/j.ijnonlinmec.2003.08.007, 10.1016/j.ijnonlinemec.2003.08.007]
+   Powell RE, 1944, NATURE, V154, P427, DOI 10.1038/154427a0
+   RAJAGOPAL KR, 1984, RHEOL ACTA, V23, P213, DOI 10.1007/BF01332078
+   Siddappa B., 1976, Revue Roumaine des Sciences Techniques, Serie de Mecanique Appliquee, V21, P497
+   SIDDAPPA B, 1985, Z ANGEW MATH PHYS, V36, P890, DOI 10.1007/BF00944900
+   Steff JF., 1996, RHEOLOGICAL METHODS
+   USHA R, 1995, J FLUID ENG-T ASME, V117, P81, DOI 10.1115/1.2816830
+   Vajravelu K, 1999, INT J NONLINEAR MECH, V34, P1031, DOI 10.1016/S0020-7462(98)00073-0
+   Wang C, 2006, J NON-NEWTON FLUID, V138, P161, DOI 10.1016/j.jnnfm.2006.05.011
+   WANG CY, 1990, Q APPL MATH, V48, P601, DOI 10.1090/qam/1079908
+   WANG CY, 1984, PHYS FLUIDS, V27, P1915, DOI 10.1063/1.864868
+   WANG CY, 1988, PHYS FLUIDS, V31, P466, DOI 10.1063/1.866827
+   Zueco J., 2009, INT J APPL MATH MECH, V5, P1
+NR 28
+TC 57
+Z9 58
+U1 0
+U2 11
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0098-6445
+EI 1563-5201
+J9 CHEM ENG COMMUN
+JI Chem. Eng. Commun.
+PY 2013
+VL 200
+IS 3
+BP 327
+EP 336
+DI 10.1080/00986445.2012.703151
+PG 10
+WC Engineering, Chemical
+SC Engineering
+GA 045KD
+UT WOS:000311693800002
+DA 2019-11-19
+ER
+
+PT J
+AU Mahmood, T
+   Jami, SI
+   Shaikh, ZA
+   Mughal, MH
+AF Mahmood, Tariq
+   Jami, Syed Imran
+   Shaikh, Zubair Ahmed
+   Mughal, Muhammad Hussain
+TI Toward the modeling of data provenance in scientific publications
+SO COMPUTER STANDARDS & INTERFACES
+LA English
+DT Article
+DE Data provenance; Scientific publication; Open Provenance Model (OPM);
+   Knowledge management; Semantic interoperability
+ID E-SCIENCE
+AB In this paper, we implement a provenance-aware system for documenting publications, called PADS. It employs a three-layered provenance hierarchy, which can output diverse types of provenance data related to the research life cycle. From this, we generate different profiles for research ventures, reviewers, and authors. PADS employs the standard Open Provenance Model (OPM) specification for capturing provenance data, and stores this data as ontological instances. We show that data is retrieved without any apparent delay in the execution time of the queries. We also demonstrate how this data can be used to make useful recommendations to the organizers, in order to manage upcoming research ventures. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Mahmood, Tariq; Jami, Syed Imran; Shaikh, Zubair Ahmed; Mughal, Muhammad Hussain] NUCES, Ctr Res Ubiquitous Comp, Karachi, Pakistan.
+RP Jami, SI (reprint author), NUCES, Ctr Res Ubiquitous Comp, Karachi, Pakistan.
+EM tariq.mahmood@nu.edu.pk; imran.jami@nu.edu.pk; zubair.shaikh@nu.edu.pk;
+   muhammad.hussain@nu.edu.pk
+FU Higher Education Commission of PakistanHigher Education Commission of
+   Pakistan; Center for Research in Ubiquitous Computing (CRUC), NUCES,
+   Karachi, Pakistan
+FX This work is sponsored in part by the Higher Education Commission of
+   Pakistan, and by the Center for Research in Ubiquitous Computing (CRUC),
+   NUCES, Karachi, Pakistan, to which the authors are associated.
+CR Bouguettaya A., 2008, 2008 CSIRO ICT CTR C
+   Foster I., 2002, P 14 INT C SCI STAT
+   Frey J, 2006, LECT NOTES COMPUT SC, V4145, P270
+   Glavic B., 2007, LECT NOTES INFORM LN
+   Groth M.L.P., 2004, P 8 INT C PRINC DIST
+   Groth P, 2006, ARCHITECTURE PROVENA
+   Han J, 2006, DATA MINING CONCEPTS
+   Hartig O., 2009, 2 WORKSH LINK DAT WE
+   Hunter J, 2007, INT J DIGIT LIBRARIE, V7, P99, DOI 10.1007/s00799-007-0018-5
+   Lord Phillip, 2004, W3C WORKSH SEM WEB L
+   Miles Simon, 2007, Journal of Grid Computing, V5, P1, DOI 10.1007/s10723-006-9055-3
+   Miles S, 2007, J WEB SEMANT, V5, P28, DOI 10.1016/j.websem.2006.11.003
+   MOREAU L, 2009, OPEN PROVENANCE MODE
+   Moreau L., 2007, CONCURR COMP-PRACT E, V20, P409, DOI DOI 10.1002/CPE.1233
+   Moreau L, 2011, FUTURE GENER COMP SY, V27, P743, DOI 10.1016/j.future.2010.07.005
+   Muniswamy-Reddy K.K., 2006, ANN C USENIX 06 ANN
+   Russell S.J., 2009, ARTIFICIAL INTELLIGE
+   Simmhan YL, 2005, SIGMOD RECORD, V34, P31, DOI 10.1145/1084805.1084812
+   Simmhan YL, 2008, INT J WEB SERV RES, V5, P1, DOI 10.4018/jwsr.2008040101
+   Simmhan YL, 2008, CONCURR COMP-PRACT E, V20, P441, DOI 10.1002/cpe.1229
+   STEVENS R, 2003, BIOINFORMATICS, V19, P302
+   Widom J., 2005, TRIO SYSTEM INTEGRAT
+   Wood I, 2009, LECT NOTES COMPUT SC, V5667, P112, DOI 10.1007/978-3-642-04205-8_11
+NR 23
+TC 2
+Z9 2
+U1 0
+U2 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0920-5489
+J9 COMPUT STAND INTER
+JI Comput. Stand. Interfaces
+PD JAN
+PY 2013
+VL 35
+IS 1
+BP 6
+EP 29
+DI 10.1016/j.csi.2012.02.004
+PG 24
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+SC Computer Science
+GA 043EG
+UT WOS:000311525100002
+DA 2019-11-19
+ER
+
+PT J
+AU Abawajy, JH
+   Jami, SI
+   Shaikh, ZA
+   Hammad, SA
+AF Abawajy, Jemal H.
+   Jami, Syed I.
+   Shaikh, Zubair A.
+   Hammad, Syed A.
+TI A framework for scalable distributed provenance storage system
+SO COMPUTER STANDARDS & INTERFACES
+LA English
+DT Article
+DE Provenance model; Metadata storage; Patricia trie; Provenance
+   information system
+AB In this paper we propose an efficient and scalable storage model and lookup for provenance logs. The proposed system exploits the loosely coupled structure of the provenance logs by separating metadata from the generating process to manage large datasets with good scalability. In addition, the system utilizes the trie based lookup table to greatly improve the provenance data lookup time. Performance results on thousands of graph logs show that our prototype implementation can effectively handle logs without any resource over-utilization, thus leading to good scalability. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Abawajy, Jemal H.] Deakin Univ, Sch Informat Technol, Melbourne, Vic, Australia.
+   [Jami, Syed I.; Shaikh, Zubair A.] DHA Suffa Univ, Karachi, Pakistan.
+   [Hammad, Syed A.] Natl Univ Comp & Emerging Sci, Dept Comp Sci, Karachi, Pakistan.
+RP Abawajy, JH (reprint author), Deakin Univ, Sch Informat Technol, Melbourne, Vic, Australia.
+EM jemal.abawajy@deakin.edu.au
+RI Abawajy, Jemal/A-1802-2008
+FU Higher Education Commission of PakistanHigher Education Commission of
+   Pakistan
+FX This work is in part sponsored by Higher Education Commission of
+   Pakistan through its indigenous PhD program. The authors also
+   acknowledge Center for Research in Ubiquitous Computing (CRUC), National
+   University, Karachi and Network Computing and System Security Research
+   Group, Deakin University, Melbourne to which authors are associated.
+   Also, the help of Maliha Omar is greatly appreciated.
+CR Badoiu M., 2004, DISTRIBUTED PROVENAN
+   Barga R.S., 2007, CONCURRENCY AND COMP, V20, P419
+   Bose R, 2002, 14TH INTERNATIONAL CONFERENCE ON SCIENTIFIC AND STATISTICAL DATABASE MANAGEMENT, PROCEEDINGS, P15, DOI 10.1109/SSDM.2002.1029701
+   Buneman P., 2006, 2006 ACM SIGMOD INTE
+   Chapman A.P., 2008, 2008 ACM SIGMOD INTE
+   Corcoran B.J., 2007, WORKSHOP ON PRINCIPL
+   Foster I., 2002, 14TH INTERNATIONAL C
+   Groth P, 2005, LECT NOTES COMPUT SC, V3544, P124
+   Groth P., 2005, UK OST E SCIENCE FOU
+   Jami S.I, 2009, PROCEEDINGS OF 10TH
+   Jayapandian M, 2007, NUCLEIC ACIDS RES, V35, pD566, DOI 10.1093/nar/gkl859
+   Karim A., 2006, THE 24TH IASTED INTE
+   Kifor T, 2006, IEEE INTELL SYST, V21, P38, DOI 10.1109/MIS.2006.119
+   Knuth D.E., 1973, SORTING AND SEARCHIN, V3
+   McGuinness D. L., 2003, IEEE DATA ENG B, V26, P26
+   MOREAU L, 2009, OPEN PROVENANCE MODE
+   Muniswamy-Reddy K.K., 2006, ANNUAL CONFERENCE ON
+   Nejdl W., 2002, 11TH WORLD WIDE WEB
+   Simmhan YL, 2005, SIGMOD RECORD, V34, P31, DOI 10.1145/1084805.1084812
+   Simmhan YL, 2008, CONCURR COMP-PRACT E, V20, P441, DOI 10.1002/cpe.1229
+   SZPANKOWSKI W, 1990, J ACM, V37, P691, DOI 10.1145/96559.214080
+   Wang L, 2010, INT J INNOV COMPUT I, V6, P3219
+   Widorn J., 2005, TRIO A SYSTEM FOR IN
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0920-5489
+J9 COMPUT STAND INTER
+JI Comput. Stand. Interfaces
+PD JAN
+PY 2013
+VL 35
+IS 1
+BP 179
+EP 186
+DI 10.1016/j.csi.2012.07.001
+PG 8
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+SC Computer Science
+GA 043EG
+UT WOS:000311525100015
+DA 2019-11-19
+ER
+
+PT J
+AU Shakirullah, M
+   Ahamd, I
+   Zada, N
+   Ishaq, M
+   Ahmad, W
+   Saeed, K
+   Mohammadzai, IU
+AF Shakirullah, Mohammad
+   Ahamd, Imtiaz
+   Zada, Noor
+   Ishaq, Mohammad
+   Ahmad, Waqas
+   Saeed, Khalid
+   Mohammadzai, Imdad Ullah
+TI Thermocatalytic Conversion of Coal Soot to Carbon Nanorods
+SO FULLERENES NANOTUBES AND CARBON NANOSTRUCTURES
+LA English
+DT Article
+DE Soot; metal; thermocatalytic conversion; carbon nanorods; fullerene
+ID HYDROGEN STORAGE; NANOTUBES; CATALYSTS
+AB In the current investigation, an attempt was made to prepare carbon nanorods (CNRs) thermocatalytically from coal soot. The pristine soot was characterized to determine the level of various physicochemical parameters such as ash, moisture, volatile matter and fixed carbon, surface area, pore volume, and pore diameter. The soot sample was heated at 800 degrees C in inert atmosphere in the presence and absence of powdered iron as a catalyst for different time intervals of 5 hours and 10 hours. Extraction of the nanorods from the carbonized soot was carried out by vat stirring method using chlorobenzene as solvent. The samples were analyzed by Scanning Electron Microscopy (SEM). The results showed that the CNRs aroused from the soot particles have different sizes, arrangements, and surfaces. The average length of the CNRs was 1.00-1.4 mu m and average diameter was 300 +/- 50 nm. The Fourier Transform Infrared Spectroscopic (FT-IR) and UV-Visible Spectrophotometric studies showed that the CNRs structures obtained after 5 hours heating (phi) and 10 hours heating (psi) have similarities to fullerenic materials (C-60 and C-70). The energy dispersive X-Rays (EDX) study revealed that both phi and psi samples contain only carbon and oxygen. The level of carbon was 95.5% in psi, which was higher than that in phi (83.79%). The SEM micrograph of chlorbenzene extract of pristine soot sample heated to 800 degrees C in the absence of iron catalyst showed no evidence of the presence of carbon nanorods. The results showed that the use of iron was beneficial and cost effective for the thermocatalytic conversion of coal soot to carbon nanorods.
+C1 [Shakirullah, Mohammad; Ahamd, Imtiaz; Zada, Noor; Ishaq, Mohammad; Ahmad, Waqas; Saeed, Khalid; Mohammadzai, Imdad Ullah] Univ Peshawar, Inst Chem Sci, Kpk, Pakistan.
+   [Saeed, Khalid] Univ Malakand, Dept Chem, Kpk, Pakistan.
+RP Shakirullah, M (reprint author), Univ Peshawar, Inst Chem Sci, Kpk, Pakistan.
+EM drmshakirullah@yahoo.com
+RI Shakirullah, Mohammad/J-2162-2015; Ahmad, Waqas/C-6190-2014
+OI Ahmad, Waqas/0000-0002-9717-4781
+CR Bandow S, 1997, J PHYS CHEM B, V101, P8839, DOI 10.1021/jp972026r
+   Becher M, 2003, CR PHYS, V4, P1055, DOI 10.1016/S1631-0705(03)00107-5
+   Frackowiak E, 2002, FUEL PROCESS TECHNOL, V77, P213, DOI 10.1016/S0378-3820(02)00078-4
+   Haider S, 2007, SENSOR ACTUAT B-CHEM, V124, P517, DOI 10.1016/j.snb.2007.01.024
+   Shang HY, 2007, FUEL PROCESS TECHNOL, V88, P117, DOI 10.1016/j.fuproc.2004.08.010
+   Kong J, 2000, SCIENCE, V287, P622, DOI 10.1126/science.287.5453.622
+   Levitsky A., 2003, APPL PHYS LETT, V83, P1857
+   Liu C, 1999, SCIENCE, V286, P1127, DOI 10.1126/science.286.5442.1127
+   Liu Q, 2007, CARBON, V45, P268, DOI 10.1016/j.carbon.2006.09.029
+   Liu YQ, 2000, CHEM PHYS LETT, V331, P31, DOI 10.1016/S0009-2614(00)01143-X
+   Qiu JS, 2004, FUEL PROCESS TECHNOL, V85, P1663, DOI 10.1016/j.fuproc.2003.12.010
+   Saeed K, 2007, J APPL POLYM SCI, V104, P1957, DOI 10.1002/app.25902
+   Shakirullah M, 2006, FULLER NANOTUB CAR N, V14, P595, DOI 10.1080/15363830600812134
+   Trepanier M, 2009, FUEL PROCESS TECHNOL, V90, P367, DOI 10.1016/j.fuproc.2008.10.012
+   Wang G, 2011, FUEL PROCESS TECHNOL, V92, P531, DOI 10.1016/j.fuproc.2010.11.008
+   Wang HQ, 2008, COMPOS SCI TECHNOL, V68, P238, DOI 10.1016/j.compscitech.2007.04.012
+   Yoon SH, 2004, CARBON, V42, P21, DOI 10.1016/j.carbon.2003.09.021
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 23
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA
+SN 1536-383X
+J9 FULLER NANOTUB CAR N
+JI Fuller. Nanotub. Carbon Nanostruct.
+PY 2013
+VL 21
+IS 2
+BP 171
+EP 182
+DI 10.1080/1536383X.2011.613537
+PG 12
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA 018YE
+UT WOS:000309703100011
+DA 2019-11-19
+ER
+
+PT J
+AU Tariq, M
+   Muhammad, N
+   Sirajuddin, M
+   Ali, S
+   Shah, NA
+   Khalid, N
+   Tahir, MN
+   Khan, MR
+AF Tariq, Muhammad
+   Muhammad, Niaz
+   Sirajuddin, Muhammad
+   Ali, Saqib
+   Shah, Naseer Ali
+   Khalid, Nasir
+   Tahir, Muhammad Nawaz
+   Khan, Muhammad Rashid
+TI Synthesis, spectroscopic characterization, X-ray structures, biological
+   screenings, DNA interaction study and catalytic activity of
+   organotin(IV) 3-(4-flourophenyl)-2-methylacrylic acid derivatives
+SO JOURNAL OF ORGANOMETALLIC CHEMISTRY
+LA English
+DT Article
+DE Organotin(IV) carboxylate; Antimicrobial activity; Antitumor activity;
+   Cytotoxicity; DNA interaction; Catalytic activity
+ID CRYSTAL-STRUCTURE; METAL-COMPLEXES; RAPESEED OIL; SOYBEAN OIL;
+   TRANSESTERIFICATION; DIORGANOTIN(IV); BIODIESEL; TRIORGANOTIN(IV);
+   POLYMERS; CARBOXYLATES
+AB A series of organotin(IV) carboxylate complexes [Me2SnL2] (1), [Bu2SnL2] (2), [Oct(2)SnL(2)] (3), [Me3SnL] (4), [Bu3SnL] (5) and [Ph3SnL] (6), where L = O2C(CH3)C = CHC6H4F have been successfully synthesized and characterized by FT-IR, NMR (H-1, C-13) and single crystal analysis. The ligand coordinates to tin atom via carboxylate group. Compound 1 and 4 have also been studied by single crystal XRD analysis. The synthesized compounds were screened for their biological activities including anti-bacterial, anti-fungal, anti-tumor and cytotoxicity. The compounds 4-6 exhibit excellent anti-bacterial, anti-fungal and antitumor activities. The ligand binds with DNA double helix by hydrogen bonding between the ligand and the base pairs in DNA typically to N3 of adenine and O2 of thymine as well as partial intercalation of aromatic ring into the base pairs of DNA. The complexes also interact with DNA via intercalation of aromatic ring into the base pairs of DNA. The catalytic activity of compounds 46 was assessed in transesterification of triglycerides in rocket seed oil into biodiesel. The choice of these compounds is the Lewis acid nature of tin atom. The samples were taken in regular interval of 1, 8, 16 and 24 h and % age conversion was determined by H-1 NMR. All the tested compounds showed good catalytic activity in the order 4 > 5 > 6. (C) 2012 Elsevier B. V. All rights reserved.
+C1 [Tariq, Muhammad; Sirajuddin, Muhammad; Ali, Saqib] Quaid I Azam Univ, Dept Chem, Islamabad 45320, Pakistan.
+   [Muhammad, Niaz] Abdul Wali Khan Univ, Dept Chem, Mardan, Pakistan.
+   [Khalid, Nasir] Pakistan Inst Nucl Sci & Technol, Div Chem, Po Nilore, Pakistan.
+   [Shah, Naseer Ali; Khan, Muhammad Rashid] Quaid I Azam Univ, Dept Biochem, Islamabad 45320, Pakistan.
+   [Tahir, Muhammad Nawaz] Univ Sargodha, Dept Phys, Sargodha, Pakistan.
+RP Ali, S (reprint author), Quaid I Azam Univ, Dept Chem, Islamabad 45320, Pakistan.
+EM drsa54@yahoo.com
+RI Tahir, Muhammad Nawaz/F-2900-2015; ali, saqib/F-1313-2015; Sirajuddin,
+   Muhammad/F-4893-2012
+OI Sirajuddin, Muhammad/0000-0002-1147-1284
+FU higher education commission of PakistanHigher Education Commission of
+   Pakistan [074-0616-Ps4-099]
+FX M. Tariq (Pin No. 074-0616-Ps4-099) is thankful to higher education
+   commission of Pakistan for financial support during the present study.
+CR Abreu FR, 2004, J MOL CATAL A-CHEM, V209, P29, DOI 10.1016/j.molcata.2003.08.003
+   Abreu FR, 2003, J AM OIL CHEM SOC, V80, P601, DOI 10.1007/s11746-003-0745-6
+   ADDISON AW, 1984, J CHEM SOC DALTON, P1349, DOI 10.1039/dt9840001349
+   Ahmad F, 2002, SYN REACT INORG MET, V32, P665, DOI 10.1081/SIM-120004439
+   Ahmad MS, 2007, MOLECULES, V12, P2348, DOI 10.3390/12102348
+   Allen OR, 2007, DALTON T, P5082, DOI 10.1039/b708283p
+   Amini MM, 2007, J ORGANOMET CHEM, V692, P3922, DOI 10.1016/j.jorganchem.2007.05.049
+   Anan N, 2007, FUEL, V86, P2639, DOI 10.1016/j.fuel.2007.05.021
+   Angiolini L, 2006, J ORGANOMET CHEM, V691, P1965, DOI 10.1016/j.jorganchem.2006.01.002
+   Chen GJ, 2011, J INORG BIOCHEM, V105, P119, DOI 10.1016/j.jinorgbio.2010.11.008
+   Corma A, 2001, NATURE, V412, P423, DOI 10.1038/35086546
+   DAVIES AG, 2004, ORGANOTIN CHEM
+   DEFILIPPIS P, 1995, J AM OIL CHEM SOC, V72, P1399, DOI 10.1007/BF02546218
+   DHARIA JR, 1988, J POLYM SCI POL CHEM, V26, P595, DOI 10.1002/pola.1988.080260222
+   Einloft S, 2008, ENERG FUEL, V22, P671, DOI 10.1021/ef700510a
+   Eng G, 2007, J ORGANOMET CHEM, V692, P1398, DOI 10.1016/j.jorganchem.2006.11.030
+   Evans C. J., 1985, J ORGANOMET CHEM LIB, V16
+   FIERENS P, 1978, REACT KINET CATAL L, V8, P179, DOI 10.1007/BF02061303
+   Fukuda H, 2001, J BIOSCI BIOENG, V92, P405, DOI 10.1016/S1389-1723(01)80288-7
+   Gachter R., 1990, PLASTICS ADDITIVES H, P281
+   Gaina C, 2009, J INORG ORGANOMET P, V19, P157, DOI 10.1007/s10904-008-9230-z
+   GELBARD G, 1995, J AM OIL CHEM SOC, V72, P1239, DOI 10.1007/BF02540998
+   Gomez-Ruiz S, 2011, J ORGANOMET CHEM, V696, P3206, DOI 10.1016/j.jorganchem.2011.06.036
+   HOLECEK J, 1983, J ORGANOMET CHEM, V258, P147, DOI 10.1016/S0022-328X(00)99251-9
+   Huo FJ, 2010, RUSS J INORG CHEM+, V55, P1087, DOI 10.1134/S0036023610070156
+   Hussain M, 2008, J SERB CHEM SOC, V73, P179, DOI 10.2298/JSC0802179H
+   JASTRZEBSKI JTBH, 1993, ADV ORGANOMET CHEM, V35, P241, DOI 10.1016/S0065-3055(08)60493-1
+   Karpel S, 1986, TIN ITS USES, V149, P1
+   Khan MI, 2009, J BRAZIL CHEM SOC, V20, P341, DOI 10.1590/S0103-50532009000200020
+   Khan MI, 2004, J ORGANOMET CHEM, V689, P3370, DOI 10.1016/j.jorganchem.2004.07.049
+   Kim M, 2010, BIORESOURCE TECHNOL, V101, P4409, DOI 10.1016/j.biortech.2010.01.099
+   Knothe G.J., 2000, EUR J LIPID SCI TECH, V77, P489
+   Labeckas G, 2006, ENERG CONVERS MANAGE, V47, P1954, DOI 10.1016/j.enconman.2005.09.003
+   Li JS, 2001, SYN REACT INORG MET, V31, P85, DOI 10.1081/SIM-100001934
+   Li QS, 2004, CHEM-EUR J, V10, P1456, DOI 10.1002/chem.200305266
+   Liu XJ, 2007, CATAL COMMUN, V8, P1107, DOI 10.1016/j.catcom.2006.10.026
+   Ma CL, 2005, J ORGANOMET CHEM, V690, P3033, DOI 10.1016/j.jorganchem.2005.03.040
+   MAHMOUD AA, 1992, EUR POLYM J, V28, P555, DOI 10.1016/0014-3057(92)90133-M
+   Meher LC, 2006, EUR J LIPID SCI TECH, V108, P389, DOI 10.1002/ejlt.200500307
+   MEYER BN, 1982, PLANTA MED, V45, P31, DOI 10.1055/s-2007-971236
+   NG SW, 1987, J ORGANOMET CHEM, V334, P295
+   OTERA J, 1993, CHEM REV, V93, P1449, DOI 10.1021/cr00020a004
+   PARSHALL GW, 1992, HOMOGENEOUS CATALYSI, P269
+   Parvez M, 1997, ACTA CRYSTALLOGR C, V53, P1211, DOI 10.1107/S0108270197005210
+   Pellerito L, 2002, COORDIN CHEM REV, V224, P111, DOI 10.1016/S0010-8545(01)00399-X
+   Perez-Quintanilla D., 2010, J MATER CHEM, V20, P806
+   Perrin D.D., 2003, PURIFICATION LAB CHE
+   Rashid U, 2008, FUEL, V87, P265, DOI 10.1016/j.fuel.2007.05.003
+   Rehman A., 2001, BIOASSAY TECHNIQUES
+   Rehman Z., 2012, J COORD CHEM, V65, P3238, DOI [10.1080/00958972.2012.707316, DOI 10.1080/00958972.2012.707316]
+   Renz M, 2002, CHEM-EUR J, V8, P4708, DOI 10.1002/1521-3765(20021018)8:20<4708::AID-CHEM4708>3.0.CO;2-U
+   Ruzicka A, 2002, APPL ORGANOMET CHEM, V16, P315, DOI 10.1002/aoc.302
+   Sastri CV, 2003, J INORG BIOCHEM, V94, P138, DOI 10.1016/S0162-0134(02)00622-0
+   SEYFERTH D, 1994, APPL ORGANOMET CHEM, V8, P335, DOI 10.1002/aoc.590080408
+   Shahabadi N., 2011, BIOINORG CHEM APPL, P1, DOI DOI 10.1155/2011/525794
+   Shahabadi N, 2010, EUR J MED CHEM, V45, P4239, DOI 10.1016/j.ejmech.2010.06.020
+   Shahid K, 2003, SYN REACT INORG MET, V33, P1221, DOI 10.1081/SIM-120023490
+   Shahzadi S, 2008, TURK J CHEM, V32, P333
+   Shang XM, 2011, INORG CHEM, V50, P8158, DOI 10.1021/ic200635g
+   Shiva Prasad K., 2011, INT J CHEM RES, V2, P1
+   Sirajuddin M, 2012, SPECTROCHIM ACTA A, V94, P134, DOI 10.1016/j.saa.2012.03.068
+   Srivastava A, 2000, RENEW SUST ENERG REV, V4, P111, DOI 10.1016/S1364-0321(99)00013-1
+   Tabassum S, 2010, NANOTECHNOLOGY, V21, DOI 10.1088/0957-4484/21/19/195102
+   Tariq M, 2011, FUEL PROCESS TECHNOL, V92, P336, DOI 10.1016/j.fuproc.2010.09.025
+   Teoh SG, 1997, POLYHEDRON, V16, P3729, DOI 10.1016/S0277-5387(97)00152-6
+   Tiekink E.R.T., 1994, TRENDS ORGANOMET CHE, V1, P71
+   TIEKINK ERT, 1991, APPL ORGANOMET CHEM, V5, P1, DOI 10.1002/aoc.590050102
+   Tsagatakis JK, 1999, HELV CHIM ACTA, V82, P531, DOI 10.1002/(SICI)1522-2675(19990407)82:4<531::AID-HLCA531>3.0.CO;2-5
+   VANDERWEIJ FW, 1980, MAKROMOL CHEM, V181, P2541
+   Xie QL, 1996, MAIN GROUP MET CHEM, V19, P509
+   Xie WL, 2006, J MOL CATAL A-CHEM, V246, P24, DOI 10.1016/j.molcata.2005.10.008
+   Yin HD, 2002, ACTA CHIM SINICA, V60, P897
+   Zhang Y, 2011, NUCLEOS NUCLEOT NUCL, V30, P49, DOI 10.1080/15257770.2010.543117
+NR 73
+TC 44
+Z9 45
+U1 0
+U2 22
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0022-328X
+EI 1872-8561
+J9 J ORGANOMET CHEM
+JI J. Organomet. Chem.
+PD JAN 1
+PY 2013
+VL 723
+BP 79
+EP 89
+DI 10.1016/j.jorganchem.2012.09.011
+PG 11
+WC Chemistry, Inorganic & Nuclear; Chemistry, Organic
+SC Chemistry
+GA 045FJ
+UT WOS:000311680100012
+DA 2019-11-19
+ER
+
+PT J
+AU Iqbal, M
+   Ali, S
+   Muhammad, N
+   Parvez, M
+   Langer, P
+   Villinger, A
+AF Iqbal, Muhammad
+   Ali, Saqib
+   Muhammad, Niaz
+   Parvez, Masood
+   Langer, Peter
+   Villinger, Alexander
+TI Synthesis, characterization, crystal structures and electrochemical
+   studies of organotin(IV) carboxylates
+SO JOURNAL OF ORGANOMETALLIC CHEMISTRY
+LA English
+DT Article
+DE Organotin(IV) carboxylates; Sodium (E)-2-(2-fluorobenzylidene)
+   butanoate; Crystal structures; Stannoxane; Cyclic voltammetry
+ID SPECTROSCOPIC CHARACTERIZATION; TRIORGANOTIN(IV) COMPLEXES;
+   BETA-DIKETONES; DERIVATIVES; DIORGANOTIN(IV); ACID; DNA; BINDING;
+   TIN(IV); LIGAND
+AB Four new organotin(IV) compounds [Me3SnL] (1), {[Me2SnL](2)O}(2) (2), Bu2SnL2 (3) and [Bu3SnL] (4), where L = O2C(C2H5)CCHC6H4F have been synthesized by refluxing the corresponding organotin(IV) chlorides with sodium (E)-2-(2-fluorobenzylidene) butanoate (NaL) in dry toluene except 2 for which Me2SnO was refluxed with (E)-2-(2-fluorobenzylidene) butanoic acid (LH) in the same solvent. NaL and all the compounds were characterized by FT-IR, H-1 NMR and C-13 NMR spectroscopy. NaL and compounds 1 and 2 were also characterized by X-ray single crystal analysis which confirmed a linear polymeric structure for compound 1 and a stannoxane for 2. The structural analyses have shown a bridging behavior of the ligand in trimethyl- and tributyl-, chelating as well as bridging behavior in dimethyl-and a chelating bidentate mode of coordination in dibutyltin(IV) compound which is also confirmed from the crystal analysis for compounds 1 and 2. Cyclic voltammetry was used to evaluate the electrochemical, kinetic and thermodynamic parameters for the electron transfer processes of compounds 1-4. Predominantly adsorption controlled redox processes were exhibited by the slope of log i(p) vs. -log v plots. The values of the diffusion coefficient (D-o) indicated the role of solvent in the mobility of the electro-active species to some extent but the overall rate of the redox process was typical of the adsorption controlled process and could not be explained on the basis of solvation effects. The values of formal potential and charge transfer coefficient were also calculated. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Iqbal, Muhammad; Ali, Saqib] Quaid I Azam Univ, Dept Chem, Islamabad 45320, Pakistan.
+   [Muhammad, Niaz] Abdul Wali Khan Univ, Dept Chem, Mardan, Kpk, Pakistan.
+   [Parvez, Masood] Univ Calgary, Dept Chem, Calgary, AB T2N 1N4, Canada.
+   [Langer, Peter; Villinger, Alexander] Univ Rostock, Inst Chem, Dept Organ Chem, D-18059 Rostock, Germany.
+RP Ali, S (reprint author), Quaid I Azam Univ, Dept Chem, Islamabad 45320, Pakistan.
+EM drsa54@yahoo.com
+RI ali, saqib/F-1313-2015; Iqbal, Muhammad/H-4073-2016
+FU Higher Education Commission of PakistanHigher Education Commission of
+   Pakistan
+FX M.I is thankful to the Higher Education Commission of Pakistan for
+   financial support.
+CR ADDISON AW, 1984, J CHEM SOC DALTON, P1349, DOI 10.1039/dt9840001349
+   Ahmad F, 2002, HETEROATOM CHEM, V13, P638, DOI 10.1002/hc.10057
+   ALTOMARE A, 1993, J APPL CRYSTALLOGR, V26, P343, DOI 10.1107/S0021889892010331
+   Amini MM, 2007, J ORGANOMET CHEM, V692, P3922, DOI 10.1016/j.jorganchem.2007.05.049
+   Amini MM, 2009, INORG CHIM ACTA, V362, P355, DOI 10.1016/j.ica.2008.04.009
+   Bard A.J., 1980, ELECTROCHEMICAL METH, P552
+   Bard A. J., 2004, ELECTROCHEMICAL METH, P236
+   Beurskens PT, 1994, DIRDIF 94 PROGRAM SY
+   Bhatti MH, 2005, TURK J CHEM, V29, P463
+   Chandrasekhar V, 2008, J CHEM SCI, V120, P105, DOI 10.1007/s12039-008-0013-4
+   Eng G, 2007, J ORGANOMET CHEM, V692, P1398, DOI 10.1016/j.jorganchem.2006.11.030
+   Farrugia L. J., 1997, J APPL CRYSTALLOGR, V30, P565, DOI DOI 10.1107/S0021889897003117
+   FLACK HD, 1983, ACTA CRYSTALLOGR A, V39, P876, DOI 10.1107/S0108767383001762
+   Hanif M., 2007, ANAL SCI, V23, P165
+   Hanif M, 2010, POLYHEDRON, V29, P613, DOI 10.1016/j.poly.2009.07.039
+   HOOFT R, 1998, COLLECT
+   Kumar MS, 2006, J ORGANOMET CHEM, V691, P4708, DOI 10.1016/j.jorganchem.2006.07.015
+   LAVIRON E, 1974, J ELECTROANAL CHEM, V52, P355, DOI 10.1016/S0022-0728(74)80448-1
+   LAVIRON E, 1979, J ELECTROANAL CHEM, V101, P19, DOI 10.1016/S0022-0728(79)80075-3
+   Ma CL, 2009, J ORGANOMET CHEM, V694, P4230, DOI 10.1016/j.jorganchem.2009.09.001
+   Mahmood S, 2003, TURK J CHEM, V27, P657
+   Marchetti F, 1999, J ORGANOMET CHEM, V580, P344, DOI 10.1016/S0022-328X(98)01173-5
+   Meghdadi S, 2012, INORG CHIM ACTA, V385, P31, DOI 10.1016/j.ica.2011.12.025
+   Muhammad N, 2009, J ORGANOMET CHEM, V694, P3431, DOI 10.1016/j.jorganchem.2009.06.036
+   Muhammad N, 2009, INORG CHIM ACTA, V362, P2842, DOI 10.1016/j.ica.2009.01.003
+   NADVORNIK M, 1984, J ORGANOMET CHEM, V275, P43, DOI 10.1016/0022-328X(84)80576-8
+   Niaz M., 2008, ACTA CRYSTALLOGR E, VE64, P733
+   Otwinowski Z, 1997, METHOD ENZYMOL, V276, P307, DOI 10.1016/S0076-6879(97)76066-X
+   Perrin D.D., 2003, PURIFICATION LAB CHE
+   Pettinari C, 1998, J ORGANOMET CHEM, V557, P187, DOI 10.1016/S0022-328X(97)00680-3
+   Rehman S., 2005, J ORGANOMET CHEM, V690, P1396
+   Rehman S., 2004, APPL ORGANOMET CHEM, V18, P401
+   Rehman Z., 2009, J ORGANOMET CHEM, V694, P1998
+   Rehman ZU, 2009, EUR J MED CHEM, V44, P3986, DOI 10.1016/j.ejmech.2009.04.031
+   Shang XM, 2011, INORG CHEM, V50, P8158, DOI 10.1021/ic200635g
+   Sheldrick GM, 2008, ACTA CRYSTALLOGR A, V64, P112, DOI 10.1107/S0108767307043930
+   Shujha S, 2010, EUR J MED CHEM, V45, P2902, DOI 10.1016/j.ejmech.2010.03.015
+   Song YZ, 2012, RUSS J PHYS CHEM A+, V86, P303, DOI 10.1134/S0036024412020306
+   Sun ML, 2011, J ORGANOMET CHEM, V696, P3180, DOI 10.1016/j.jorganchem.2011.06.045
+   Wang J., 1994, ANAL ELECTROCHEMISTR, P165
+   Wu XY, 2009, J ORGANOMET CHEM, V694, P2981, DOI 10.1016/j.jorganchem.2009.04.040
+   Xu HL, 2006, J ORGANOMET CHEM, V691, P3331, DOI 10.1016/j.jorganchem.2006.02.037
+   Zhang RF, 2008, POLYHEDRON, V27, P3123, DOI 10.1016/j.poly.2008.06.039
+NR 43
+TC 14
+Z9 14
+U1 0
+U2 16
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0022-328X
+J9 J ORGANOMET CHEM
+JI J. Organomet. Chem.
+PD JAN 1
+PY 2013
+VL 723
+BP 214
+EP 223
+DI 10.1016/j.jorganchem.2012.10.006
+PG 10
+WC Chemistry, Inorganic & Nuclear; Chemistry, Organic
+SC Chemistry
+GA 045FJ
+UT WOS:000311680100031
+DA 2019-11-19
+ER
+
+PT J
+AU Naeem, MA
+   Maqsood, MA
+   Hussain, S
+   Khan, MK
+   Kanwal, S
+AF Naeem, Muhammad Asif
+   Maqsood, Muhammad Aamer
+   Hussain, Shahid
+   Khan, Muhammad Khawar
+   Kanwal, Shamsa
+TI Irrigation with brackish water modifies the boron requirement of
+   mungbean (Vigna radiata L.) on typic calciargid
+SO ARCHIVES OF AGRONOMY AND SOIL SCIENCE
+LA English
+DT Article
+DE boron requirement; critical concentration; sodium adsorption ratio;
+   Freundlich adsorption model; Vigna radiata L.
+ID SALINITY; TOXICITY; GROWTH; ROOTSTOCK; CALCIUM; STRESS; SOILS
+AB The boron (B) sufficiency range for plant growth is narrow and its management is problematic under brackish irrigation water. This study was conducted to evaluate the B requirement of mungbean at different sodium adsorption ratios of irrigation waters (SAR(iw)) [control, 8 and 16 (mmol(c) L-1)(1/2)]. The boron adsorption characteristics of a loamy soil were first determined in the laboratory by equilibrating 2.5 g soil with 0.01 M CaCl2 solution containing different B levels. Boron rates for a pot study were computed against different soil solution levels by fitting sorption data in a modified Freundlich model [x/m = K-f (EBC)(1/n)]. The maximum increase in shoot dry matter was 11.9% when B was applied at 1.29 mg kg(-1) soil at control SAR(iw). Visual leaf B toxicity symptoms appeared at higher B rates and became severe at higher SAR(iw). By contrast to Ca, shoot concentrations of B and Na increased significantly with B application and SAR(iw). For optimum shoot growth, internal and external B requirements were 25 mg B kg(-1) shoot dry matter and 0.39 mg B L-1 soil solution, respectively, at control SAR(iw). At higher SAR(iw), a lower concentration of B in plant shoots and soil solution had an inhibitory effect on plant growth.
+C1 [Naeem, Muhammad Asif; Maqsood, Muhammad Aamer; Hussain, Shahid; Khan, Muhammad Khawar; Kanwal, Shamsa] Univ Agr Faisalabad, Inst Soil & Environm Sci, Faisalabad, Pakistan.
+RP Maqsood, MA (reprint author), Univ Agr Faisalabad, Inst Soil & Environm Sci, Faisalabad, Pakistan.
+EM mohamgill@uaf.edu.pk
+RI Hussain, Shahid/H-9028-2012
+OI Hussain, Shahid/0000-0002-2497-127X
+CR Adiloglu A, 2006, J AGR BIOL SCI, V2, P1
+   Alleoni LRF, 2000, PESQUI AGROPECU BRAS, V35, P413, DOI 10.1590/S0100-204X2000000200020
+   Allison L. E., 1965, METHODS SOIL ANAL, P1379
+   Alpaslan M, 2001, PLANT SOIL, V236, P123, DOI 10.1023/A:1011931831273
+   Asad A, 2002, J PLANT NUTR, V25, P885, DOI 10.1081/PLN-120002967
+   BERNSTEIN L, 1975, ANNU REV PHYTOPATHOL, V13, P295, DOI 10.1146/annurev.py.13.090175.001455
+   Bingham F. T., 1982, Methods of soil analysis. Part 2. Chemical and microbiological properties, P431
+   Blamey F. P. C., 1997, BORON SOILS PLANTS, P145
+   BOUYOUCOS GJ, 1962, AGRON J, V54, P464, DOI 10.2134/agronj1962.00021962005400050028x
+   Brown PH, 2002, PLANT BIOLOGY, V4, P205, DOI 10.1055/s-2002-25740
+   CACHORRO P, 1993, PHYTOCHEMISTRY, V32, P1131, DOI 10.1016/S0031-9422(00)95077-5
+   Chapman H. D, 1961, METHODS ANAL SOILS P
+   Dashti A, 2009, J PLANT NUTR, V32, P1219, DOI 10.1080/01904160902945333
+   Erturk U, 2007, BIOL PLANTARUM, V51, P597, DOI 10.1007/s10535-007-0132-7
+   FOX R L, 1970, Soil Science Society of America Proceedings, V34, P902
+   Ghafoor A, 2004, SALT AFFECTED SOILS, P54
+   GOLDBERG S, 1991, SOIL SCI, V152, P304, DOI 10.1097/00010694-199110000-00009
+   GUPTA UC, 1983, J PLANT NUTR, V6, P387, DOI 10.1080/01904168309363098
+   Haider G, 1992, MANUAL SALINITY RES
+   Hussain S, 2010, SOIL ENVRON, V29, P206
+   Imran M, 2010, J PLANT NUTR, V33, P1301, DOI 10.1080/01904167.2010.484091
+   Jackson M. L., 1986, Methods of soil analysis. Part 1. Physical and mineralogical methods, P101
+   Jiao XY, 2005, J PLANT NUTR, V28, P351, DOI 10.1081/PLN-200047629
+   Keren R., 1996, METHODS SOIL ANAL 3, V5, P603, DOI DOI 10.2136/SSSAB00KSER5.3.C21
+   Kuiper P. J. C., 1984, Salinity tolerance in plants - strategies for crop improvement, P77
+   Kumar V, 2008, J PLANT NUTR, V31, P1999, DOI 10.1080/01904160802403466
+   Minhas PS, 1996, AGR WATER MANAGE, V30, P1, DOI 10.1016/0378-3774(95)01211-7
+   National Fertilizer Development Centre, 1998, PAK PERSP STAT REP, P57
+   Nelson D.W., 1982, METHODS SOIL ANAL 2, V9, P570
+   Niaz A, 2007, PAK J AGR SCI, V44, P428
+   Rashid A., 2005, SOIL ENV, V24, P1
+   ROWELL DL, 1994, SOIL SCI METHODS APP
+   Russell D.F., 1983, MSTAT C
+   Sattar S, 2011, COMMUN SOIL SCI PLAN, V42, P184, DOI 10.1080/00103624.2011.535069
+   Shafiq M., 2008, J AGR RES, V46, P141
+   Shafiq M., 2010, J AGR RES, V48, P303
+   Sotiropoulos TE, 2006, BIOL PLANTARUM, V50, P779, DOI 10.1007/s10535-006-0130-1
+   Steel R. G., 1997, PRINCIPLES PROCEDURE
+   Sumner M. E., 1996, METHODS SOIL ANAL, P1201, DOI DOI 10.2136/SSSAB00KSER5.3.C40
+   U.S. Salinity Laboratory Staff, 1954, US SAL LAB STAFF HDB, V60
+   Wimmer MA, 2003, PLANT CELL ENVIRON, V26, P1267, DOI 10.1046/j.0016-8025.2003.01051.x
+NR 41
+TC 2
+Z9 2
+U1 1
+U2 11
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0365-0340
+EI 1476-3567
+J9 ARCH AGRON SOIL SCI
+JI Arch. Agron. Soil Sci.
+PY 2013
+VL 59
+IS 1
+BP 133
+EP 145
+DI 10.1080/03650340.2011.604774
+PG 13
+WC Agronomy; Soil Science
+SC Agriculture
+GA 039GB
+UT WOS:000311231500011
+DA 2019-11-19
+ER
+
+PT J
+AU Ayub, Z
+   Khan, MS
+   Jokar, A
+   Khan, TS
+   Hayes, N
+AF Ayub, Zahid
+   Khan, M. Sultan
+   Jokar, Amir
+   Khan, Tariq S.
+   Hayes, Niel
+TI Recent Developments in Plate Exchangers-Ammonia/Carbon Dioxide Cascade
+   Condensers
+SO HEAT TRANSFER ENGINEERING
+LA English
+DT Article; Proceedings Paper
+CT 13th Brazilian Congress on Thermal Sciences and Engineering (ENCIT)
+CY DEC 05-10, 2010
+CL Uberlandia, BRAZIL
+SP Fed Univ Uberlandia, Fac Mech Engn, Brazilian Soc Mech Sci & Engn (ABCM), CNPq, CAPES, FAPERJ, ESSS
+ID PRESSURE-DROP CORRELATIONS; HEAT-TRANSFER; CONDENSATION; EVAPORATION;
+   FLOW
+AB The use of carbon dioxide and ammonia in low temperature cascade systems is gaining momentum in the industrial refrigeration market. The use of a plate exchanger as cascade condenser is a viable option due to the high thermal efficiency and smaller footprint characteristics of such exchangers. There is a lack of reliable data in the open literature on condensation of carbon dioxide and evaporation of ammonia in such heat exchangers. This article presents the latest research on condensation of carbon dioxide and evaporation of ammonia in various corrugated plate exchangers at different saturation temperature and heat/mass flux. The data are reduced to generalized empirical correlations to be used as design tools by engineers. It also discusses the mechanical aspects of plate exchanges and their suitability in cascade systems.
+C1 [Ayub, Zahid] Isotherm Inc, Arlington, TX 76001 USA.
+   [Khan, M. Sultan] Mohammad Ali Jinnah Univ, Dept Mech Engn, Islamabad, Pakistan.
+   [Jokar, Amir] Exponent Inc, Los Angeles, CA USA.
+   [Khan, Tariq S.] GIK Inst Engn Sci & Technol, Topi, Pakistan.
+   [Hayes, Niel] Hill Phoenix, Conyers, GA USA.
+RP Ayub, Z (reprint author), Isotherm Inc, 7401 Commercial Blvd E, Arlington, TX 76001 USA.
+EM zahid@iso-therm.com
+CR [Anonymous], 2010, 1394RP ASHRAE
+   [Anonymous], 2010, EV FLOOD CORR PLAT H
+   [Anonymous], 2009, ASHRAE T, V115, P1
+   Arima H, 2010, INT J REFRIG, V33, P359, DOI 10.1016/j.ijrefrig.2009.09.017
+   ASHRAE, 2009, NAT REFR POS DOC
+   Ayub ZH, 2003, HEAT TRANSFER ENG, V24, P3, DOI 10.1080/01457630304056
+   Chyu MC, 2009, INT J REFRIG, V32, P1876, DOI 10.1016/j.ijrefrig.2009.07.013
+   Djordjevic E, 2008, INT J HEAT MASS TRAN, V51, P6235, DOI 10.1016/j.ijheatmasstransfer.2008.01.042
+   Hayes N, 2011, INT J HEAT MASS TRAN, V54, P1121, DOI 10.1016/j.ijheatmasstransfer.2010.11.010
+   Hayes N, 2012, INT J HEAT MASS TRAN, V55, P2916, DOI 10.1016/j.ijheatmasstransfer.2012.02.013
+   Khan TS, 2010, APPL THERM ENG, V30, P1058, DOI 10.1016/j.applthermaleng.2010.01.021
+   Khan TS, 2009, HVAC&R RES, V15, P169, DOI 10.1080/10789669.2009.10390832
+   Yan YY, 1999, J HEAT TRANS-T ASME, V121, P118, DOI 10.1115/1.2825924
+   Zheng JX, 2001, HVAC&R RES, V7, P185, DOI 10.1080/10789669.2001.10391270
+NR 14
+TC 1
+Z9 1
+U1 0
+U2 0
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0145-7632
+EI 1521-0537
+J9 HEAT TRANSFER ENG
+JI Heat Transf. Eng.
+PY 2013
+VL 34
+IS 5-6
+BP 401
+EP 408
+DI 10.1080/01457632.2012.721312
+PG 8
+WC Thermodynamics; Engineering, Mechanical; Mechanics
+SC Thermodynamics; Engineering; Mechanics
+GA 041EB
+UT WOS:000311378600002
+DA 2019-11-19
+ER
+
+PT J
+AU Akram, M
+   Dudek, WA
+AF Akram, Muhammad
+   Dudek, Wieslaw A.
+TI Intuitionistic fuzzy hypergraphs with applications
+SO INFORMATION SCIENCES
+LA English
+DT Article
+DE Intuitionistic fuzzy hypergraph; Strength of edge (class);
+   Intuitionistic fuzzy partition; Dual intuitionistic fuzzy hypergraph;
+   Clustering problem
+ID GRAPHS; SETS; PARTITION
+AB Hypergraphs are considered a useful tool for modeling system architectures and data structures and to represent a partition, covering and clustering in the area of circuit design. In this paper, we apply the concept of intuitionistic fuzzy set theory to generalize results concerning hypergraphs. For each intuitionistic fuzzy structure defined, we use cut-level sets to define an associated sequence of crisp structures. We determine what properties of the Sequence of crisp structures characterize a given property of the intuitionistic fuzzy structure. We also present applications of intuitionistic fuzzy hypergraphs. (C) 2012 Elsevier Inc. All rights reserved.
+C1 [Akram, Muhammad] Univ Punjab, Coll Informat Technol, Lahore 54000, Pakistan.
+   [Dudek, Wieslaw A.] Wroclaw Univ Technol, Inst Math & Comp Sci, PL-50370 Wroclaw, Poland.
+RP Akram, M (reprint author), Univ Punjab, Coll Informat Technol, Old Campus, Lahore 54000, Pakistan.
+EM makrammath@yahoo.com; wieslaw.dudek@pwr.wroc.pl
+RI Akram, Muhammad/N-3369-2014
+OI Akram, Muhammad/0000-0001-7217-7962; Dudek, Wieslaw/0000-0001-8919-7249
+CR Akram M., 2011, NEURAL COMPUT APPL
+   Akram M, 2008, SOFT COMPUT, V12, P881, DOI 10.1007/s00500-007-0256-x
+   Akram M, 2012, FILOMAT, V26, P177, DOI 10.2298/FIL1201177A
+   Akram M, 2011, INFORM SCIENCES, V181, P5548, DOI 10.1016/j.ins.2011.07.037
+   Akram M, 2011, COMPUT MATH APPL, V61, P289, DOI 10.1016/j.camwa.2010.11.004
+   Atanassov K. T., 1999, STUDIES FUZZINESS SO
+   ATANASSOV KT, 1986, FUZZY SET SYST, V20, P87, DOI 10.1016/S0165-0114(86)80034-3
+   BERGE C, 1976, GRAPHS HYPERGRAPHS
+   Bershtein L.S., 2009, ENCY ARTIFICIAL INTE, P704
+   BHATTACHARYA P, 1987, PATTERN RECOGN LETT, V6, P297, DOI 10.1016/0167-8655(87)90012-2
+   Chen SM, 1997, IEEE T SYST MAN CY B, V27, P725, DOI 10.1109/3477.604121
+   Craine M.W.L, 1993, THESIS U IDAHO
+   FAGIN R, 1983, J ACM, V30, P514, DOI 10.1145/2402.322390
+   GOETSCHEL RH, 1995, FUZZY SET SYST, V76, P113, DOI 10.1016/0165-0114(94)00381-G
+   Kauffman A., 1973, INTRO THEORIE SOUS E, V1
+   LEEKWANG H, 1995, IEEE T SYST MAN CYB, V25, P196, DOI 10.1109/21.362951
+   LI Y, 1998, INFORMATICA INT J CO, V22, P499
+   Mathew S, 2010, INFORM SCIENCES, V180, P519, DOI 10.1016/j.ins.2009.10.006
+   MORDERSON JN, 1994, INFORM SCIENCES, V79, P159, DOI 10.1016/0020-0255(94)90116-3
+   Mordeson J. N., 1998, FUZZY GRAPHS FUZZY H
+   Pang CY, 2010, INFORM SCIENCES, V180, P3647, DOI 10.1016/j.ins.2010.06.009
+   Park S., 2000, J ADV COMPUT INTELL, V4, P362
+   Parvathi R, 2009, CYBERN INF TECHNOL, V9, P46
+   Parvathi R, 2009, 2009 IEEE INTERNATIONAL CONFERENCE ON FUZZY SYSTEMS, VOLS 1-3, P1396, DOI 10.1109/FUZZY.2009.5277067
+   Pedrycz W, 1995, FUZZY SETS ENG
+   Pedrycz W, 2010, PATTERN RECOGN LETT, V31, P1952, DOI 10.1016/j.patrec.2010.06.018
+   Rosenfeld A., 1975, FUZZY SETS THEIR APP, P77
+   Shannon A., 1995, NOTES INTUITIONISTIC, V1, P32
+   Shannon A., 1994, P 1 WORKSH FUZZ BAS, P59
+   Torra V, 2011, SOFT COMPUT, V15, P363, DOI 10.1007/s00500-010-0605-z
+   Wu LY, 2010, INFORM SCIENCES, V180, P4430, DOI 10.1016/j.ins.2010.07.001
+   ZADEH LA, 1971, INFORM SCIENCES, V3, P177, DOI 10.1016/S0020-0255(71)80005-1
+   ZADEH LA, 1965, INFORM CONTROL, V8, P338, DOI 10.1016/S0019-9958(65)90241-X
+   Zadeh LA, 2008, INFORM SCIENCES, V178, P2751, DOI 10.1016/j.ins.2008.02.012
+   Zheng SQ, 1996, EIGHTH IEEE SYMPOSIUM ON PARALLEL AND DISTRIBUTED PROCESSING, PROCEEDINGS, P433, DOI 10.1109/SPDP.1996.570366
+NR 35
+TC 95
+Z9 95
+U1 1
+U2 15
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0020-0255
+EI 1872-6291
+J9 INFORM SCIENCES
+JI Inf. Sci.
+PD JAN 1
+PY 2013
+VL 218
+BP 182
+EP 193
+DI 10.1016/j.ins.2012.06.024
+PG 12
+WC Computer Science, Information Systems
+SC Computer Science
+GA 038SR
+UT WOS:000311194900012
+DA 2019-11-19
+ER
+
+PT J
+AU Sarwar, SZ
+   Mirza, E
+   Ehsan, N
+   Khan, K
+   Hanif, H
+AF Sarwar, Sheikh Zahoor
+   Mirza, Ebtisam
+   Ehsan, Nadeem
+   Khan, Khushnoor
+   Hanif, Huma
+TI Determining the impact of age and LOS on job satisfaction: a case study
+   of Pakistan automotive industry
+SO INTERNATIONAL JOURNAL OF HUMAN RESOURCE MANAGEMENT
+LA English
+DT Article
+DE age; engineers; job satisfaction; length of service; Pakistan
+ID WORK; ABSENTEEISM; COMMITMENT; SERVICE; MODELS; TENURE; LIFE
+AB This research was conducted to ascertain the impact of age and length of service (LOS) on job satisfaction in engineers of Pakistan public sector. Field survey was conducted using job satisfaction survey (JSS) questionnaire having closed-ended questions. Multistage sampling was conducted using a combination of cluster sampling, stratified sampling and random sampling techniques. Power and Precision software was used to determine the sample size. JSS questionnaires were administered amongst 225 electrical and mechanical engineers from five public sector organizations. 158 usable questionnaires were received and data were analyzed in SPSS. Statistical analyses showed existence of an open mouth U-shaped relationship between LOS/age and job satisfaction. It was found that age moderates relationship between LOS and job satisfaction. Non-responsiveness of senior engineers led to one of the limitations of this study. Results of this study can be used for policy-making decisions.
+C1 [Sarwar, Sheikh Zahoor; Mirza, Ebtisam; Ehsan, Nadeem; Hanif, Huma] Ctr Adv Studies Engn, Dept Engn Management, Islamabad, Pakistan.
+   [Khan, Khushnoor] King Abdulaziz Univ, Dept Stat, Jeddah, Saudi Arabia.
+RP Sarwar, SZ (reprint author), Ctr Adv Studies Engn, Dept Engn Management, Islamabad, Pakistan.
+EM zahoorsarwar@yahoo.com
+RI khan, khushnoor/E-5988-2015
+CR AHMED I., 2010, INT J BUS MANAG, V5, P70
+   BAMUNDO PJ, 1980, J VOCAT BEHAV, V17, P106, DOI 10.1016/0001-8791(80)90020-2
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   Bernal D., 1998, J GERONTOL B-PSYCHOL, V53, P287, DOI [10.1093/geronb/53B.5.P287, DOI 10.1093/GERONB/53B.5.P287]
+   Borenstein M, 2001, POWER PRECISION
+   Brief A. P., 1998, ATTITUDES ORG
+   Crossman A., 2006, ED MANAGEMENT ADM LE, V34, P29, DOI DOI 10.1177/1741143206059538
+   Darwish A.A.Y., 1999, GEN MANAGEMENT J AL, V39, P493
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.2307/3151312
+   Fornell C., 1982, ASSESSMENT MARKETING, P405
+   Gaertner S, 1999, HUM RESOUR MANAGE R, V9, P479, DOI 10.1016/S1053-4822(99)00030-3
+   GIBSON JL, 1970, ACAD MANAGE J, V13, P411, DOI 10.2307/254831
+   GORDON ME, 1995, IND LABOR RELAT REV, V48, P222, DOI 10.2307/2524484
+   Hair J., 1992, MULTIVARIATE DATA AN
+   Halepota J., 2008, PH D DOCT S BRUN BUS
+   Herzberg F., 1959, MOTIVATION WORK
+   Herzberg F., 2009, MOTIVATION WORK
+   Hickson C., 1999, INT J SOC ECON, V26, P537
+   Huang X, 2003, J ORGAN BEHAV, V24, P159, DOI 10.1002/job.186
+   HUI CH, 1995, APPL PSYCHOL-INT REV, V44, P276, DOI 10.1111/j.1464-0597.1995.tb01080.x
+   HUNT JW, 1975, ACAD MANAGE J, V18, P690, DOI 10.2307/255372
+   IGBARIA M, 1994, MIS QUART, V18, P175, DOI 10.2307/249764
+   Kass SJ, 2001, J BUS PSYCHOL, V16, P317, DOI 10.1023/A:1011121503118
+   LINCOLN JR, 1985, AM SOCIOL REV, V50, P738, DOI 10.2307/2095502
+   Locke E. A., 1976, HDB IND ORG PSYCHOL, P1297
+   LUTHANS F, 1989, PERS REV, V18, P23, DOI 10.1108/00483488910133350
+   MAIDANI EA, 1991, PUBLIC PERS MANAGE, V20, P441, DOI 10.1177/009102609102000405
+   MERTLER CA, 2002, AM SECONDARY ED, V31, P43
+   Metle M. K., 1997, INT J MANAGEMENT, V14, P654
+   Oshagbemi T., 2000, INT J SOC ECON, V27, P213, DOI DOI 10.1108/03068290010286546
+   Oshagbemi T., 1999, J MANAGERIAL PSYCHOL, V14, P388, DOI DOI 10.1108/02683949910277148
+   Ruthankoon R., 2003, J ENG CONSTRUCTION A, V10, P333
+   Sarker S.J., 2003, J MANAGERIAL PSYCHOL, V18, P745, DOI DOI 10.1108/02683940310502421
+   SCOTT KD, 1985, ACAD MANAGE J, V28, P599, DOI 10.2307/256116
+   Smith P. C., 1969, MEASUREMENT SATISFAC
+   SPECTOR PE, 1985, AM J COMMUN PSYCHOL, V13, P693, DOI 10.1007/BF00929796
+   Theodossiou I., 2006, CAREER PROSPECTS TEN
+   Wright BE, 2003, AM REV PUBLIC ADM, V33, P70, DOI 10.1177/0275074002250254
+NR 38
+TC 2
+Z9 3
+U1 2
+U2 12
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0958-5192
+J9 INT J HUM RESOUR MAN
+JI Int. J. Hum. Resour. Manag.
+PY 2013
+VL 24
+IS 2
+BP 415
+EP 435
+DI 10.1080/09585192.2012.674960
+PG 21
+WC Management
+SC Business & Economics
+GA 043NJ
+UT WOS:000311550300010
+DA 2019-11-19
+ER
+
+PT J
+AU Bakht, J
+   Bano, A
+   Shafi, M
+   Dominy, P
+AF Bakht, Jehan
+   Bano, Asghari
+   Shafi, Mohammad
+   Dominy, Peter
+TI Effect of abscisic acid applications on cold tolerance in chickpea
+   (Cicer arietinum L.)
+SO EUROPEAN JOURNAL OF AGRONOMY
+LA English
+DT Article
+DE Chickpea; Cicer arietinum; ABA; Cold tolerance; Proteome
+ID REPRODUCTIVE CHILLING TOLERANCE; ENHANCES FREEZING TOLERANCE;
+   LOW-TEMPERATURE; WATER-STRESS; ARABIDOPSIS-THALIANA; PLASMA-MEMBRANE;
+   LIPID-COMPOSITION; MAIZE SEEDLINGS; HIGH-SALINITY; SHOOT GROWTH
+AB A series of field experiments were undertaken at three locations in Khyber PukhtunKhwa (KPK) Province, Pakistan to assess the effects of low temperatures and phytohormone applications on chickpea (Cicer arietinum L) growth and yield. These trials showed that ABA application (10(-4) M) to 40-day-old plants (before the first seasonal frost) offset low temperature-induced growth and yield depression at harvest (200-day-old plants) by up to 17%. These yield improvements were mainly due to an increase in the number of seeds pod(-1). Growth room experiments were carried out under controlled environmental conditions to establish how foliar application of 10(-4) M ABA to 40-day-old plants might improve seed production at harvest. The foliar application of 10(-4) M ABA had no detectable effect on endogenous shoot or root ABA levels four-days after spraying or on biomass when plants were maintained in warm conditions. When exposed to night temperatures of -2 degrees C, however, the endogenous ABA levels increased dramatically in both control and ABA-treated plants, but this rise was more rapid after ABA application (p < 0.01); after 14 days, these plants had gained significantly more biomass than the unsprayed controls (p < 0.05). No evidence was found to suggest ABA affected the osmotic or water balance of plants, but parallel experiments have shown ABA reduced low temperature-induced cell damage. Analysis of the proteome of the shoot tissues of ABA treated and untreated plants by 2-Dimensional Gel Electrophoresis identified several proteins that are induced by low temperatures and/or by ABA application in chickpea and which may be involved in conferring cold tolerance. Attempts were made to establish the identity of these proteins using mass spectrometry but in all cases the results were ambiguous; a more complete protein data base for legumes is required before the function of these proteins can be inferred. (c) 2012 Elsevier B.V. All rights reserved.
+C1 [Bakht, Jehan] KPK Agr Univ Peshawar, Inst Biotechnol & Genet Engn, Peshawar, Pakistan.
+   [Bano, Asghari] Quaid E Azam Univ Islamabad, Dept Plant Sci, Islamabad, Pakistan.
+   [Shafi, Mohammad] KPK Agr Univ Peshawar, Dept Agron, Peshawar, Pakistan.
+   [Dominy, Peter] Univ Glasgow, Coll Med Vet & Life Sci, Glasgow G12 8QQ, Lanark, Scotland.
+RP Bakht, J (reprint author), KPK Agr Univ Peshawar, Inst Biotechnol & Genet Engn, Peshawar, Pakistan.
+EM jehanbakht@yahoo.co.uk
+RI Bakht, Jehan/J-1800-2015; Shafi, Mohammad/J-2246-2015; Shafi,
+   Muhammad/T-8657-2019
+CR Ahmadi A, 1999, PLANT GROWTH REGUL, V28, P187, DOI 10.1023/A:1006223925694
+   Bakht J, 2006, J EXP BOT, V57, P3707, DOI 10.1093/jxb/erl120
+   BATES LS, 1973, PLANT SOIL, V39, P205, DOI 10.1007/BF00018060
+   Berger JD, 2007, FIELD CROP RES, V104, P112, DOI 10.1016/j.fcr.2007.03.021
+   Berger JD, 2012, FIELD CROP RES, V126, P119, DOI 10.1016/j.fcr.2011.09.020
+   Capel J, 1997, PLANT PHYSIOL, V115, P569, DOI 10.1104/pp.115.2.569
+   Chinnusamy V, 2004, J EXP BOT, V55, P225, DOI 10.1093/jxb/erh005
+   Chinnusamy V, 2003, GENE DEV, V17, P1043, DOI 10.1101/gad.1077503
+   Clarke HJ, 2004, FIELD CROP RES, V90, P323, DOI 10.1016/j.fcr.2004.04.001
+   CLARKE HJ, 2001, 4 EUR C GRAIN LEG SU, P34
+   Cook D, 2004, P NATL ACAD SCI USA, V101, P15243, DOI 10.1073/pnas.0406069101
+   DELEPELAIRE P, 1981, J BIOL CHEM, V256, P9300
+   DESFRANCS CC, 1985, PLANT PHYSIOL, V78, P178, DOI 10.1104/pp.78.1.178
+   Gilmour SJ, 2004, PLANT MOL BIOL, V54, P767, DOI 10.1023/B:PLAN.0000040902.06881.d4
+   Hartung W, 2002, PLANT SOIL, V240, P191, DOI 10.1023/A:1015831610452
+   Hose E, 2000, PLANTA, V211, P874, DOI 10.1007/s004250000412
+   Jaglo-Ottosen KR, 1998, SCIENCE, V280, P104, DOI 10.1126/science.280.5360.104
+   Janowiak F, 2002, J PLANT PHYSIOL, V159, P635, DOI 10.1078/0176-1617-0638
+   Janowiak F, 1996, J PLANT PHYSIOL, V147, P582, DOI 10.1016/S0176-1617(96)80049-6
+   Knight H, 1996, PLANT CELL, V8, P489, DOI 10.1105/tpc.8.3.489
+   Kumar S, 2008, J AGRON CROP SCI, V194, P449, DOI 10.1111/j.1439-037X.2008.00335.x
+   Land V., 1992, PLANT MOL BIOL, V20, P951
+   Lang P, 2005, GENE, V359, P111, DOI 10.1016/j.gene.2005.06.013
+   LANG V, 1994, PLANT PHYSIOL, V104, P1341, DOI 10.1104/pp.104.4.1341
+   Lee TM, 1997, PLANT SCI, V126, P1, DOI 10.1016/S0168-9452(97)00076-9
+   Levitt J, 1980, CHILLING FREEZING HI
+   Liu BH, 2010, PLANT PHYSIOL, V153, P198, DOI 10.1104/pp.109.150607
+   Monroy AF, 1998, PLANT J, V13, P653, DOI 10.1046/j.1365-313X.1998.00070.x
+   Nakashima K, 2009, PLANT PHYSIOL, V149, P88, DOI 10.1104/pp.108.129791
+   Nayyar H, 2005, J SCI FOOD AGR, V85, P1925, DOI 10.1002/jsfa.2198
+   Nayyar H, 2005, J AGRON CROP SCI, V191, P340, DOI 10.1111/j.1439-037X.2005.00158.x
+   Nayyar H, 2005, ENVIRON EXP BOT, V53, P39, DOI 10.1016/j.envexpbot.2004.02.011
+   NORDIN K, 1993, PLANT MOL BIOL, V21, P641, DOI 10.1007/BF00014547
+   OFARRELL PH, 1975, J BIOL CHEM, V250, P4007
+   Parry A.D., 1991, ABSCISIC ACID PHYSL
+   Pruvot G, 1996, PHYSIOL PLANTARUM, V97, P123, DOI 10.1111/j.1399-3054.1996.tb00488.x
+   Rabbani MA, 2003, PLANT PHYSIOL, V133, P1755, DOI 10.1104/pp.103.025742
+   Ristic Z, 1998, J PLANT PHYSIOL, V153, P154, DOI 10.1016/S0176-1617(98)80059-X
+   Saxena N.P., 1990, P INT C PLANT PHYS
+   SCHLENK H, 1960, ANAL CHEM, V32, P1412, DOI 10.1021/ac60167a011
+   SCHUSSLER JR, 1984, PLANT PHYSIOL, V76, P301, DOI 10.1104/pp.76.2.301
+   SCHUSSLER JR, 1991, PLANT PHYSIOL, V96, P1308, DOI 10.1104/pp.96.4.1308
+   Sevchencko A., 1996, ANAL CHEM, V68, P850
+   Sharp RE, 2000, J EXP BOT, V51, P1575, DOI 10.1093/jexbot/51.350.1575
+   Sharp RE, 2002, PLANT CELL ENVIRON, V25, P211, DOI 10.1046/j.1365-3040.2002.00798.x
+   Sharp RE, 2002, J EXP BOT, V53, P33, DOI 10.1093/jexbot/53.366.33
+   Snedecor G.W., 1980, STAT METHODS
+   SRINIVASAN A, 1998, FIELD CROPS RES, V57, P179
+   STEPONKUS PL, 1988, P NATL ACAD SCI USA, V85, P9026, DOI 10.1073/pnas.85.23.9026
+   Tamminen I, 2001, PLANT J, V25, P1, DOI 10.1046/j.1365-313x.2001.00927.x
+   Taulavuori E, 2001, J EXP BOT, V52, P2375, DOI 10.1093/jexbot/52.365.2375
+   Thakur P, 2010, ENVIRON EXP BOT, V67, P429, DOI 10.1016/j.envexpbot.2009.09.004
+   THOMASHOW MF, 1994, ARABIDOPSIS, P807, DOI DOI 10.1101/087969428.27.807
+   Uemura M, 1999, J PLANT RES, V112, P245, DOI 10.1007/PL00013882
+   VIESTRA RD, 2003, TRENDS PLANT SCI, V8, P135
+   Wan XC, 2004, J EXP BOT, V55, P411, DOI 10.1093/jxb/erh051
+   WANG H, 1995, PLANT MOL BIOL, V28, P605, DOI 10.1007/BF00021187
+   XIN ZG, 1992, PLANT PHYSIOL, V99, P707, DOI 10.1104/pp.99.2.707
+   Yamaguchi-Shinozaki K, 2005, TRENDS PLANT SCI, V10, P88, DOI 10.1016/j.tplants.2004.12.012
+   YAMAZAKI H, 1995, HORTSCIENCE, V30, P80, DOI 10.21273/HORTSCI.30.1.80
+   Yang JC, 2004, PLANT CELL ENVIRON, V27, P1055, DOI 10.1111/j.1365-3040.2004.01210.x
+   Yang JC, 2003, PLANT CELL ENVIRON, V26, P1621, DOI 10.1046/j.1365-3040.2003.01081.x
+   Yang JC, 2001, PLANT PHYSIOL, V127, P315, DOI 10.1104/pp.127.1.315
+NR 63
+TC 5
+Z9 7
+U1 0
+U2 49
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1161-0301
+J9 EUR J AGRON
+JI Eur. J. Agron.
+PD JAN
+PY 2013
+VL 44
+BP 10
+EP 21
+DI 10.1016/j.eja.2012.07.006
+PG 12
+WC Agronomy
+SC Agriculture
+GA 036YA
+UT WOS:000311067000002
+DA 2019-11-19
+ER
+
+PT J
+AU Luo, B
+   Khan, MM
+   Bienvenu, T
+   Chanussot, J
+   Zhang, LP
+AF Luo, Bin
+   Khan, Muhammad Murtaza
+   Bienvenu, Thibaut
+   Chanussot, Jocelyn
+   Zhang, Liangpei
+TI Decision-Based Fusion for Pansharpening of Remote Sensing Images
+SO IEEE GEOSCIENCE AND REMOTE SENSING LETTERS
+LA English
+DT Article
+DE Image fusion; remote sensing
+ID SCALE; RESOLUTION
+AB Pansharpening may be defined as the process of synthesizing multispectral images at a higher spatial resolution. A wide range of pansharpening methods are available, each producing images with different characteristics. To compare the performances and characteristics of different methods, a contest was held in 2006 by the IEEE Data Fusion Technical Committee. In this contest, A trous wavelet transform-based pansharpening (AWLP) and Laplacian pyramid-based context adaptive (CBD) pansharpening methods were declared as joint winners. While assessing the quantitative quality of the pansharpened images, we observed that the two methods outperform each other depending upon the local content of the scene. Hence, it is interesting to design a method taking advantage of both methods by locally selecting the best one. This adaptive decision fusion is performed based on the local scale of the structure. The interest of the proposed method is verified using both visual and quantitative analyses for different Pleiades data sets.
+C1 [Luo, Bin; Zhang, Liangpei] Wuhan Univ, State Key Lab Informat Engn Surveying Mapping & R, Wuhan 430079, Peoples R China.
+   [Khan, Muhammad Murtaza] Natl Univ Sci & Technol, Sch Elect Engn & Comp Sci, Islamabad 430079, Pakistan.
+   [Bienvenu, Thibaut; Chanussot, Jocelyn] Grenoble Inst Technol, GIPSA Lab, F-38402 Grenoble, France.
+RP Luo, B (reprint author), Wuhan Univ, State Key Lab Informat Engn Surveying Mapping & R, Wuhan 430079, Peoples R China.
+EM robinlb2002@gmail.com; muhammad.murtaza@seecs.edu.pk;
+   Thibaut.Bienvenu@gmail.com; jocelyn.chanussot@gipsa-lab.grenoble-inp.fr;
+   zlp62@public.wh.hb.cn
+RI Khan, Muhammad Murtaza/K-9719-2015; Chanussot, Jocelyn/Y-2395-2019
+OI Khan, Muhammad Murtaza/0000-0002-3255-4812
+FU Agence Nationale de la Recherche (ANR) project Visualization and
+   Analysis of Multi-Dimensional Hyperspectral Images in Astrophysics
+   (VAHINE)French National Research Agency (ANR); National Science
+   Foundation of China (NSFC)-ANR project Information Extraction and
+   Interpretation for Multi-Scale Remotely Sensed Imagery (XIMRI)French
+   National Research Agency (ANR) [NSFC 41061130553]; Chinese 973
+   ProjectNational Basic Research Program of China [2011CB707100]; Chinese
+   NSFC Project [61102129]
+FX Manuscript received June 3, 2011; revised October 14, 2011 and December
+   28, 2011; accepted January 19, 2012. This work was supported in part by
+   Agence Nationale de la Recherche (ANR) project Visualization and
+   Analysis of Multi-Dimensional Hyperspectral Images in Astrophysics
+   (VAHINE), by National Science Foundation of China (NSFC)-ANR project
+   Information Extraction and Interpretation for Multi-Scale Remotely
+   Sensed Imagery (XIMRI) under Grant NSFC 41061130553, by Chinese 973
+   Project 2011CB707100, and by Chinese NSFC Project 61102129.
+CR Aiazzi B, 2002, IEEE T GEOSCI REMOTE, V40, P2300, DOI 10.1109/TGRS.2002.803623
+   Aiazzi B, 2009, IEEE GEOSCI REMOTE S, V6, P302, DOI 10.1109/LGRS.2008.2012003
+   Alparone L, 2007, IEEE T GEOSCI REMOTE, V45, P3012, DOI 10.1109/TGRS.2007.904923
+   Brox T, 2006, J VIS COMMUN IMAGE R, V17, P1053, DOI 10.1016/j.jvcir.2005.06.001
+   Caselles V, 1999, INT J COMPUT VISION, V33, P5, DOI 10.1023/A:1008144113494
+   CHAVEZ PS, 1991, PHOTOGRAMM ENG REM S, V57, P295
+   Khan MM, 2009, 2009 16TH IEEE INTERNATIONAL CONFERENCE ON IMAGE PROCESSING, VOLS 1-6, P2853, DOI 10.1109/ICIP.2009.5414514
+   LINDEBERG T, 1993, INT J COMPUT VISION, V11, P283, DOI 10.1007/BF01469346
+   Lindeberg T, 1998, INT J COMPUT VISION, V30, P79, DOI 10.1023/A:1008045108935
+   Luo B, 2009, MULTISCALE MODEL SIM, V8, P1, DOI 10.1137/080730627
+   Monasse P, 2000, IEEE T IMAGE PROCESS, V9, P860, DOI 10.1109/83.841532
+   Nunez J, 1999, IEEE T GEOSCI REMOTE, V37, P1204, DOI 10.1109/36.763274
+   Otazu X, 2005, IEEE T GEOSCI REMOTE, V43, P2376, DOI 10.1109/TGRS.2005.856106
+   Sirguey P, 2008, IEEE GEOSCI REMOTE S, V5, P78, DOI 10.1109/LGRS.2007.908884
+   Wald L., 2002, DATA FUSION DEFINITI
+NR 15
+TC 25
+Z9 30
+U1 0
+U2 46
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1545-598X
+EI 1558-0571
+J9 IEEE GEOSCI REMOTE S
+JI IEEE Geosci. Remote Sens. Lett.
+PD JAN
+PY 2013
+VL 10
+IS 1
+BP 19
+EP 23
+DI 10.1109/LGRS.2012.2189933
+PG 5
+WC Geochemistry & Geophysics; Engineering, Electrical & Electronic; Remote
+   Sensing; Imaging Science & Photographic Technology
+SC Geochemistry & Geophysics; Engineering; Remote Sensing; Imaging Science
+   & Photographic Technology
+GA 034UZ
+UT WOS:000310899700004
+DA 2019-11-19
+ER
+
+PT J
+AU Rafique, A
+   Awan, MA
+   Wasti, A
+   Qazi, IA
+   Arshad, M
+AF Rafique, Aneeza
+   Awan, M. Ali
+   Wasti, Ayesha
+   Qazi, Ishtiaq A.
+   Arshad, Muhammad
+TI Removal of Fluoride from Drinking Water Using Modified Immobilized
+   Activated Alumina
+SO JOURNAL OF CHEMISTRY
+LA English
+DT Article
+ID ADSORPTION; DEFLUORIDATION
+AB The study describes the removal of fluoride from drinking water using modified immobilized activated alumina (MIAA) prepared by sol-gel method. The modification was done by adding a specific amount of alum during the sol formation step. The fluoride removal efficiency of MIAA was 1.35 times higher as compared to normal immobilized activated alumina. A batch adsorption study was performed as a function of adsorbent dose, contact time, stirring rate, and initial fluoride concentration. More than 90% removal of fluoride was achieved within 60 minutes of contact time. The adsorption potential of MIAA was compared with activated charcoal which showed that the removal efficiency was about 10% more than the activated charcoal. Both the Langmuir and Freundlich adsorption isotherms fitted well for the fluoride adsorption on MIAA with the regression coefficient R-2 of 0.99 and 0.98, respectively. MIAA can both regenerated thermally and chemically. Adsorption experiments using MIAA were employed on real drinking water samples from a fluoride affected area. The study showed that modified immobolized activated alumina is an effective adsorbent for fluoride removal.
+C1 [Rafique, Aneeza; Awan, M. Ali; Wasti, Ayesha; Qazi, Ishtiaq A.; Arshad, Muhammad] Natl Univ Sci & Technol, Sch Civil & Environm Engn, Inst Environm Sci & Engn, Islamabad 44000, Pakistan.
+RP Awan, MA (reprint author), Natl Univ Sci & Technol, Sch Civil & Environm Engn, Inst Environm Sci & Engn, Sect H-12, Islamabad 44000, Pakistan.
+EM ali.awan@mail.com
+RI Arshad, Muhammad/F-4922-2012
+OI Arshad, Muhammad/0000-0002-2343-822X
+FU National University of Sciences and Technology (NUST), Islamabad,
+   Pakistan
+FX The authors thank the National University of Sciences and Technology
+   (NUST), Islamabad, Pakistan for the financial support of this work.
+CR Ahmad Maqsood, 2003, Pak J Pharm Sci, V16, P9
+   Alagumuthu G, 2011, HEM IND, V65, P23, DOI 10.2298/HEMIND100712052A
+   Ali I, 2006, NAT PROTOC, V1, P2661, DOI 10.1038/nprot.2006.370
+   Buelna G, 1999, MICROPOR MESOPOR MAT, V30, P359, DOI 10.1016/S1387-1811(99)00065-7
+   Camacho LM, 2010, J COLLOID INTERF SCI, V349, P307, DOI 10.1016/j.jcis.2010.05.066
+   DENG S, 2006, NEW MEXICO J SCI, V44, P183
+   Emmanuel K. A., 2008, Rasayan Journal of Chemistry, V1, P802
+   Fawell J, 2006, FLUORIDE DRINKING WA
+   Kamble SP, 2007, CHEM ENG J, V129, P173, DOI 10.1016/j.cej.2006.10.032
+   Kumar E, 2011, J HAZARD MATER, V186, P1042, DOI 10.1016/j.jhazmat.2010.11.102
+   Maliyekkal SM, 2006, WATER RES, V40, P3497, DOI 10.1016/j.watres.2006.08.007
+   Meenakshi, 2006, J HAZARD MATER, V137, P456, DOI 10.1016/j.jhazmat.2006.02.024
+   Nigussie W, 2007, J HAZARD MATER, V147, P954, DOI 10.1016/j.jhazmat.2007.01.126
+   NSDWQ, 2008, NAT STAND DRIK WAT Q
+   Sun YB, 2011, DESALINATION, V277, P121, DOI 10.1016/j.desal.2011.04.013
+   Tang YL, 2009, COLLOID SURFACE A, V337, P33, DOI 10.1016/j.colsurfa.2008.11.027
+   Tembhurkar A. R., 2006, Journal of Environmental Science & Engineering, V48, P151
+   Tripathy SS, 2006, SEP PURIF TECHNOL, V50, P310, DOI 10.1016/j.seppur.2005.11.036
+   UNEP, 1992, END FLUOR GLOB HLTH
+   World Health Organization (WHO), 2011, GUID DRINK WAT QUAL
+NR 20
+TC 23
+Z9 23
+U1 1
+U2 27
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 2090-9063
+EI 2090-9071
+J9 J CHEM-NY
+JI J. Chem.
+PY 2013
+AR 386476
+DI 10.1155/2013/386476
+PG 7
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 034ZB
+UT WOS:000310910300001
+OA DOAJ Gold
+DA 2019-11-19
+ER
+
+PT J
+AU Ahmad, M
+   Zafar, M
+   Sultana, S
+   Khan, MA
+   Hasan, A
+   Riaz, MA
+   Ahmed, S
+AF Ahmad, M.
+   Zafar, M.
+   Sultana, S.
+   Khan, M. A.
+   Hasan, A.
+   Riaz, M. A.
+   Ahmed, S.
+TI Policy Recommendation for Renewable Energy From Biofuels
+SO ENERGY SOURCES PART B-ECONOMICS PLANNING AND POLICY
+LA English
+DT Article
+DE biofuel; policy recommendation; renewable energy
+ID BIODIESEL
+AB Biofuels are an emerging solution for the present-day concerns about rising oil prices and depletion of crude oil resources the world over. The justification for developing biofuels as alternate fuels in the world is manifold; rising crude oil prices and vulnerability in terms of energy security are the two biggest reasons. Moreover, production and usage of biofuels will strengthen the agricultural sector, provide energy to remote areas where conventional energy cannot be taken, contribute towards grassroots poverty alleviation, and increase industrial activity. In the world over the environmental damage by fossil fuel generation and combustion, as well as the depletion of fossil fuel resources, are very major concerns that justify a shift to renewable fuels. This article contains policy recommendations on different concerns that come across in introducing biofuels at global level. In order to move towards commercial deployment of biofuels, there are a number of policy areas that need attention throughout the world. These include industry awareness, decentralized production, consumer awareness, a one-window operation at the government level, recognition, by the Ministry of Environment, of biofuels as environment-friendly fuels, development of a supply chain mechanism, mass-scale planting of biodiesel producing trees and crops, blending and distribution issues, development of quality standards, involvement of the automobile sector, industry-academia collaboration and development of human resource in this discipline, public-private sector partnership and involvement of state-owned industries in the biodiesel project, and steps to make biodiesel a cost-competitive product through government regulation and subsidies. The recommendations are based upon the internationally practiced models transformed and customized into a feasible solution for suitability in the local environment. The policy recommendations, after iterations, shall become concrete inputs to make a law or a set of laws for using biofuels at a global level. These policies cover all concerned areas that have to be looked into and made part thereof while formulating the possible legislation. Thus the resulting legislation will be practicable and comprehensive.
+C1 [Ahmad, M.; Zafar, M.; Sultana, S.; Khan, M. A.] Quaid I Azam Univ, Dept Plant Sci, Islamabad, Pakistan.
+   [Hasan, A.] Univ Malaya, Dept Chem, Kuala Lumpur 59100, Malaysia.
+   [Riaz, M. A.] Clean Power Pvt Ltd, Islamabad, Pakistan.
+   [Ahmed, S.] CASE, Islamabad, Pakistan.
+RP Ahmad, M (reprint author), Quaid I Azam Univ, Dept Plant Sci, Islamabad, Pakistan.
+EM mushtaqflora@hotmail.com
+RI Ahmad, Mushtaq/I-7263-2015
+CR Ahmad M, 2010, ENERG SOURCE PART A, V32, P189, DOI 10.1080/15567030802467480
+   Ahmad M, 2008, ASIAN J CHEM, V20, P6402
+   Ali Y., 1997, INT SPRING FUELS LUB
+   Borgman D., 2007, AGR BIOFUELS STRIVIN
+   Wu WH, 1999, J AM OIL CHEM SOC, V76, P517, DOI 10.1007/s11746-999-0034-2
+NR 5
+TC 2
+Z9 2
+U1 0
+U2 28
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA
+SN 1556-7249
+J9 ENERG SOURCE PART B
+JI Energy Sources Part B
+PY 2013
+VL 8
+IS 1
+BP 67
+EP 75
+DI 10.1080/15567249.2011.569832
+PG 9
+WC Energy & Fuels
+SC Energy & Fuels
+GA 032SQ
+UT WOS:000310739800008
+DA 2019-11-19
+ER
+
+PT J
+AU Khan, WA
+   Kadri, MB
+   Ali, Q
+AF Khan, Waqar Ahmed
+   Kadri, Muhammad Bilal
+   Ali, Qasim
+TI Optimization of Microchannel Heat Sinks Using Genetic Algorithm
+SO HEAT TRANSFER ENGINEERING
+LA English
+DT Article
+ID THERMAL PERFORMANCE; FLUID-FLOW; DESIGN; EXCHANGER; NETWORKS; SINGLE
+AB In this study, a genetic algorithm is employed to minimize the entropy generation rate in microchannel heat sinks. The entropy generation rate allows the combined effects of thermal performance and pressure drop to be assessed simultaneously as the heat sink interacts with the surrounding flow field. Previously developed models for the heat transfer, pressure drop and entropy generation rate are used in the optimization procedure. The results of optimization are compared with existing results obtained by the Newton-Raphson method. It is observed that the GA gives better overall performance of the microchannel heat sinks.
+C1 [Khan, Waqar Ahmed] Natl Univ Sci & Technol, PN Engn Coll, Dept Engn Sci, Karachi 75350, Pakistan.
+   [Kadri, Muhammad Bilal] Natl Univ Sci & Technol, Dept Elect & Power Engn, Karachi 75350, Pakistan.
+   [Ali, Qasim] COMSATS Inst Informat Technol, Dept Math, Islamabad, Pakistan.
+RP Khan, WA (reprint author), Natl Univ Sci & Technol, PN Engn Coll, Dept Engn Sci, Karachi 75350, Pakistan.
+EM wkhan_2000@yahoo.com
+RI Khan, Waqar/H-3886-2013
+OI Khan, Waqar/0000-0002-8328-850X
+CR Amanifard N, 2008, ENERG CONVERS MANAGE, V49, P311, DOI 10.1016/j.enconman.2007.06.002
+   Aragon AM, 2008, COMPUT METHOD APPL M, V197, P4399, DOI 10.1016/j.cma.2008.05.025
+   Bang H, 2009, J MECH SCI TECHNOL, V23, P1500, DOI 10.1007/s12206-009-0403-7
+   Chong SH, 2002, APPL THERM ENG, V22, P1569, DOI 10.1016/S1359-4311(02)00083-2
+   CHOQUETTE SF, 1996, ASME DSC, V59, P115
+   Davidor Y., 1991, GENETIC ALGORITHMS R
+   Fletcher R., 1980, PRACTICAL METHODS OP
+   Foli K, 2006, INT J HEAT MASS TRAN, V49, P1090, DOI 10.1016/j.ijheatmasstransfer.2005.08.032
+   Garimella SV, 2004, HEAT TRANSFER ENG, V25, P15, DOI 10.1080/01457630490248241
+   Goldberg D-E, 1989, GENETIC ALGORITHMS S
+   Holland JH, 1975, ADAPTATION NATURAL A
+   Jang SP, 2005, J HEAT TRANS-T ASME, V127, P770, DOI 10.1115/1.1924628
+   JEANANTOINE G, 2005, HEAT TRANSFER ENG, V26, P56
+   Kandlikar S.G., 2005, IEEE SEM 21 SAN JOS, P8, DOI DOI 10.1109/STHERM.2005.1412152
+   Kays WM, 1964, COMPACT HEAT EXCHANG
+   Khan WA, 2008, J THERMOPHYS HEAT TR, V22, P352, DOI 10.2514/1.35621
+   Khan WA, 2009, IEEE T COMPON PACK T, V32, P243, DOI 10.1109/TCAPT.2009.2022586
+   Kim SJ, 2004, HEAT TRANSFER ENG, V25, P37, DOI 10.1080/01457630490248359
+   Kleiner MB, 1995, IEEE T COMPON PACK A, V18, P795, DOI 10.1109/95.477466
+   KNIGHT RW, 1992, IEEE T COMPON HYBR, V15, P832, DOI 10.1109/33.180049
+   Liao XS, 2002, PROC SPIE, V4914, P181, DOI 10.1117/12.481814
+   Liu D, 2005, INT J NUMER METHOD H, V15, P7, DOI 10.1108/09615530510571921
+   Meysenc L, 1997, IEEE T COMPON PACK A, V20, P334, DOI 10.1109/95.623028
+   Mitchell M, 1996, INTRO GENETIC ALGORI
+   Ryu JH, 2002, INT J HEAT MASS TRAN, V45, P2823, DOI 10.1016/S0017-9310(02)00006-6
+   UPADHYE HR, 2004, P 2 INT C MICR MIN, P679, DOI DOI 10.1115/ICMM2004-2398
+   Wei XJ, 2003, IEEE T COMPON PACK T, V26, P55, DOI 10.1109/TCAPT.2003.811473
+   Weile D.S., 1996, ANN REV PROGR APPL C, V2, P726
+   Weile DS, 1997, IEEE T ANTENN PROPAG, V45, P343, DOI 10.1109/8.558650
+   Wen ZM, 1997, PROCEEDINGS OF THE 1997 1ST ELECTRONIC PACKAGING TECHNOLOGY CONFERENCE, P123, DOI 10.1109/EPTC.1997.723898
+NR 30
+TC 16
+Z9 17
+U1 1
+U2 16
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0145-7632
+EI 1521-0537
+J9 HEAT TRANSFER ENG
+JI Heat Transf. Eng.
+PY 2013
+VL 34
+IS 4
+BP 279
+EP 287
+DI 10.1080/01457632.2013.694758
+PG 9
+WC Thermodynamics; Engineering, Mechanical; Mechanics
+SC Thermodynamics; Engineering; Mechanics
+GA 030TK
+UT WOS:000310592800001
+DA 2019-11-19
+ER
+
+PT J
+AU Karim, Z
+   Qureshi, BA
+   Ghouri, I
+AF Karim, Zahida
+   Qureshi, Bilal Aslam
+   Ghouri, Ishtiaq
+TI Spatial Analysis of Human Health Risk Associated with Trihalomethanes in
+   Drinking Water: A Case Study of Karachi, Pakistan
+SO JOURNAL OF CHEMISTRY
+LA English
+DT Article
+ID CHLORINATION BY-PRODUCTS; HAZARD ASSESSMENT; TAP WATER; CANCER;
+   GEOSTATISTICS; UNCERTAINTY; AREA; GIS
+AB The objective of this study was to spatially analyze total trihalomethanes (TTHMs) and health risk associated with TTHMs in drinking water of different densely populated towns of Karachi city. Lifetime cancer risk and hazard index of THMs through oral ingestion and dermal absorption were calculated and mapped using kriging as an interpolation method to evaluate the carcinogenic and noncarcinogenic risk to human health in the study area. Lifetime cancer risk value due to the oral ingestion of TTHMs in different towns of the city was exceeded from 1.0 x 10(-6), showing that residents of these towns were expected to be at higher cancer risk. The hazard index for different towns was found to be lower than unity, indicating that no adverse health effects are expected as a result of exposure to THMs.
+C1 [Karim, Zahida; Qureshi, Bilal Aslam; Ghouri, Ishtiaq] Univ Karachi, Dept Chem, Karachi 75270, Pakistan.
+RP Karim, Z (reprint author), Univ Karachi, Dept Chem, Karachi 75270, Pakistan.
+EM zahidakarim@hotmail.com
+OI Karim, Zahida/0000-0002-8008-1618
+FU Dean Faculty of Science, University of Karachi
+FX This work was financially supported by the Dean Faculty of Science,
+   University of Karachi. The author is thankful to the Pakistan Council of
+   Scientific and Industrial Research (PCSIR), Karachi, for providing
+   instrumental facilities for the measurement of THMs in the water
+   samples. She also acknowledges the intellectual guidance of Dr. Salman
+   Qureshi, Department of Geography, University of Karachi during this
+   study.
+CR Basu M, 2011, ENVIRON MONIT ASSESS, V178, P121, DOI 10.1007/s10661-010-1677-z
+   Bove GE, 2007, INT J HEALTH GEOGR, V6, DOI 10.1186/1476-072X-6-18
+   Cantor KP, 1999, AM J EPIDEMIOL, V150, P552, DOI 10.1093/oxfordjournals.aje.a010052
+   Chowdhury S, 2011, J HAZARD MATER, V187, P574, DOI 10.1016/j.jhazmat.2011.01.085
+   Goovaerts P, 2001, GEODERMA, V103, P3, DOI 10.1016/S0016-7061(01)00067-2
+   Iszatt N, 2011, PEDIATRICS, V127, pE389, DOI 10.1542/peds.2009-3356
+   Karim Z, 2011, J BASIC APPL SCI, V7, P7
+   Karim Z, 2011, J CHEM SOC PAKISTAN, V33, P215
+   Karim Z, 2011, B ENVIRON CONTAM TOX, V86, P676, DOI 10.1007/s00128-011-0261-8
+   Korre A, 2002, APPL GEOCHEM, V17, P1029, DOI 10.1016/S0883-2927(02)00058-6
+   Lee SC, 2004, ENVIRON RES, V94, P47, DOI 10.1016/S0013-9351(03)00067-7
+   Liu XM, 2006, ENVIRON POLLUT, V141, P257, DOI 10.1016/j.envpol.2005.08.048
+   McGrath D, 2004, ENVIRON POLLUT, V127, P239, DOI 10.1016/j.envpol.2003.07.002
+   Moral FJ, 2006, ATMOS ENVIRON, V40, P1408, DOI 10.1016/j.atmosenv.2005.10.054
+   Morra P, 2006, ENVIRON INT, V32, P444, DOI 10.1016/j.envint.2005.10.003
+   Nikolaou AD, 2002, TALANTA, V56, P717, DOI 10.1016/S0039-9140(01)00613-0
+   Pardakhti AR, 2011, ENVIRON MONIT ASSESS, V179, P499, DOI 10.1007/s10661-010-1752-5
+   Poggio L, 2009, SCI TOTAL ENVIRON, V407, P5961, DOI 10.1016/j.scitotenv.2009.08.026
+   Rowe DR, 1995, HDB WASTEWATER RECLA
+   USEPA, 1999, NCEAF0644 USEPA RISK
+   USEPA (US Environmental Protection Agency), 2003, EPA630P03001A RISK A
+   Uyak V, 2006, ENVIRON INT, V32, P12, DOI 10.1016/j.envint.2005.03.005
+   Venkataraman K, 2012, CLEAN TECHNOL ENVIR, V14, P551, DOI 10.1007/s10098-011-0415-8
+   Viana RB, 2009, ENVIRON MONIT ASSESS, V151, P317, DOI 10.1007/s10661-008-0273-y
+   Wang GS, 2007, SCI TOTAL ENVIRON, V387, P86, DOI 10.1016/j.scitotenv.2007.07.029
+   Wu B, 2010, B ENVIRON CONTAM TOX, V84, P46, DOI 10.1007/s00128-009-9900-8
+NR 26
+TC 6
+Z9 6
+U1 0
+U2 11
+PU HINDAWI PUBLISHING CORPORATION
+PI NEW YORK
+PA 410 PARK AVENUE, 15TH FLOOR, #287 PMB, NEW YORK, NY 10022 USA
+SN 2090-9063
+J9 J CHEM-NY
+JI J. Chem.
+PY 2013
+AR 805682
+DI 10.1155/2013/805682
+PG 7
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 034WL
+UT WOS:000310903500001
+OA DOAJ Gold
+DA 2019-11-19
+ER
+
+PT J
+AU Mallah, A
+   Solangi, AR
+   Memon, N
+   Memon, RA
+   Khuhawar, MY
+AF Mallah, Arfana
+   Solangi, Amber R.
+   Memon, Najma
+   Memon, Rabia A.
+   Khuhawar, Muhammad Y.
+TI Reversed-Phase Liquid Chromatographic Separation and Determination of
+   Ni(II), Cu(II), Pd(II), and Ag(I) Using
+   2-Pyrrolecarboxaldehyde-4-phenylsemicarbazone as a Complexing Reagent
+SO JOURNAL OF CHEMISTRY
+LA English
+DT Article
+ID SAMPLES; CO(II)
+AB This paper reports the utilization of 2-pyrrolecarboxaldehyde-4-phenylsemicarbazone (PPS) as a complexing reagent for the simultaneous determination and separation of Ni(II), Cu(II), Pd(II), and Ag(I) by reversed-phase high-performance liquid chromatography with UV detector. A good separation was achieved using Microsorb C18 column (150 x 4.6 mm id.) with a mobile phase consisted of methanol : acetonitrlle : water : sodium acetate (1 mM) (68: 6.5 : 25 : 0.5 v/v/v/v) at a flow rate of 1 mL/min. The detection was performed at 280 nm. The linear calibration range was 2-10 mu g/mL for all metal ions. The detection limits (S/N = 3) were 80 pg/mL for Ni(II), 0.8 ng/mL for Cu(II), 0.16 ng/mL for Pd(II), and 0.8 ng/mL for Ag(I). The applicability and the accuracy of the developed method were estimated by the analysis of Ni(II) in hydrogenated oil (ghee) samples and Pd(II) in palladium charcoal.
+C1 [Mallah, Arfana; Khuhawar, Muhammad Y.] Univ Sindh, MA Kazi Inst Chem, Jamshoro 76080, Pakistan.
+   [Solangi, Amber R.; Memon, Najma] Univ Sindh, Natl Ctr Excellence Analyt Chem, Jamshoro 76080, Pakistan.
+   Univ Sindh, Inst Plant Sci, Jamshoro 76080, Pakistan.
+RP Mallah, A (reprint author), Univ Sindh, MA Kazi Inst Chem, Jamshoro 76080, Pakistan.
+EM arfana30@gmail.com
+RI Memon, Najma/E-3602-2013; Khuhawar, Muhammad Yar/C-5800-2015
+OI Memon, Najma/0000-0002-3241-8423; Khuhawar, Muhammad
+   Yar/0000-0002-0726-3271; Solangi, Amber/0000-0002-3852-1245
+CR Bruno P, 2007, J LIQ CHROMATOGR R T, V30, P477, DOI 10.1080/10826070601093762
+   Chandra S, 2007, SPECTROCHIM ACTA A, V66, P1347, DOI 10.1016/j.saa.2006.04.047
+   Ghaedi M, 2007, J HAZARD MATER, V142, P272, DOI 10.1016/j.jhazmat.2006.08.012
+   Heitland P, 2006, J TRACE ELEM MED BIO, V20, P253, DOI 10.1016/j.jtemb.2006.08.001
+   Kaur V, 2007, ANAL CHIM ACTA, V603, P44, DOI 10.1016/j.aca.2007.09.031
+   Mallah A, 2010, ACTA CHROMATOGR, V22, P405, DOI 10.1556/AChrom.22.2010.3.5
+   Najafi NM, 2010, SCI IRAN TRANS C, V17, P144
+   Rao YS, 2010, J CHIN CHEM SOC-TAIP, V57, P677, DOI 10.1002/jccs.201000094
+   Sarma LS, 2005, J AGR FOOD CHEM, V53, P5492, DOI 10.1021/jf0500334
+   Sigel H., 1986, METAL IONS IN BIOLOG, V20
+   Wardenbach P, 2006, ECO EFFICIEN IND SCI, V19, P393
+   Woodard TL, 2007, COMMUN SOIL SCI PLAN, V38, P1087, DOI 10.1080/00103620701280308
+NR 12
+TC 2
+Z9 2
+U1 0
+U2 7
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 2090-9063
+EI 2090-9071
+J9 J CHEM-NY
+JI J. Chem.
+PY 2013
+AR 184356
+DI 10.1155/2013/184356
+PG 5
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 034XZ
+UT WOS:000310907500001
+OA DOAJ Gold
+DA 2019-11-19
+ER
+
+PT J
+AU Batool, SS
+   Imran, Z
+   Israr-Qadir, M
+   Jamil-Rana, S
+   Usman, M
+   Jamil, H
+   Rafiq, MA
+   Hasan, MM
+   Nur, O
+   Willander, M
+AF Batool, S. S.
+   Imran, Z.
+   Israr-Qadir, M.
+   Jamil-Rana, S.
+   Usman, M.
+   Jamil, H.
+   Rafiq, M. A.
+   Hasan, M. M.
+   Nur, O.
+   Willander, M.
+TI Silica nanofibers based impedance type humidity detector prepared on
+   glass substrate
+SO VACUUM
+LA English
+DT Article
+DE SiO2 nanofibers; Electric modulus; Humidity detector; Response time
+ID MESOPOROUS SILICA; SENSING PROPERTIES; DIELECTRIC-PROPERTIES;
+   THIN-FILMS; SENSOR; COMPOSITES; NANOWIRES; MEMBRANE; AMMONIA; SBA-15
+AB Impedance type relative humidity detector is fabricated by depositing electrospun silica nanofibers on glass substrate. The silica nanofibers with an average diameter similar to 150 nm and length similar to 100 mu m were used. Thermogravimetric and differential scanning calorimetric analysis confirm that the accurate annealing temperature is 500 degrees C for complete removal of PVP. Humidity detecting devices were fabricated by defining titanium electrodes on top of the silica nanofibers. The performance of silica nanofibers humidity detectors was tested by AC electrical measurements at 40-90% relative humidity. The response and the recovery times were 5 s and 3 s, respectively, between 40% and 90% relative humidity. Contribution of dipoles, space charge polarization, relaxation of these dipoles and low frequency dispersion phenomenon were observed during impedance measurements. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Batool, S. S.; Imran, Z.; Usman, M.; Jamil, H.; Rafiq, M. A.; Hasan, M. M.] Pakistan Inst Engn & Appl Sci, Micro & Nano Devices Grp, Dept Met & Mat Engn, Islamabad 45650, Pakistan.
+   [Batool, S. S.; Imran, Z.; Israr-Qadir, M.; Jamil-Rana, S.; Nur, O.; Willander, M.] Linkoping Univ, Dept Sci & Technol, SE-60174 Norrkoping, Sweden.
+RP Batool, SS (reprint author), Pakistan Inst Engn & Appl Sci, Micro & Nano Devices Grp, Dept Met & Mat Engn, PO Nilore, Islamabad 45650, Pakistan.
+EM sitwat_naqvi@yahoo.com; fac221@pieas.edu.pk
+RI Qadir, Muhammad Israr/D-7508-2012; Rafiq, Muhammad/B-2648-2008
+OI Rafiq, Muhammad/0000-0002-3880-8801; Nur, Omer/0000-0002-2467-745X
+FU Higher Education Commission (HEC)Higher Education Commission of Pakistan
+FX We acknowledge the financial support of the Higher Education Commission
+   (HEC).
+CR Banerjee S, 2011, J APPL PHYS, V109, P1
+   Bearzotti A, 2004, J EUR CERAM SOC, V24, P1969, DOI 10.1016/S0955-2219(03)00521-1
+   Chen XJ, 2011, SENSOR ACTUAT B-CHEM, V156, P631, DOI 10.1016/j.snb.2011.02.009
+   Cruz-Chu ER, 2006, J PHYS CHEM B, V110, P21497, DOI 10.1021/jp063896o
+   De Marcellis A, 2011, DORDRECHT HEIDELBERG, P231
+   Dickey EC, 2002, SENSORS-BASEL, V2, P91, DOI 10.3390/s20300091
+   Geng WC, 2007, SENSOR ACTUAT B-CHEM, V127, P323, DOI 10.1016/j.snb.2007.04.021
+   He JH, 2007, J PHYS CHEM C, V111, P12152, DOI 10.1021/jp074772u
+   Ho CH, 2008, SYNTHETIC MET, V158, P630, DOI 10.1016/j.synthmet.2008.04.014
+   JONSCHER AK, 1999, J PHYS D, V32, P57
+   KULWICKI BM, 1991, J AM CERAM SOC, V74, P697, DOI 10.1111/j.1151-2916.1991.tb06911.x
+   Lai CY, 2003, J AM CHEM SOC, V125, P4451, DOI 10.1021/ja028650l
+   Li LY, 2008, THIN SOLID FILMS, V517, P948, DOI 10.1016/j.tsf.2008.07.016
+   Lou JY, 2005, OPT EXPRESS, V13, P2135, DOI 10.1364/OPEX.13.002135
+   McLachlan DS, 2007, J NANOMATER, P1
+   Morales-Acosta MD, 2010, MATER SCI FORUM, V644, P25, DOI 10.4028/www.scientific.net/MSF.644.25
+   Pan ZW, 2001, SCIENCE, V291, P1947, DOI 10.1126/science.1058120
+   Qia Q, 2009, SENSOR ACTUAT B-CHEM, V139, P611
+   Ram M, 2008, J ALLOY COMPD, V462, P214, DOI 10.1016/j.jallcom.2007.08.001
+   Sigmund W, 2006, J AM CERAM SOC, V89, P395, DOI 10.1111/j.1551-2916.2005.00807.x
+   Smith R C, 2009, 2009 IEEE Annual Report Conference on Electrical Insulation and Dielectric Phenomena (CEIDP 2009), P650, DOI 10.1109/CEIDP.2009.5377878
+   Srivastava R, 2007, SENSORS TRANSDUCERS, V80, P1295
+   SUN HT, 1989, SENSOR ACTUATOR, V19, P61
+   Sundaram R, 2004, PHYS STATUS SOLIDI A, V201, P529, DOI 10.1002/pssa.200306754
+   SZE S, 1998, MODERN SEMICONDUCTOR
+   Teeramongkonrasmee A, 2000, SENSOR ACTUAT B-CHEM, V66, P256, DOI 10.1016/S0925-4005(00)00346-4
+   Themistos C, 2009, J LIGHTWAVE TECHNOL, V27, P5537, DOI 10.1109/JLT.2009.2026655
+   Urbiztondo M, 2011, SENSOR ACTUAT B-CHEM, V157, P450, DOI 10.1016/j.snb.2011.04.089
+   Wagner T, 2011, SENSORS-BASEL, V11, P3135, DOI 10.3390/s110303135
+   Wang CT, 2006, THIN SOLID FILMS, V496, P658, DOI 10.1016/j.tsf.2005.09.001
+   Wang J, 2005, SENSOR ACTUAT B-CHEM, V108, P445, DOI 10.1016/j.snb.2004.11.089
+   Whang CM, 2001, B KOR CHEM SOC, V22, P1366
+   Wilson JS, 2005, LINACRE HOUSE
+   Wu SJ, 2010, MATER LETT, V64, P1295, DOI 10.1016/j.matlet.2010.03.012
+   Xia YN, 2003, ADV MATER, V15, P353, DOI 10.1002/adma.200390087
+   Zhang T, 2008, SENSOR ACTUAT B-CHEM, V128, P428
+   Zhang T, 2008, SENSOR ACTUAT B-CHEM, V131, P687, DOI 10.1016/j.snb.2007.12.059
+   Zhang T, 2008, SENSOR ACTUAT B-CHEM, V128, P482, DOI 10.1016/j.snb.2007.07.012
+   Zhang WW, 2012, J PHYS CHEM SOLIDS, V73, P517, DOI 10.1016/j.jpcs.2011.10.030
+   Zhang XW, 2009, MATER LETT, V63, P1761, DOI 10.1016/j.matlet.2009.05.038
+   Zhao Z, 2010, IEEE, P322
+NR 41
+TC 9
+Z9 9
+U1 1
+U2 47
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0042-207X
+J9 VACUUM
+JI Vacuum
+PD JAN
+PY 2013
+VL 87
+BP 1
+EP 6
+DI 10.1016/j.vacuum.2012.06.016
+PG 6
+WC Materials Science, Multidisciplinary; Physics, Applied
+SC Materials Science; Physics
+GA 030DT
+UT WOS:000310549900001
+DA 2019-11-19
+ER
+
+PT J
+AU Umar, MI
+   Javeed, A
+   Ashraf, M
+   Riaz, A
+   Mukhtar, MM
+   Afzal, S
+   Altaf, R
+AF Umar, Muhammad Ihtisham
+   Javeed, Aqeel
+   Ashraf, Muhammad
+   Riaz, Amjad
+   Mukhtar, Muhammad Mahmood
+   Afzal, Sheryar
+   Altaf, Rabia
+TI POLARITY-BASED SOLVENTS EXTRACTION OF OPUNTIA DILLENII AND ZINGIBER
+   OFFICINALE FOR IN VITRO ANTIMICROBIAL ACTIVITIES
+SO INTERNATIONAL JOURNAL OF FOOD PROPERTIES
+LA English
+DT Article
+DE Cactus; Ginger; Extract; Antimicrobial; Non-polar solvents; Polar
+   solvents
+ID ANTIBACTERIAL ACTIVITY; ESSENTIAL OIL; GINGER; INFECTION; RHIZOMES
+AB Extracts from dried stem of Opuntia dillenii and rhizome of Zingiber officinale were evaluated for antimicrobial activities by extraction in non-polar (petroleum ether and chloroform) and polar solvents (methanol and water). Bacillus subtilis and Staphylococcus aureus showed considerable susceptibility to all extracts of Opuntia dillenii and Zingiber officinale. Ether and chloroform extracts of Opuntia dillenii showed improved antimicrobial activity against Escherichia coli (gram negative) as compared to that of its methanolic and water extracts. On the other hand, methanolic and water extracts of Zingiber officinale showed better susceptibility for Escherichia coli. Salmonella typhi (gram negative) was found to be resistant to all extracts of both Opuntia dillenii and Zingiber officinale. Our results indicated that both Opuntia dillenii and Zingiber officinale have potent antimicrobial activity that is also based on solvent polarity during extraction.
+C1 [Umar, Muhammad Ihtisham; Javeed, Aqeel; Ashraf, Muhammad; Afzal, Sheryar; Altaf, Rabia] Univ Vet & Anim Sci, Dept Pharmacol & Toxicol, Lahore 54600, Pakistan.
+   [Riaz, Amjad] Univ Vet & Anim Sci, Dept Theriogenol, Lahore 54600, Pakistan.
+   [Mukhtar, Muhammad Mahmood] Univ Vet & Anim Sci, Dept Microbiol, Lahore 54600, Pakistan.
+RP Javeed, A (reprint author), Univ Vet & Anim Sci, Dept Pharmacol & Toxicol, Abdul Qadar Jilani Rd, Lahore 54600, Pakistan.
+EM aqeelvet@hotmail.com
+RI Riaz, Amjad/AAD-2027-2019
+FU HEC PakistanHigher Education Commission of Pakistan
+FX The authors wish to thank Zahir Ud Din Khan (Government College
+   University Lahore) for his help regarding the collection and
+   identification of plants and also Asif Saeed (University College of
+   pharmacy, Punjab University Lahore) for his help in developing the
+   method of extraction of plants. A. Javeed, A. Riaz, and M. M. Mukhtar
+   are supported by HEC Pakistan.
+CR Abe M, 2004, BIOSCI BIOTECH BIOCH, V68, P1601, DOI 10.1271/bbb.68.1601
+   Ahmed MS, 2005, PHYTOTHER RES, V19, P807, DOI 10.1002/ptr.1708
+   Ahn SI, 2009, MOL CELLS, V27, P211, DOI 10.1007/s10059-009-0026-y
+   Ali A, 2007, INT J FOOD PROP, V10, P269, DOI 10.1080/10942910601045297
+   Arora DS, 2009, INT J FOOD PROP, V12, P286, DOI 10.1080/10942910701675928
+   Black CD, 2010, J PAIN, V11, P894, DOI 10.1016/j.jpain.2009.12.013
+   Chrubasik S, 2005, PHYTOMEDICINE, V12, P684, DOI 10.1016/j.phymed.2004.07.009
+   DENYER CV, 1994, J NAT PROD, V57, P658, DOI 10.1021/np50107a017
+   Ferrara AM, 2005, INFECTION, V33, P106, DOI 10.1007/s15010-005-4102-8
+   Fethi B.A., 2009, ANN MICROBIOL, V59, P63
+   Ghayur MN, 2005, DIGEST DIS SCI, V50, P1889, DOI 10.1007/s10620-005-2957-2
+   Gupta RS, 2002, PHARM BIOL, V40, P411, DOI 10.1076/phbi.40.6.411.8437
+   Gupta S, 2005, FOODBORNE PATHOG DIS, V2, P330, DOI 10.1089/fpd.2005.2.330
+   Jiang JQ, 2006, STEROIDS, V71, P1073, DOI 10.1016/j.steroids.2006.09.005
+   Kim JS, 2008, ARCH PHARM RES, V31, P415, DOI 10.1007/s12272-001-1172-y
+   Konning GH, 2004, FITOTERAPIA, V75, P65, DOI 10.1016/j.fitote.2003.07.001
+   Kosanovic M, 2009, INT J FOOD PROP, V12, P766, DOI 10.1080/10942910802054312
+   Kristof K, 2007, EUR J CLIN MICROBIOL, V26, P563, DOI 10.1007/s10096-007-0338-9
+   Latha PS, 2006, AFR J BIOTECHNOL, V5, P2402
+   Loro JF, 1999, J ETHNOPHARMACOL, V67, P213, DOI 10.1016/S0378-8741(99)00027-6
+   Maeda-Yamamoto M, 2007, CYTOTECHNOLOGY, V55, P135, DOI 10.1007/s10616-007-9112-1
+   Martinez JL, 2002, CLIN MICROBIOL REV, V15, P647, DOI 10.1128/CMR.15.4.647-679.2002
+   Martins AP, 2001, PLANTA MED, V67, P580, DOI 10.1055/s-2001-16494
+   Mothershaw AS, 2004, INT J FOOD PROP, V7, P629, DOI 10.1081/JFP-200033062
+   Nair R, 2008, AFR J BIOTECHNOL, V7, P25
+   Pasha I, 2009, INT J FOOD PROP, V12, P910, DOI 10.1080/10942910802123281
+   Penna SC, 2003, PHYTOMEDICINE, V10, P381, DOI 10.1078/0944-7113-00271
+   Pescador-Piedra JC, 2009, INT J FOOD PROP, V12, P748, DOI 10.1080/10942910802036723
+   Pithayanukul P, 2007, PHYTOTHER RES, V21, P164, DOI 10.1002/ptr.2048
+   Roberts MC, 2004, MOL BIOTECHNOL, V28, P47, DOI 10.1385/MB:28:1:47
+   Ross I.A., 2005, MED PLANTS WORLD, V3, P507
+   Sabulal B, 2006, PHYTOCHEMISTRY, V67, P2469, DOI 10.1016/j.phytochem.2006.08.003
+   Samud AM, 1999, IMMUNOPHARMACOLOGY, V43, P311, DOI 10.1016/S0162-3109(99)00132-0
+   Shahid M, 2009, WORLD J MICROB BIOT, V25, P1439, DOI 10.1007/s11274-009-0032-4
+   Shan B, 2007, INT J FOOD MICROBIOL, V117, P112, DOI 10.1016/j.ijfoodmicro.2007.03.003
+   SHELEF LA, 1984, J FOOD SAFETY, V6, P29, DOI 10.1111/j.1745-4565.1984.tb00477.x
+   SHELEF LA, 1984, J FOOD SCI, V49, P737, DOI 10.1111/j.1365-2621.1984.tb13198.x
+   Singh G, 2008, FOOD CHEM TOXICOL, V46, P3295, DOI 10.1016/j.fct.2008.07.017
+   Soichiro A., 2001, J INFECT CHEMOTHER, V7, P49
+   SRIVASTAVA KC, 1992, MED HYPOTHESES, V39, P342, DOI 10.1016/0306-9877(92)90059-L
+   Suthar S, 2009, ENVIRON MONIT ASSESS, V159, P43, DOI 10.1007/s10661-008-0611-0
+   Yukui R, 2009, INT J FOOD PROP, V12, P774, DOI 10.1080/10942910802054320
+   ZAIKA LL, 1988, J FOOD SAFETY, V9, P97, DOI 10.1111/j.1745-4565.1988.tb00511.x
+NR 43
+TC 5
+Z9 5
+U1 0
+U2 23
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1094-2912
+EI 1532-2386
+J9 INT J FOOD PROP
+JI Int. J. Food Prop.
+PY 2013
+VL 16
+IS 1
+BP 114
+EP 124
+DI 10.1080/10942912.2010.517886
+PG 11
+WC Food Science & Technology
+SC Food Science & Technology
+GA 031AF
+UT WOS:000310610600011
+OA Bronze
+DA 2019-11-19
+ER
+
+PT J
+AU Jan, F
+   Usman, I
+   Agha, S
+AF Jan, Farmanullah
+   Usman, Imran
+   Agha, Shahrukh
+TI Reliable iris localization using Hough transform, histogram-bisection,
+   and eccentricity
+SO SIGNAL PROCESSING
+LA English
+DT Article
+DE Iris recognition; Iris localization; Iris segmentation; Eccentricity;
+   Histogram
+AB The iris technology recognizes individuals from their iris texture with great precision. However, it does not perform well for the non-ideal data, where the eye image may contain non-ideal issues such as the off-axis eye image, blurring, non-uniform illumination, hair, glasses, etc. It is because of their iris localization algorithms, which are developed for the ideal data. In this paper, we propose a reliable iris localization algorithm. It includes localizing a coarse iris location in the eye image using the Hough transform and image statistics; localizing the pupillary boundary using a bi-valued adaptive threshold and the two-dimensional (2D) shape properties; localizing the limbic boundary by reusing the Hough accumulator and image statistics; and finally, regularizing these boundaries using a technique based on the Fourier series and radial gradients. The proposed technique is tested on the public iris databases: CASIA V1, CASIA-IrisV3-Lamp, CASIA-IrisV4-Thousand, IITD V1.0, MMU V1.0, and MMU (new) V2.0. Experimental results obtained on these databases show superiority of the proposed technique over some state of the art iris localization techniques. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Jan, Farmanullah; Usman, Imran; Agha, Shahrukh] COMSATS Inst Informat Technol, Dept Elect Engn, Islamabad 44000, Pakistan.
+RP Jan, F (reprint author), COMSATS Inst Informat Technol, Dept Elect Engn, Pk Rd, Islamabad 44000, Pakistan.
+EM farmanullahs123@yahoo.com
+RI Agha, Shahrukh/M-2603-2016
+CR [Anonymous], 2009, IRIS DISTANCE NOT YE, P1
+   Basit A, 2007, OPT LASER ENG, V45, P1107, DOI 10.1016/j.optlaseng.2007.06.006
+   Basit A., 2009, THESIS NATL U SCI TE
+   Bowyer KW, 2008, COMPUT VIS IMAGE UND, V110, P281, DOI 10.1016/j.cviu.2007.08.005
+   Chen Y, 2010, IMAGE VISION COMPUT, V28, P261, DOI 10.1016/j.imavis.2009.04.017
+   Dasu A, 2001, INTERNATIONAL CONFERENCE ON INFORMATION TECHNOLOGY: CODING AND COMPUTING, PROCEEDINGS, P300, DOI 10.1109/ITCC.2001.918810
+   DAUGMAN JG, 1993, IEEE T PATTERN ANAL, V15, P1148, DOI 10.1109/34.244676
+   Daugman J, 2007, IEEE T SYST MAN CY B, V37, P1167, DOI 10.1109/TSMCB.2007.903540
+   Du YZ, 2010, SIGNAL PROCESS, V90, P1176, DOI 10.1016/j.sigpro.2009.10.001
+   Gonzalez R. C., 2001, DIGITAL IMAGE PROCES
+   He ZF, 2009, IEEE T PATTERN ANAL, V31, P1670, DOI 10.1109/TPAMI.2008.183
+   Huang J, 2009, SIGNAL PROCESS, V89, P2630, DOI 10.1016/j.sigpro.2009.05.001
+   Ibrahim MT, 2012, OPT LASER ENG, V50, P645, DOI 10.1016/j.optlaseng.2011.11.008
+   Jaehan Koh, 2010, Proceedings of the 2010 20th International Conference on Pattern Recognition (ICPR 2010), P2852, DOI 10.1109/ICPR.2010.699
+   Jeong DS, 2010, IMAGE VISION COMPUT, V28, P254, DOI 10.1016/j.imavis.2009.04.001
+   Khan TM, 2011, OPT LASER ENG, V49, P177, DOI 10.1016/j.optlaseng.2010.08.020
+   Li PH, 2010, IMAGE VISION COMPUT, V28, P246, DOI 10.1016/j.imavis.2009.04.010
+   Masek L., 2003, THESIS U W AUSTR
+   Nguyen Kien, 2010, 2010 10th International Conference on Information Sciences, Signal Processing and their Applications (ISSPA 2010), P185, DOI 10.1109/ISSPA.2010.5605546
+   Proenca H, 2010, IEEE T PATTERN ANAL, V32, P1529, DOI 10.1109/TPAMI.2009.66
+   Proenca H, 2010, IMAGE VISION COMPUT, V28, P213, DOI 10.1016/j.imavis.2009.09.004
+   Rathgeb C, 2011, IET COMPUT VIS, V5, P389, DOI 10.1049/iet-cvi.2010.0176
+   Shah S, 2009, IEEE T INF FOREN SEC, V4, P824, DOI 10.1109/TIFS.2009.2033225
+   Tajbakhsh N., 2010, EURASIP J ADV SIG PR, V2010, P1
+   Teo CC, 2010, LECT NOTES COMPUT SC, V6443, P532, DOI 10.1007/978-3-642-17537-4_65
+   Venugopalan S, 2010, EURASIP J ADV SIG PR, DOI 10.1155/2010/938737
+   Wildes RP, 1997, P IEEE, V85, P1348, DOI 10.1109/5.628669
+   Zhou ZH, 2004, PATTERN RECOGN, V37, P1049, DOI 10.1016/j.patcog.2003.09.006
+NR 28
+TC 26
+Z9 26
+U1 0
+U2 23
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-1684
+EI 1872-7557
+J9 SIGNAL PROCESS
+JI Signal Process.
+PD JAN
+PY 2013
+VL 93
+IS 1
+BP 230
+EP 241
+DI 10.1016/j.sigpro.2012.07.033
+PG 12
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 020XH
+UT WOS:000309849400020
+DA 2019-11-19
+ER
+
+PT J
+AU Haq, MA
+   Alam, MJ
+   Hasnain, A
+AF Haq, Muhammad Abdul
+   Alam, Muhammad Junaid
+   Hasnain, Abid
+TI Gum Cordia: A novel edible coating to increase the shelf life of
+   Chilgoza (Pinus gerardiana)
+SO LWT-FOOD SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Gum Cordia; Pinus gerardiana; Shelf life; Edible coating
+ID ROASTED PEANUTS; STORAGE
+AB Cordia myxa is a deciduous tree, which grows nearly all over the Indo-Pak subcontinent. The ripe fruits contain an anionic polysaccharide having good adhering property. Chilgoza (Pinus gerardiana), specie of genus Pinus (pine nuts) grows in Pakistan, Afghanistan and India. It is a rich source of unsaturated fatty acids but the un-shelled nuts are highly susceptible to rancidity. An effort was made to investigate the efficacy of gum Cordia in comparison with carboxy methyl cellulose (CMC) as edible coating to retard this oxidation. Gum Cordia and CMC with and without natural antioxidants were used in this study. Methanolic extract of C myxa and alpha tocopherol were selected as antioxidants. Chemical and sensory analyses were performed on coated and uncoated pine nuts stored at 35 degrees C for 112 days. Significant differences (p < 0.05) between coated and uncoated samples were observed. Samples coated with gum Cordia containing the extract of C. myxa exhibited highest (ca. 95%) increase in shelf life followed by CMC and the C. myxa extract (ca. 60%), gum Cordia (ca. 25%), and CMC (ca. 15%); based on peroxide value (20 meq.O-2 kg(-1)). However, samples treated with alpha tocopherol did not improve the oxidative stability. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Haq, Muhammad Abdul; Alam, Muhammad Junaid; Hasnain, Abid] Univ Karachi, Dept Food Sci & Technol, Karachi 75270, Pakistan.
+RP Haq, MA (reprint author), Univ Karachi, Dept Food Sci & Technol, Univ Rd, Karachi 75270, Pakistan.
+EM abdul.haq20pk@gmail.com
+RI Sherazi, Tufail/I-7292-2015
+FU University of Karachi, Pakistan
+FX The authors wish to thank to the Dean Faculty of Science, University of
+   Karachi, Pakistan, for providing financial assistance in this project.
+CR Afzala M., 2007, ELECT J ENV AGR FOOD, V6, P2109
+   AGNIHOTRI V K, 1987, Indian Journal of Pharmaceutical Sciences, V49, P66
+   Ahuja M, 2010, CARBOHYD POLYM, V80, P161, DOI 10.1016/j.carbpol.2009.11.005
+   Baldwin EA, 1996, POSTHARVEST BIOL TEC, V9, P151, DOI 10.1016/S0925-5214(96)00044-0
+   Benhura M. A. N., 2011, African Journal of Biochemistry Research, V5, P95
+   Benhura MAN, 2004, INT J FOOD SCI TECH, V39, P579, DOI 10.1111/j.1365-2621.2004.00809.x
+   Braudo EE, 1998, FOOD HYDROCOLLOID, V12, P253, DOI 10.1016/S0268-005X(98)00021-6
+   CHAUDHRY Z, 1984, EUR J FOREST PATHOL, V14, P123
+   Destaillats F, 2010, J AGR FOOD CHEM, V58, P2082, DOI 10.1021/jf9041722
+   Dinda SC, 2009, ACTA PHARM SCI, V51
+   EVRANUZ EO, 1993, INT J FOOD SCI TECH, V28, P193
+   Galazka VB, 1996, FOOD CHEM, V57, P393, DOI 10.1016/0308-8146(95)00239-1
+   Grosso NR, 2002, J FOOD SCI, V67, P1530, DOI 10.1111/j.1365-2621.2002.tb10317.x
+   IUPAC Standard Methods, 1987, 2501 IUPAC
+   IUPAC Standard Methods, 1987, 2504 IUPAC
+   Johnsen P. B., 1988, Journal of Sensory Studies, V3, P9, DOI 10.1111/j.1745-459X.1988.tb00426.x
+   JUNG MY, 1992, FOOD CHEM, V45, P183, DOI 10.1016/0308-8146(92)90112-F
+   Kornsteiner M, 2006, FOOD CHEM, V98, P381, DOI 10.1016/j.foodchem.2005.07.033
+   Mestrallet MG, 2009, J FOOD QUALITY, V32, P334, DOI 10.1111/j.1745-4557.2009.00251.x
+   NADKARNI KM, 1976, INDIAN MAT MED
+   Nepote V, 2006, J SCI FOOD AGR, V86, P1057, DOI 10.1002/jsfa.2456
+   Ozguven F, 2005, J FOOD ENG, V68, P191, DOI 10.1016/j.jfoodeng.2004.05.031
+   Plemmons LE, 1998, J SENS STUD, V13, P359, DOI 10.1111/j.1745-459X.1998.tb00095.x
+   Quezada-Gallo JA, 2009, EDIBLE FILMS AND COATINGS FOR FOOD APPLICATIONS, P315, DOI 10.1007/978-0-387-92824-1_11
+   Riveros CG, 2010, J SCI FOOD AGR, V90, P2694, DOI 10.1002/jsfa.4142
+   Siddiqui BS, 2006, NAT PROD RES, V20, P131, DOI 10.1080/14786410500045614
+   SINGH NB, 1993, SILVAE GENET, V42, P61
+   Souri E, 2008, DARU, V16, P83
+   Tasan M, 2005, EUR FOOD RES TECHNOL, V220, P251, DOI 10.1007/s00217-004-1045-8
+   Trezza TA, 2000, J FOOD SCI, V65, P1166, DOI 10.1111/j.1365-2621.2000.tb10259.x
+   Wambura P, 2010, J FOOD PROCESS ENG, V33, P883, DOI 10.1111/j.1745-4530.2008.00313.x
+   Wambura P, 2011, FOOD BIOPROCESS TECH, V4, P107, DOI 10.1007/s11947-008-0150-2
+   Waterman PG, 1994, ANAL PHENOLIC PLANT
+NR 33
+TC 26
+Z9 26
+U1 0
+U2 16
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0023-6438
+EI 1096-1127
+J9 LWT-FOOD SCI TECHNOL
+JI LWT-Food Sci. Technol.
+PD JAN
+PY 2013
+VL 50
+IS 1
+BP 306
+EP 311
+DI 10.1016/j.lwt.2012.05.008
+PG 6
+WC Food Science & Technology
+SC Food Science & Technology
+GA 021PA
+UT WOS:000309896600042
+DA 2019-11-19
+ER
+
+PT J
+AU Abbas, Q
+   Celebi, ME
+   Serrano, C
+   Garcia, IF
+   Ma, GZ
+AF Abbas, Qaisar
+   Celebi, M. E.
+   Serrano, Carmen
+   Fondon Garcia, Irene
+   Ma, Guangzhi
+TI Pattern classification of dermoscopy images: A perceptually uniform
+   model
+SO PATTERN RECOGNITION
+LA English
+DT Article
+DE Dermoscopy; Pattern classification; Steerable pyramid transform; Human
+   visual system; AdaBoost; Multi-label learning
+ID PIGMENTED SKIN-LESIONS; ABCD RULE; TEXTURE; COLOR; DIAGNOSIS; SYSTEM;
+   ADABOOST; MELANOMA
+AB Pattern classification of dermoscopy images is a challenging task of differentiating between benign melanocytic lesions and melanomas. In this paper, a novel pattern classification method based on color symmetry and multiscale texture analysis is developed to assist dermatologists' diagnosis. Our method aims to classify various tumor patterns using color-texture properties extracted in a perceptually uniform color space. In order to design an optimal classifier and to address the problem of multicomponent patterns, an adaptive boosting multi-label learning algorithm (AdaBoost.MC) is developed. Finally, the class label set of the test pattern is determined by fusing the results produced by boosting based on the maximum a posteriori (MAP) and robust ranking principles. The proposed discrimination model for multi-label learning algorithm is fully automatic and obtains higher accuracy compared to existing multi-label classification methods. Our classification model obtains a sensitivity (SE) of 89.28%, specificity (SP) of 93.75% and an area under the curve (AUC) of 0.986. The results demonstrate that our pattern classifier based on color-texture features agrees with dermatologists' perception. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Abbas, Qaisar] Natl Text Univ, Dept Comp Sci, Faisalabad 37610, Pakistan.
+   [Abbas, Qaisar; Ma, Guangzhi] Huazhong Univ Sci & Technol, Dept Comp Sci & Technol, Wuhan 430074, Peoples R China.
+   [Abbas, Qaisar; Ma, Guangzhi] Minist Educ, Key Lab Image Proc & Intelligent Control, Ctr Biomed Imaging & Bioinformat, Wuhan, Peoples R China.
+   [Celebi, M. E.] Louisiana State Univ, Dept Comp Sci, Shreveport, LA 71105 USA.
+   [Serrano, Carmen; Fondon Garcia, Irene] Univ Seville, Escuela Super Ingn, Seville 41092, Spain.
+RP Abbas, Q (reprint author), Natl Text Univ, Dept Comp Sci, Faisalabad 37610, Pakistan.
+EM drqaisar@ntu.edu.pk; emre.celebi@lsus.edu; cserrano@us.es; irenef@us.es;
+   maguangzhi@mail.hust.edu.cn
+RI Celebi, M. Emre/G-2129-2012; Celebi, M. Emre/N-1252-2019; Serrano,
+   Carmen/I-1641-2015; Fondon, Irene/L-2782-2015
+OI Celebi, M. Emre/0000-0002-2721-6317; Celebi, M.
+   Emre/0000-0002-2721-6317; Serrano, Carmen/0000-0003-3008-6231; Fondon,
+   Irene/0000-0002-8955-7109
+FU National 863 High Technology Research and Development Program of
+   ChinaNational High Technology Research and Development Program of China
+   [2006AA02Z347]; Chinese Scholarship Council (CSC)China Scholarship
+   Council [2008GXZ143]
+FX This research was supported by the National 863 High Technology Research
+   and Development Program of China (Grant no. 2006AA02Z347) and the
+   Chinese Scholarship Council (CSC) (Grant no. 2008GXZ143). We would like
+   to thank anonymous reviewers for their valuable comments and
+   suggestions.
+CR Abbas Q., SKIN RES TECHNOLOGY
+   ALMAN DH, 1989, COLOR RES APPL, V14, P139, DOI 10.1002/col.5080140308
+   Argeniano G., 2002, INTERACTIVE ATLAS DE
+   Argenziano G, 2003, J AM ACAD DERMATOL, V48, P679, DOI 10.1067/mjd.2003.281
+   Blum A, 2004, BRIT J DERMATOL, V151, P1029, DOI 10.1111/j.1365-2133.2004.06210.x
+   Boutell MR, 2004, PATTERN RECOGN, V37, P1757, DOI 10.1016/j.patcog.2004.03.009
+   Bradley AP, 1997, PATTERN RECOGN, V30, P1145, DOI 10.1016/S0031-3203(96)00142-2
+   Burroni M, 2004, CLIN CANCER RES, V10, P1881, DOI 10.1158/1078-0432.CCR-03-0039
+   Capdehourat G, 2011, PATTERN RECOGN LETT, V32, P2187, DOI 10.1016/j.patrec.2011.06.015
+   Celebi ME, 2007, COMPUT MED IMAG GRAP, V31, P362, DOI 10.1016/j.compmedimag.2007.01.003
+   Chen JQ, 2005, IEEE T IMAGE PROCESS, V14, P1524, DOI 10.1109/TIP.2005.852204
+   DAUGMAN JG, 1985, J OPT SOC AM A, V2, P1160, DOI 10.1364/JOSAA.2.001160
+   Fairchild MD, 2001, COLOR RES APPL, V26, P418, DOI 10.1002/col.1061
+   FREEMAN WT, 1991, IEEE T PATTERN ANAL, V13, P891, DOI 10.1109/34.93808
+   Ganster H, 2001, IEEE T MED IMAGING, V20, P233, DOI 10.1109/42.918473
+   Isasi AG, 2011, COMPUT BIOL MED, V41, P742, DOI 10.1016/j.compbiomed.2011.06.010
+   Haley GM, 1999, IEEE T IMAGE PROCESS, V8, P255, DOI 10.1109/83.743859
+   Iyatomi H, 2008, J INVEST DERMATOL, V128, P2049, DOI 10.1038/jid.2008.28
+   Jin R., 2009, P IEEE COMP SOC COMP
+   Johr RH, 2002, CLIN DERMATOL, V20, P240, DOI 10.1016/S0738-081X(02)00236-5
+   Kelley EF, 2006, J SOC INF DISPLAY, V14, P1019, DOI 10.1889/1.2393026
+   Li CJ, 2005, COLOR RES APPL, V30, P99, DOI 10.1002/col.20087
+   Li ST, 2003, PATTERN RECOGN, V36, P2883, DOI 10.1016/S0031-3203(03)00219-X
+   Maenpaa T, 2004, PATTERN RECOGN, V37, P1629, DOI 10.1016/j.patcog.2003.11.011
+   Maglogiannis I, 2006, ONCOL REP, V15, P1027
+   Mojsilovic A, 2000, IEEE T IMAGE PROCESS, V9, P38, DOI 10.1109/83.817597
+   MORONEY N., 2002, P COL IM C, P23
+   Morra JH, 2010, IEEE T MED IMAGING, V29, P30, DOI 10.1109/TMI.2009.2021941
+   PAPPAS TN, 1992, IEEE T SIGNAL PROCES, V40, P901, DOI 10.1109/78.127962
+   Rubegni P, 2002, J INVEST DERMATOL, V119, P471, DOI 10.1046/j.1523-1747.2002.01835.x
+   Ruiz D, 2011, EXPERT SYST APPL, V38, P15217, DOI 10.1016/j.eswa.2011.05.079
+   Sadeghi M, 2011, COMPUT MED IMAG GRAP, V35, P137, DOI 10.1016/j.compmedimag.2010.07.002
+   Safi A, 2012, LECT NOTES COMPUTER, V7075, P105
+   Samal A, 2006, INFORM SCIENCES, V176, P565, DOI 10.1016/j.ins.2004.09.017
+   Schapire RE, 2000, MACH LEARN, V39, P135, DOI 10.1023/A:1007649029923
+   Sengur A, 2008, EXPERT SYST APPL, V34, P2120, DOI 10.1016/j.eswa.2007.02.032
+   Serrano C, 2009, PATTERN RECOGN, V42, P1052, DOI 10.1016/j.patcog.2008.07.011
+   SIMONCELLI EP, 1992, IEEE T INFORM THEORY, V38, P587, DOI 10.1109/18.119725
+   Song EM, 2011, EXPERT SYST APPL, V38, P6720, DOI 10.1016/j.eswa.2010.11.062
+   Tanaka T, 2008, IEEJ T ELECTR ELECTR, V3, P143, DOI 10.1002/tee.20246
+   Urban P, 2007, FIFTEENTH COLOR IMAGING CONFERENCE: COLOR SCIENCE AND ENGINEERING SYSTEMS, TECHNOLOGIES, AND APPLICATIONS, FINAL PROGRAM AND PROCEEDINGS, P77
+   Zhang ML, 2007, PATTERN RECOGN, V40, P2038, DOI 10.1016/j.patcog.2006.12.019
+   Zhang ML, 2009, INFORM SCIENCES, V179, P3218, DOI 10.1016/j.ins.2009.06.010
+   Zhou H, 2008, INFORM SCIENCES, V178, P4314, DOI 10.1016/j.ins.2008.07.015
+   Zhou Z.-H., 2006, ADV NEURAL INFORM PR, P1609
+NR 45
+TC 51
+Z9 52
+U1 1
+U2 28
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0031-3203
+EI 1873-5142
+J9 PATTERN RECOGN
+JI Pattern Recognit.
+PD JAN
+PY 2013
+VL 46
+IS 1
+BP 86
+EP 97
+DI 10.1016/j.patcog.2012.07.027
+PG 12
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA 020CA
+UT WOS:000309785000008
+DA 2019-11-19
+ER
+
+PT J
+AU Akram, MU
+   Khalid, S
+   Khan, SA
+AF Akram, M. Usman
+   Khalid, Shehzad
+   Khan, Shoab A.
+TI Identification and classification of microaneurysms for early detection
+   of diabetic retinopathy
+SO PATTERN RECOGNITION
+LA English
+DT Article
+DE Medical image processing; Diabetic retinopathy; Microaneurysms;
+   Classification; m-Mediods
+ID AUTOMATED DETECTION; FUNDUS IMAGES; LESIONS
+AB Diabetic retinopathy is a progressive eye disease which may cause blindness if not detected and treated in time. The early detection and diagnosis of diabetic retinopathy is important to protect the patient's vision. The accurate detection of microaneurysms (MAs) is a critical step for early detection of diabetic retinopathy because they appear as the first sign of disease. In this paper, we propose a three-stage system for early detection of MAs using filter banks. In the first stage, the system extracts all possible candidate regions for MAs present in retinal image. In order to classify a candidate region as MA or non-MA, the system formulates a feature vector for each region depending upon certain properties, i.e. shape, color, intensity and statistics. We present a hybrid classifier which combines the Gaussian mixture model (GMM), support vector machine (SVM) and an extension of multimodel mediod based modeling approach in an ensemble to improve the accuracy of classification. The proposed system is evaluated using publicly available retinal image databases and achieved higher accuracy which is better than previously published methods. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Akram, M. Usman; Khan, Shoab A.] Natl Univ Sci & Technol, Coll Elect & Mech Engn, Dept Comp Engn, Islamabad, Pakistan.
+   [Khalid, Shehzad] Bahria Univ, Dept Comp & Software Engn, Islamabad, Pakistan.
+RP Akram, MU (reprint author), Natl Univ Sci & Technol, Coll Elect & Mech Engn, Dept Comp Engn, Islamabad, Pakistan.
+EM usmakram@gmail.com; shehzad_khalid@hotmail.com; shoab@carepvtltd.com
+CR Acharya U. R., 2008, J MED SYST, V32, P431
+   Akram MU, 2013, ENG COMPUT-GERMANY, V29, P165, DOI 10.1007/s00366-011-0253-7
+   Antal B, 2012, PATTERN RECOGN, V45, P264, DOI 10.1016/j.patcog.2011.06.010
+   Bashir F, 2005, 2005 IEEE International Conference on Multimedia and Expo (ICME), Vols 1 and 2, P1533
+   Effective Health Care, 1999, COMPL DIAB SCREEN RE, V5
+   Fleming AD, 2006, IEEE T MED IMAGING, V25, P1223, DOI 10.1109/TMI.2006.879953
+   FRANK RN, 1995, PROG RETIN EYE RES, V14, P361, DOI 10.1016/1350-9462(94)00011-4
+   Hatanaka Y., 2008, P SPIE MED IMAGING, V6915
+   Kahai P, 2006, INT J BIOMED IMAGING, DOI 10.1155/IJBI/2006/45806
+   Kauppi T., 2006, TECHNICAL REPORT
+   Kauppi T., 2005, TECHNICAL REPORT
+   Khalid S, 2010, PATTERN RECOGN, V43, P3636, DOI 10.1016/j.patcog.2010.05.006
+   KLEIN R, 1984, OPHTHALMOLOGY, V91, P1
+   Larsen M, 2003, INVEST OPHTH VIS SCI, V44, P761, DOI 10.1167/iovs.02-0418
+   Lee SC, 2005, ARCH OPHTHALMOL-CHIC, V123, P759, DOI 10.1001/archopht.123.6.759
+   Narasimha-Iyer H, 2006, IEEE T BIO-MED ENG, V53, P1084, DOI 10.1109/TBME.2005.863971
+   Niemeijer M, 2010, IEEE T MED IMAGING, V29, P185, DOI 10.1109/TMI.2009.2033909
+   Osareh A, 2003, BRIT J OPHTHALMOL, V87, P1220, DOI 10.1136/bjo.87.10.1220
+   Quellec G, 2008, IEEE T MED IMAGING, V27, P1230, DOI 10.1109/TMI.2008.920619
+   Quellec G, 2011, IEEE T MED IMAGING, V30, P523, DOI 10.1109/TMI.2010.2089383
+   Ram K, 2011, IEEE T BIO-MED ENG, V58, P664, DOI 10.1109/TBME.2010.2096223
+   Ronald P.C., 2003, TXB CLIN OPHTHALMOLO
+   Sinthanayothin C, 2002, DIABETIC MED, V19, P105, DOI 10.1046/j.1464-5491.2002.00613.x
+   Sinthanayothin C, 1999, BRIT J OPHTHALMOL, V83, P902, DOI 10.1136/bjo.83.8.902
+   Sjolie AK, 1997, OPHTHALMOLOGY, V104, P252, DOI 10.1016/S0161-6420(97)30327-3
+   Sung JM, 2006, PATTERN RECOGN LETT, V27, P66, DOI 10.1016/j.patrec.2005.07.003
+   SUSSMAN EJ, 1982, JAMA-J AM MED ASSOC, V247, P3231, DOI 10.1001/jama.247.23.3231
+   Tax D, 2001, THESIS DELFT U TECHN
+   Usher D, 2004, DIABETIC MED, V21, P84, DOI 10.1046/j.1464-5491.2003.01085.x
+   Walter T, 2002, IEEE T MED IMAGING, V21, P1236, DOI 10.1109/TMI.2002.806290
+   Walter T, 2007, MED IMAGE ANAL, V11, P555, DOI 10.1016/j.media.2007.05.001
+   Yu J, 2011, AICHE J, V57, P1817, DOI 10.1002/aic.12392
+   Zhang B, 2010, PATTERN RECOGN, V43, P2237, DOI 10.1016/j.patcog.2009.12.017
+NR 33
+TC 73
+Z9 79
+U1 0
+U2 39
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0031-3203
+EI 1873-5142
+J9 PATTERN RECOGN
+JI Pattern Recognit.
+PD JAN
+PY 2013
+VL 46
+IS 1
+BP 107
+EP 116
+DI 10.1016/j.patcog.2012.07.002
+PG 10
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA 020CA
+UT WOS:000309785000010
+DA 2019-11-19
+ER
+
+PT J
+AU Khudadad, N
+   Sultana, N
+   Khan, FF
+AF Khudadad, Nahida
+   Sultana, Nasima
+   Khan, Faisal F.
+TI Women selling and promoting energy efficient products in Northern
+   Pakistan
+SO RENEWABLE ENERGY
+LA English
+DT Article; Proceedings Paper
+CT 11th World Renewable Energy Congress and Exhibition
+CY SEP 25-30, 2010
+CL Abu Dhabi, U ARAB EMIRATES
+DE Energy efficiency; Female entrepreneurs; Productions; Sales; Demand
+   Generations
+AB Aga Khan Planning and Building Service, Pakistan (AKPBSP) has developed appropriate Energy Efficient House Improvement (EE-HI) Products through participatory approach by including women, which improves the thermal efficiency, ventilation, illumination, and space management in rural houses. To sustain its interventions at the local level, AKPBSP trains local entrepreneurs, craftsman, and Sales Persons (50% female), in manufacturing, installing and selling EE-IH products. This paper identifies the great value addition female Resource/Sales Persons have brought in scaling-up the EE-HI products through an incentive based sales and promotion market mechanism.
+   Most (80%) [1] of the households in northern Pakistan can buy more than one product given that families have easy access to BACIP EE&HI products and are linked with microcredit facilities. At-least combination of 03 BACIP EE&HI products can have a cumulative impact on increasing the thermal efficiency of houses. AKPBSP therefore, is applying a twofold incentive based approach to scale-up the replication of product combinations, which includes training Sales/Resource Persons in Promotions and Sales of energy efficient products and linking them with AKPBS trained and certified manufacturers and microcredit organizations to sell EE&HI products on 10% commissions. In the pilot phase, more than 60 Resource/Sales Persons took part in the initiative throughout Northern Pakistan and as a result (in two years time) more than 2354 EE-HI products were sold to 1812 household in 15 remote villages. Among the 1812 households, 444 households were linked with microfinance institutions to purchase EE&HI products. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Khudadad, Nahida; Sultana, Nasima; Khan, Faisal F.] Aga Khan Fdn Pakistan AKFP, Pakistan AKPBSP, BACIP Aga Khan Planning & Bldg Serv, Bldg & Construct Improvement Program, Karachi, Pakistan.
+RP Khudadad, N (reprint author), Aga Khan Fdn Pakistan AKFP, Pakistan AKPBSP, BACIP Aga Khan Planning & Bldg Serv, Bldg & Construct Improvement Program, Karachi, Pakistan.
+EM nahida.khudadad@gmail.com
+CR [Anonymous], 2008, ADDR POV BUILT ENV N
+   [Anonymous], 2007, PROM MARK BAS MECH A
+   Enterprise for Business and Development Management, 2008, BUS PLAN 2009 2012
+NR 3
+TC 1
+Z9 1
+U1 1
+U2 18
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-1481
+J9 RENEW ENERG
+JI Renew. Energy
+PD JAN
+PY 2013
+VL 49
+SI SI
+BP 271
+EP 274
+DI 10.1016/j.renene.2012.01.016
+PG 4
+WC Green & Sustainable Science & Technology; Energy & Fuels
+SC Science & Technology - Other Topics; Energy & Fuels
+GA 021RC
+UT WOS:000309902000057
+DA 2019-11-19
+ER
+
+PT J
+AU Din, MI
+   Mirza, ML
+   Ata, S
+   Athar, M
+   Ul Mohsin, I
+AF Din, Muhammad Imran
+   Mirza, Muhammad Latif
+   Ata, Sadia
+   Athar, Makshoof
+   Ul Mohsin, Ijaz
+TI Thermodynamics of Biosorption for Removal of Co(II) Ions by an Efficient
+   and Ecofriendly Biosorbent (Saccharum bengalense): Kinetics and Isotherm
+   Modeling
+SO JOURNAL OF CHEMISTRY
+LA English
+DT Article
+ID HEAVY-METAL IONS; AQUEOUS-SOLUTION; ACTIVATED CARBON;
+   ADSORPTION-ISOTHERMS; EQUILIBRIUM ISOTHERM; PART I; CD(II); COBALT;
+   CR(III); PB(II)
+AB In this research work, a low-cost biomass derived from the pulp of Saccharum bengalense (SB) was used as an adsorbent material/biosorbent for the removal of Co(II) ions from aqueous solution. Langmuir, Freundlich Timken, and Dubinin-Radushkevich (D-R) adsorption isotherms have been applied to further define the mechanism of sorption. From the comparison of different adsorption isotherm models, it was found that biosorption of Co(II) by SB followed Langmuir and Freundlich models. The sorption capacity for cobalt of Saccharum bengalense was (q(m) - 14.7 mg/g) at 323K. A comparison of kinetic models applied to the adsorption of Co(II) onto Saccharum bengalense was evaluated for the pseudo-first-order, pseudo-second-order, Elovich, and intraparticle diffusion and Bangham's kinetics models. It was found that the pseudo-Second-order mechanism is predominant. Activation parameters evaluated from thermodynamics and kinetic parameters such as free energy change (Delta G(0) = -0.254, Delta G(#) = 84.63 kJ/mol), enthalpy change (Delta H-0 = +22.24, Delta H-# = 0.004 kJ/mol), and entropy change (Delta S-0 = 0.065, Delta S-# = 0.262 kJ/mol) revealed the spontaneous, endothermic, and feasible nature of adsorption process. The results of the present investigation suggested that Saccharum bengalense (SB) can be used as an environmentally and economically feasible biosorbent for the removal of Co(II) from aqueous solutions.
+C1 [Ul Mohsin, Ijaz] Univ Engn & Technol, Dept Chem, Lahore 54000, Pakistan.
+   [Din, Muhammad Imran; Mirza, Muhammad Latif; Ata, Sadia] Islamia Univ Bahawalpur, Dept Chem, Bahawalpur 63100, Pakistan.
+   [Din, Muhammad Imran; Athar, Makshoof] Univ Punjab, Inst Chem, Lahore 54590, Pakistan.
+RP Ul Mohsin, I (reprint author), Univ Engn & Technol, Dept Chem, Lahore 54000, Pakistan.
+EM ijazulmohsin@hotmail.com
+CR Al-Ghouti M, 2005, J COLLOID INTERF SCI, V287, P6, DOI 10.1016/j.jcis.2005.02.002
+   Anayurt RA, 2009, CHEM ENG J, V151, P255, DOI 10.1016/j.cej.2009.03.002
+   Anirudhan TS, 2008, J CHEM THERMODYN, V40, P702, DOI 10.1016/j.jct.2007.10.005
+   AWADALLA FT, 1992, HYDROMETALLURGY, V28, P65, DOI 10.1016/0304-386X(92)90065-8
+   Benaissa H, 2011, J HAZARD MATER, V194, P69, DOI 10.1016/j.jhazmat.2011.07.063
+   Chowdhury S, 2011, DESALINATION, V265, P159, DOI 10.1016/j.desal.2010.07.047
+   Dahiya S, 2008, J HAZARD MATER, V150, P376, DOI 10.1016/j.jhazmat.2007.04.134
+   Dogan M, 2009, J HAZARD MATER, V164, P172, DOI 10.1016/j.jhazmat.2008.07.155
+   Erdem E, 2004, J COLLOID INTERF SCI, V280, P309, DOI 10.1016/j.jcis.2004.08.028
+   Farooq U, 2010, BIORESOURCE TECHNOL, V101, P5043, DOI 10.1016/j.biortech.2010.02.030
+   Febrianto J, 2009, J HAZARD MATER, V162, P616, DOI 10.1016/j.jhazmat.2008.06.042
+   Foo KY, 2010, CHEM ENG J, V156, P2, DOI 10.1016/j.cej.2009.09.013
+   Gercel O, 2007, CHEM ENG J, V132, P289, DOI 10.1016/j.cej.2007.01.010
+   Gotoh T, 2004, CHEMOSPHERE, V55, P135, DOI 10.1016/j.chemosphere.2003.11.016
+   Hamdaoui O, 2007, J HAZARD MATER, V147, P381, DOI 10.1016/j.jhazmat.2007.01.021
+   Hameed BH, 2008, CHEM ENG J, V144, P235, DOI 10.1016/j.cej.2008.01.028
+   Hathaway G., 1991, PROCTOR HUGHES CHEM
+   He MY, 2011, APPL CLAY SCI, V54, P292, DOI 10.1016/j.clay.2011.09.013
+   Ho YS, 1999, PROCESS BIOCHEM, V34, P451, DOI 10.1016/S0032-9592(98)00112-5
+   Jiang Y, 2009, J HAZARD MATER, V164, P1, DOI 10.1016/j.jhazmat.2008.07.107
+   Kobya M, 2005, BIORESOURCE TECHNOL, V96, P1518, DOI 10.1016/j.biortech.2004.12.005
+   KUYUCAK N, 1989, BIOTECHNOL BIOENG, V33, P809, DOI 10.1002/bit.260330703
+   Laidler K. J., 1999, PHYS CHEM, V852
+   Langmuir I, 1916, J AM CHEM SOC, V38, P2221, DOI 10.1021/ja02268a002
+   Lawal OS, 2010, J HAZARD MATER, V177, P829, DOI 10.1016/j.jhazmat.2009.12.108
+   Liang S, 2010, J HAZARD MATER, V174, P756, DOI 10.1016/j.jhazmat.2009.09.116
+   Mahmood T, 2011, CHEM ENG J, V171, P935, DOI 10.1016/j.cej.2011.04.043
+   Mane VS, 2007, J ENVIRON MANAGE, V84, P390, DOI 10.1016/j.jenvman.2006.06.024
+   Martin A, 2011, J CHEM ENG DATA, V56, P741, DOI 10.1021/je1007923
+   Milmile SN, 2011, DESALINATION, V276, P38, DOI 10.1016/j.desal.2011.03.015
+   Montazer-Rahmati MM, 2011, J HAZARD MATER, V185, P401, DOI 10.1016/j.jhazmat.2010.09.047
+   Mourao PAM, 2006, CARBON, V44, P2422, DOI 10.1016/j.carbon.2006.05.015
+   Nayak D, 2005, J RADIOANAL NUCL CH, V267, P59, DOI 10.1007/s10967-006-0009-9
+   Ofomaja AE, 2011, J TAIWAN INST CHEM E, V42, P480, DOI 10.1016/j.jtice.2010.09.002
+   Pal A, 2006, BIORESOURCE TECHNOL, V97, P1253, DOI 10.1016/j.biortech.2005.01.043
+   Parab H, 2006, PROCESS BIOCHEM, V41, P609, DOI 10.1016/j.procbio.2005.08.006
+   Parmeggiani L., 1983, 3 ENCY OCCUPATIONAL, V1 A-K
+   Sari A, 2008, CHEM ENG J, V144, P1, DOI 10.1016/j.cej.2007.12.020
+   Sari A, 2009, J HAZARD MATER, V164, P1004, DOI 10.1016/j.jhazmat.2008.09.002
+   Sari A, 2008, J HAZARD MATER, V160, P349, DOI 10.1016/j.jhazmat.2008.03.005
+   Soliman EM, 2011, ARAB J CHEM, V4, P63, DOI 10.1016/j.arabjc.2010.06.021
+   Sulaymon AH, 2009, CHEM ENG J, V155, P647, DOI 10.1016/j.cej.2009.08.021
+   Tassist A, 2010, J HAZARD MATER, V183, P35, DOI 10.1016/j.jhazmat.2010.06.078
+   Temkin M. I., 1941, ZH FIZ KHIM, V15, P296, DOI DOI 10.1016/J.MICROMESO.2017.02.015
+   Tirmizi SA, 2005, J CHEM SOC PAKISTAN, V27, P186
+   Uluozlu OD, 2008, BIORESOURCE TECHNOL, V99, P2972, DOI 10.1016/j.biortech.2007.06.052
+   Weber Jr J. C. M. W. J., 1963, J SANITARY ENG DIVIS, P31
+   Yavuz O, 2003, WATER RES, V37, P948, DOI 10.1016/S0043-1354(02)00409-8
+   Zou WH, 2006, COLLOID SURFACE A, V279, P238, DOI 10.1016/j.colsurfa.2006.01.008
+NR 49
+TC 10
+Z9 10
+U1 0
+U2 32
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 2090-9063
+EI 2090-9071
+J9 J CHEM-NY
+JI J. Chem.
+PY 2013
+AR 528542
+DI 10.1155/2013/528542
+PG 11
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 020PP
+UT WOS:000309825800001
+OA DOAJ Gold
+DA 2019-11-19
+ER
+
+PT J
+AU Ahmed, D
+   Zara, S
+   Baig, H
+AF Ahmed, Dildar
+   Zara, Saman
+   Baig, Hira
+TI IN VITRO ANALYSIS OF ANTIOXIDANT ACTIVITIES OF OXALIS CORNICULATA LINN.
+   FRACTIONS IN VARIOUS SOLVENTS
+SO AFRICAN JOURNAL OF TRADITIONAL COMPLEMENTARY AND ALTERNATIVE MEDICINES
+LA English
+DT Article
+DE Oxalis corniculata; antioxidant; free radical; phenolics; flavonoids
+ID SCAVENGING ACTIVITY; CHEMISTRY; DISTRICT
+AB As part of our search for natural antioxidants, this work presents an evaluation of antioxidant activities of methanolic extract of Oxalis corniculata and its sub-fractions in hexane, chloroform, ethyl acetate, n-butanol and water. The total phenolic contents in terms of mu g of gallic acid equivalents per mg of dried mass were approximately 21.0, 28.2, 34.5, 162.0, 70.0, and 49.2 in methanolic, hexane, chloroform, ethyl acetate, n-butanolic and aqueous fractions respectively, while the flavonoid contents in these solvents were 362.4, 214.1, 317.1, 177.1, 98.8 and 53.5 respectively in terms of mu g of rutin per mg of dried mass. In DPPH assay, the ethyl acetate fraction showed the highest free radical scavenging activity, 24.0% with 1 mg/mL concentration. The second strongest fraction was chloroform (21.5%). The EC50 and TEC50 values of the methanolic extract were 3.63 mg/mL and 23 min respectively. The FRAP values in terms of mu g of ascorbic acid equivalents per mg of dried mass for these solvents were 288.0, 1705.3, 437.1, 72.0, 28.0, and 44.0 respectively while total antioxidant activity measured by phosphomolybdate assay in terms of mu g of ascorbic acid equivalents per mg of dried mass were 50.0, 117.0, 78.6, 57.8, 3.4 and 8.3 respectively. All the samples showed remarkable ability to inhibit lipid peroxidation exhibiting much better and sustainable peroxidation inhibitory activity than the standard butylated hydroxyanisole.
+C1 [Ahmed, Dildar; Zara, Saman; Baig, Hira] Forman Christian Coll Univ, Dept Chem, Lahore, Pakistan.
+RP Ahmed, D (reprint author), Forman Christian Coll Univ, Dept Chem, Ferozpur Rd, Lahore, Pakistan.
+EM dildarahmed@gmail.com
+RI Ahmed, Dildar/E-3041-2013; Ahmed, Dildar/B-9605-2017
+OI Ahmed, Dildar/0000-0002-3518-7181; Ahmed, Dildar/0000-0002-3518-7181
+CR Abbasi AM, 2010, INDIAN J TRADIT KNOW, V9, P175
+   Ahmed D, 2010, ASIAN J CHEM, V22, P4524
+   Alam M. B., 2011, Journal of Pharmacology and Toxicology, V6, P337, DOI 10.3923/jpt.2011.337.348
+   Badwaik H., 2011, INT J PHYTOMEDICINE, V3, P01
+   Baig H, 2011, ORIENT J CHEM, V27, P1509
+   Benzie IFF, 1996, ANAL BIOCHEM, V239, P70, DOI 10.1006/abio.1996.0292
+   BRAND-WILLIAMS W, 1995, FOOD SCI TECHNOL-LEB, V28, P25
+   Choi HR, 2002, PHYTOTHER RES, V16, P364, DOI 10.1002/ptr.904
+   Cook NC, 1996, J NUTR BIOCHEM, V7, P66, DOI 10.1016/0955-2863(95)00168-9
+   Finkel T, 2000, NATURE, V408, P239, DOI 10.1038/35041687
+   Hebbar SS, 2004, J ETHNOPHARMACOL, V94, P261, DOI 10.1016/j.jep.2004.04.021
+   Huang DJ, 2005, J AGR FOOD CHEM, V53, P1841, DOI 10.1021/jf030723c
+   Hussain K., 2008, ETHNOBOTANICAL LEAFL, V12, P29
+   Kathiriya A, 2010, IRAN J CANCER PREV, V3, P157
+   Kathiriya A. K., 2010, OXALIS CORNICULATA L, P7
+   Lim YY, 2007, LWT-FOOD SCI TECHNOL, V40, P1664, DOI 10.1016/j.lwt.2006.12.013
+   Lourteig Alicia, 2000, Bradea, V7, P201
+   Mabberley DJ, 2008, PLANT BOOK PORTABLE
+   MADSEN HL, 1995, TRENDS FOOD SCI TECH, V6, P271, DOI 10.1016/S0924-2244(00)89112-8
+   Mishra J., 2007, ANTIOXIDANTS AROMATI, P9
+   Mitsuda H, 1966, EIYO TO SHOKURYO, V19, P210, DOI DOI 10.4327/JSNFS1949.19.210
+   NAKAYAMA T, 1994, CANCER RES, V54, pS1991
+   Nasir Y., 1971, FLORA PAKISTAN
+   NIKI E, 1994, ANTIOXIDANTISM FREE, P3
+   Oktay M, 2003, LEBENSM-WISS TECHNOL, V36, P263, DOI 10.1016/S0023-6438(02)00226-8
+   Park YS, 2008, FOOD CHEM, V107, P640, DOI 10.1016/j.foodchem.2007.08.070
+   Qureshi S. J., 2008, TRAKIA J SCI, V6, P39
+   Rahman A, 2008, AFR J BIOTECHNOL, V7, P1591
+   Rechner AR, 2002, FREE RADICAL BIO MED, V33, P220, DOI 10.1016/S0891-5849(02)00877-8
+   Reddy K.Y., 2010, INT J PHYTOPHARMACOL, V1, P43
+   Sakat S. S., 2010, INT J PHARM PHARM SC, V2, P146
+   SHAH GM, 2006, ETHNOBOTANICAL LEAFL, V10, P63
+   Shah MG, 2006, ETHNOBOTANICAL LEAFL, V10, P49
+   SINGLETON V. L., 1965, AMER J ENOL VITICULT, V16, P144
+   Sohal RS, 2002, FREE RADICAL BIO MED, V33, P37, DOI 10.1016/S0891-5849(02)00856-0
+   Tiganis T, 2011, TRENDS PHARMACOL SCI, V32, P82, DOI 10.1016/j.tips.2010.11.006
+   Umamaheswari M, 2008, AFR J TRADIT COMPLEM, V5, P61
+NR 37
+TC 9
+Z9 9
+U1 0
+U2 9
+PU AFRICAN NETWORKS ETHNOMEDICINES
+PI ILE-IFE
+PA OBAFEMI AWOLOWO UNIV,CLEMENT O ADEWUNMI, DRUG RES PROD UNIT, FAC
+   PHARMACY, ILE-IFE, 00000, NIGERIA
+SN 0189-6016
+J9 AFR J TRADIT COMPLEM
+JI Afr. J. Tradit. Complement. Alt. M.
+PY 2013
+VL 10
+IS 1
+BP 158
+EP 165
+DI 10.4314/ajtcam.v10i1.21
+PG 8
+WC Integrative & Complementary Medicine
+SC Integrative & Complementary Medicine
+GA 016GW
+UT WOS:000309506800021
+OA Green Published, Bronze
+DA 2019-11-19
+ER
+
+PT J
+AU Hussain, G
+   Hameed, A
+   Hetherington, JG
+   Malik, AQ
+   Sanaullah, K
+AF Hussain, G.
+   Hameed, A.
+   Hetherington, J. G.
+   Malik, A. Q.
+   Sanaullah, K.
+TI The Explosively Formed Projectile (EFP) as a Standoff Sea Mine
+   Neutralization Device
+SO JOURNAL OF ENERGETIC MATERIALS
+LA English
+DT Article
+DE explosively formed projectile (EFP); flash radiography; Johnson-Cook
+   model; sea mine defusing method; velocity profile
+AB There are many methods that can be used for the clearance of underwater ammunition; for example, sea mines. In all such techniques, the primary aim is to defuse underwater ammunition without detonation. Explosively formed projectiles (EFPs) have great potential to cleanly and safely defuse underwater ammunition. Underwater simulations and experiments were conducted to highlight the use of EFPs for safe destruction of sea mines. The copper liner configuration was used to study the penetration performance of the EFPs in water. ANSYS AUTODYN-2D hydrocode was used to simulate copper EFP penetration, passage, and impact with a target immersed in water. Simulation results were obtained by making use of Lagrangian and Euler formulations. The results indicated that the velocity of an EFP reduces sharply as it enters the water. However, the velocity of an EFP is stable in the later part of its flight through the water. The results further indicated that after covering five cone diameters (CDs) in water, the velocity of the EFP was reduced below critical and it failed to perforate an aluminum target plate of 5 mm thickness. Nevertheless, it perforated the target plate at 4 CDs in water. A known quantity of high explosive sandwiched between two plates, just like explosive reactive armor (ERA), was used as a target to simulate the sea mine. Flash X-ray was also used to record the flight and penetration of the EFP through the target plate. Simulation results matched reasonably well with the experimental results.
+C1 [Hussain, G.; Malik, A. Q.; Sanaullah, K.] Natl Univ Sci & Technol, Sch Chem & Mat Engn, Islamabad, Pakistan.
+   [Hameed, A.; Hetherington, J. G.] Cranfield Univ, Dept Engn & Appl Sci, Ctr Def Engn, Swindon, Wilts, England.
+RP Hussain, G (reprint author), Natl Univ Sci & Technol, Sch Chem & Mat Engn, H-12, Islamabad, Pakistan.
+EM sungra_2000@yahoo.com
+RI Sanaullah, Khairuddin/Y-2943-2019
+OI Sanaullah, Khairuddin/0000-0003-1519-0946
+CR Aizawa T., 1980, 10 INT C STRUCT MECH
+   Birnbaum N. K., 1989, 11 INT S BALL MAY 9
+   Cartwright M, 2009, J ENERG MATER, V27, P166, DOI 10.1080/07370650802640325
+   Chick M., 1981, 9 INT S DET AUG 28 S
+   Chick M., 1981, 7 INT S DET JUN 16 1
+   Chick M. C., 1987, J ENERG MATER, V5, P327
+   Cooper P. W., 1996, EXPLOSIVE ENG
+   Davison D., 1995, 15 INT S BALL MAY 21
+   Hussain G., 2009, J ENG APPL SCI, V28, P11
+   Hussain G., 2010, 25 INT S BALL MAY 17
+   Hussain G., 2008, 1 INT C ADV PROC ENG
+   Hussain G, 2009, 2009 INT C CHEM MECH
+   Hussain G., 2009, NUST J ENG SCI, V2, P78
+   Indian Ordnance Factories, MAND ADV LIMP MIN
+   Janzon B., 1993, 14 INT S BALL SEPT 2
+   Janzon B., 1992, 13 INT S BALL JUN 1
+   Karlsson H. E. V., 2002, 20 INT S BALL SEPT 2
+   Lee E., 1973, UCID16189 LAWR LIV L
+   Lee P. R., 1987, 10 INT S BALL OCT 27
+   Li R. W., J PROJECTILES ROCKET, V3, P43
+   Pappu S, 2002, J MATER SCI, V37, P233, DOI 10.1023/A:1013665108127
+   Tosello R., 1996, 16 INT S BALL SEPT 2
+   Walker F. E., 1969, EXPLOSIVSTOFFE, V20, P9
+   Wang H., 2003, 2003 INT AUT SEM PRO
+   Wijk G., 2004, 21 INT S BALL APR 19
+   Zernow L., 1987, 10 INT S BALL OCT 27
+   [张先锋 Zhang Xianfeng], 2006, [弹道学报, Journal of Ballistics], V18, P90
+   Zhang Y., 2010, 25 INT S BALL MAY 17
+NR 28
+TC 1
+Z9 2
+U1 2
+U2 37
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA
+SN 0737-0652
+J9 J ENERG MATER
+JI J. Energ. Mater.
+PY 2013
+VL 31
+IS 2
+BP 100
+EP 114
+DI 10.1080/07370652.2011.587862
+PG 15
+WC Chemistry, Applied; Chemistry, Physical; Engineering, Chemical;
+   Materials Science, Multidisciplinary
+SC Chemistry; Engineering; Materials Science
+GA 996YZ
+UT WOS:000308132200002
+DA 2019-11-19
+ER
+
+PT J
+AU Hussain, G
+   Hameed, A
+   Hetherington, JG
+   Barton, PC
+   Malik, AQ
+AF Hussain, G.
+   Hameed, A.
+   Hetherington, J. G.
+   Barton, P. C.
+   Malik, A. Q.
+TI Hydrocode Simulation with Modified Johnson-Cook Model and Experimental
+   Analysis of Explosively Formed Projectiles
+SO JOURNAL OF ENERGETIC MATERIALS
+LA English
+DT Article
+DE diameter; penetration; perforation; velocity
+AB The formation of mild steel (MS) and copper (Cu) explosively formed projectiles (EFPs) was simulated in AUTODYN using both the Johnson-Cook (JC) and modified Johnson-Cook (JCM) constitutive models. The JC model was modified by increasing the hardening constant by 10%. The previously established semi-empirical equations for diameter, length, velocity, and depth of penetration were used to verify the design of the EFP. The length-to-diameter (L/D) ratio of the warhead used in the simulation varied between 1<L/D<2. To avoid projectile distortion or breakup for large standoff applications, the design of the EFP warhead was modified to obtain a lower L/D ratio. Simulations from the JC model underestimated the EFP diameter, resulting in an unrealistically elongated projectile. This shortcoming was resolved by employing the JCM model, giving good agreement with the experimental results. The projectile velocity and hole characteristics in 10-mm-thick aluminum target plates were studied for both models. The semi-empirical equations and the JC model overestimated the projectile velocity, whereas the JCM model underestimated the velocity slightly when compared to the experimental results. The depths of penetration calculated by the semi-empirical equations in the aluminum (Al) target plate were 55 and 52 mm for Cu and MS EFPs, respectively.
+C1 [Hameed, A.] Cranfield Univ, Dept Engn & Appl Sci, Ctr Def Engn, Swindon SN6 8LA, Wilts, England.
+   [Hussain, G.; Malik, A. Q.] Natl Univ Sci & Technol, Sch Chem & Mat Engn, Islamabad, Pakistan.
+RP Hameed, A (reprint author), Cranfield Univ, Dept Engn & Appl Sci, Ctr Def Engn, Swindon SN6 8LA, Wilts, England.
+EM a.hameed@cranfield.ac.uk
+CR Carleone J., 1998, INT S BALL MARCH 23
+   Couque H, 2006, J PHYS IV, V134, P87, DOI 10.1051/jp4:2006134015
+   Couque H., 2007, 23 INT S BALL APR 16
+   Hussain G., 2010, 25 INT S BALL MAY 17
+   Hussain G, 2009, 2009 INT C CHEM MECH
+   Hussain G., 2009, NUST J ENG SCI, V2, P78
+   Johnson G. R., 1983, 7 INT S BALL APR 19
+   Johnson GR, 2006, INT J IMPACT ENG, V32, P1621, DOI 10.1016/j.ijimpeng.2005.01.011
+   MILLER S, 1990, INT J IMPACT ENG, V10, P403, DOI 10.1016/0734-743X(90)90075-7
+   Mingsen C., 1994, J PROJECTILES ROCKET, V2, P1
+   Ng W., 1998, 17 INT S BALL MARCH
+   Pappu S, 2002, J MATER SCI, V37, P233, DOI 10.1023/A:1013665108127
+   STEINBERG DJ, 1980, J APPL PHYS, V51, P1498, DOI 10.1063/1.327799
+   [王成 Wang Cheng], 2003, [爆炸与冲击, Explosion and Shock Waves], V23, P349
+   Wang P., 2003, INT AUT SEM PROP EXP
+   WEICKERT CA, 1993, INT J IMPACT ENG, V14, P809, DOI 10.1016/0734-743X(93)90074-H
+   Weimann K., 1998, 17 INT S BALL MARCH
+   Weimann K., 1993, 14 INT S BALL SEPT 2
+   Wu J, 2007, INT J IMPACT ENG, V34, P1147, DOI 10.1016/j.ijimpeng.2006.06.007
+   Yu CA, 1999, INT J IMPACT ENG, V23, P981
+   [于川 Yu Chuan], 2003, [爆炸与冲击, Explosion and Shock Waves], V23, P561
+   Yuansheng Z., 1994, J PROJECTILES ROCKET, V2, P37
+NR 22
+TC 11
+Z9 11
+U1 2
+U2 24
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0737-0652
+EI 1545-8822
+J9 J ENERG MATER
+JI J. Energ. Mater.
+PY 2013
+VL 31
+IS 2
+BP 143
+EP 155
+DI 10.1080/07370652.2011.606453
+PG 13
+WC Chemistry, Applied; Chemistry, Physical; Engineering, Chemical;
+   Materials Science, Multidisciplinary
+SC Chemistry; Engineering; Materials Science
+GA 996YZ
+UT WOS:000308132200005
+DA 2019-11-19
+ER
+
+PT J
+AU Ashraf, MW
+   Taqvi, SIH
+   Solangi, AR
+   Qureshi, UA
+AF Ashraf, Mohammad W.
+   Taqvi, Syed Iqleem H.
+   Solangi, Amber R.
+   Qureshi, Umair A.
+TI Distribution and Risk Assessment of Polycyclic Aromatic Hydrocarbons in
+   Vegetables Grown in Pakistan
+SO JOURNAL OF CHEMISTRY
+LA English
+DT Article
+ID TRACE-ELEMENTS; CANCER-RISK; PAHS; CHINA; RIVER; DIETS; SOILS; AREA
+AB Distribution and risk assessment of eight priority polycyclic aromatic hydrocarbons (PAHs) contents have been examined in different varieties of vegetables grown in Pakistan. The results showed that the total PAH contents were higher for root vegetables like potato and carrot (similar to 13 mu g/kg) and relatively lower for turnip (10.9 mu g/kg), respectively while for the fruit vegetables, all the peels were found to be more contaminated than cores. The ratio of total PAII concentrations in peels with respect to those of cores is found to be 1.45, 1.26, 1.31, 1.44, 1.40, and 1.36 for potato, turnip, carrot, eggplant, cucumber, and bitter gourd, respectively. For leafy vegetables, cabbage showed maximum PAH (11.6 mu g/kg) as compared to the cores of fruit vegetables. Among individual PAH congeners, anthracene showed higher levels in all vegetables. For benzo(a)anthracene. maximum concentration (3.44 +/- 2.10 mu g/kg) was encountered in turnip cores. Highest benzo(e)pyrene concentration was found in potato (3.19 +/- 1.67 mu g/kg) followed by turnip (2.74 +/- 1.22 mu g/kg). Benzo(b)fluoranthene and benzo(k)fluoranthene showed relatively lower levels in all samples studied. All the concentrations of PAHs are presented on a fresh weight basis. The results of human exposure of PAH by consumption of these vegetables showed that cumulative dietary exposure of Pakistani population to PAHs from vegetables ranges from 0.25 mu g/p/d to 1.16 mu g/p/d.
+C1 [Solangi, Amber R.; Qureshi, Umair A.] Univ Sindh, Natl Ctr Excellence Analyt Chem, Jamshoro 76080, Pakistan.
+   [Ashraf, Mohammad W.] Prince Mohammad Bin Fahd Univ, Dept Math & Nat Sci, Al Khobar 31952, Saudi Arabia.
+   [Taqvi, Syed Iqleem H.] Govt Degree Coll, Hyderabad 71000, Sindh, Pakistan.
+   [Taqvi, Syed Iqleem H.] Postgrad Ctr, Hyderabad 71000, Sindh, Pakistan.
+RP Solangi, AR (reprint author), Univ Sindh, Natl Ctr Excellence Analyt Chem, Jamshoro 76080, Pakistan.
+EM ambersolangi@gmail.com
+RI Qureshi, Umair Ahmed/I-6339-2019; Qureshi, Umair/J-9380-2017
+OI Qureshi, Umair/0000-0003-0676-0353
+FU Scientific Council, Prince Mohammad Bin Fahd University
+FX The authors are grateful to Scientific Council, Prince Mohammad Bin Fahd
+   University for supporting this work. Thanks are also due to COMSATS
+   Pakistan for supplying standards and interlaboratory comparison of data.
+CR [Anonymous], 2008, EFSA J, V6, DOI 10.2903/j.efsa.2008.724
+   [Anonymous], 2005, P 64 M JOINT FAO WHO, P8
+   Cai QY, 2007, CHEMOSPHERE, V68, P159, DOI 10.1016/j.chemosphere.2006.12.015
+   Camargo MCR, 2003, FOOD CONTROL, V14, P49, DOI 10.1016/S0956-7135(02)00052-X
+   DENNIS MJ, 1983, FOOD CHEM TOXICOL, V21, P569, DOI 10.1016/0278-6915(83)90142-4
+   DEVOS RH, 1990, FOOD CHEM TOXICOL, V28, P263, DOI 10.1016/0278-6915(90)90038-O
+   Farooq S, 2011, J ENVIRON MONITOR, V13, P3207, DOI 10.1039/c1em10421g
+   IARC, 1983, MON EV CARC RISK C 1
+   Kipopoulou AM, 1999, ENVIRON POLLUT, V106, P369, DOI 10.1016/S0269-7491(99)00107-4
+   Lee BM, 2007, J TOXICOL ENV HEAL A, V70, P1391, DOI 10.1080/15287390701434182
+   Meudec A, 2006, CHEMOSPHERE, V65, P474, DOI 10.1016/j.chemosphere.2006.01.058
+   Phillips DH, 1999, MUTAT RES-GEN TOX EN, V443, P139, DOI 10.1016/S1383-5742(99)00016-2
+   Samsoe-Petersen L, 2002, ENVIRON SCI TECHNOL, V36, P3057, DOI 10.1021/es015691t
+   Tao S, 2004, SCI TOTAL ENVIRON, V320, P11, DOI 10.1016/S0048-9697(03)00453-4
+   TurrioBaldassarri L, 1996, POLYCYCL AROMAT COMP, V10, P343, DOI 10.1080/10406639608034715
+   Voutsa D, 1998, SCI TOTAL ENVIRON, V218, P203, DOI 10.1016/S0048-9697(98)00206-X
+   Wang YC, 2011, J ENVIRON MONITOR, V13, P433, DOI 10.1039/c0em00098a
+   WILD SR, 1992, ENVIRON POLLUT, V76, P25, DOI 10.1016/0269-7491(92)90113-O
+   Yoon E, 2007, HUM ECOL RISK ASSESS, V13, P669, DOI 10.1080/10807030701226871
+   Zhang ZL, 2004, SCI TOTAL ENVIRON, V323, P71, DOI 10.1016/j.scitotenv.2003.09.026
+   Zhong WK, 2002, J ENVIRON SCI HEAL A, V37, P287, DOI 10.1081/ESE-120002588
+NR 21
+TC 9
+Z9 9
+U1 0
+U2 28
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 2090-9063
+EI 2090-9071
+J9 J CHEM-NY
+JI J. Chem.
+PY 2013
+AR 873959
+DI 10.1155/2013/873959
+PG 5
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 992MX
+UT WOS:000307782000001
+OA DOAJ Gold
+DA 2019-11-19
+ER
+
+PT J
+AU Ali, A
+   Akhtar, N
+   Khan, HMS
+AF Ali, Atif
+   Akhtar, Naveed
+   Khan, Haji Muhammad Shoaib
+TI Assessment of Physical Stability and Antioxidant Activity of
+   Polysiloxane Polyalkyl Polyether Copolymer-Based Creams
+SO JOURNAL OF CHEMISTRY
+LA English
+DT Article
+ID MULTIPLE EMULSIONS; RHEOLOGY; FORMULATION
+AB The purpose of the present work was to investigate the changes on physical stability (color, creaming, liquefaction, pH, conductivity, centrifugation, viscosity and rheological parameters) by non-ionic surfactant polysiloxane polyalkyl polyether copolymer based creams following inclusion of plant extract containing phenolic compounds. The antioxidant activity of the plant extract alone and after addition in the cream was assessed using the stable free radical 1,1-diphenyl-2-picrylhydrazyl (DPPH) assay. Physical stability was assessed by submitting the creams to storage at 8 degrees C, 25 degrees C, 40 degrees C, and at 40 degrees C with 70% RH (relative humidity) for a period of two months. Physical characteristics of polysiloxane polyalkyl polyether copolymer baesd creams, that is, color, creaming, liquefaction, centrifugation and pH were noted at various intervals for 2 months. The viscosities and rheological behavior of creams were determined using a rotational rheometer. Data were analyzed by using Brookfield Software Rheocalc version (2.6) with IPC Paste and Power Law (PL) math models. Cream with plant extract showed pseudo plastic behaviour with decreasing on viscosity. The Acacia nilotica (AN) extract alone and the cream containing this extract showed great antioxidant and free radical scavenging activities. Power Law and IPC analysis were found to fit all the rheograms.
+C1 [Ali, Atif; Akhtar, Naveed; Khan, Haji Muhammad Shoaib] Islamia Univ Bahawalpur, Fac Pharm & Alternat Med, Bahawalpur 63100, Pakistan.
+RP Ali, A (reprint author), Islamia Univ Bahawalpur, Fac Pharm & Alternat Med, Bahawalpur 63100, Pakistan.
+EM ajmaline2000@gmail.com
+RI Ali, Atif/AAC-9627-2019
+OI Ali, Atif/0000-0002-7779-5804
+FU Higher Education Commission of PakistanHigher Education Commission of
+   Pakistan
+FX The authors wish to thank the Higher Education Commission of Pakistan
+   for providing financial support to conduct the study. The authors also
+   acknowledge the moral support given by the Chairman and Dean of the
+   Faculty of Pharmacy and Alternative Medicine, The Islamia University of
+   Bahawalpur, Pakistan. In addition, the authors do not have any conflict
+   of interest.
+CR Aburjai T, 2003, PHYTOTHER RES, V17, P987, DOI 10.1002/ptr.1363
+   Avendano-Gomez JR, 2005, J COLLOID INTERF SCI, V290, P533, DOI 10.1016/j.jcis.2005.04.062
+   Banso A., 2009, J MED PLANTS RES, V3, P082
+   Choi MH, 2009, MACROMOL RES, V17, P943, DOI 10.1007/BF03218640
+   Clement P, 2000, INT J PHARM, V207, P7, DOI 10.1016/S0378-5173(00)00521-4
+   Derkach SR, 2009, ADV COLLOID INTERFAC, V151, P1, DOI 10.1016/j.cis.2009.07.001
+   Duthie GG, 2003, P NUTR SOC, V62, P599, DOI 10.1079/PNS2003275
+   Gaspar LR, 2003, INT J PHARM, V250, P35, DOI 10.1016/S0378-5173(02)00462-3
+   Guaratini T, 2006, INT J PHARM, V327, P12, DOI 10.1016/j.ijpharm.2006.07.015
+   Hamid K, 2010, INT J APPL BIOL PHAR, V1, P1364
+   HUANG SW, 1994, J AGR FOOD CHEM, V42, P2108, DOI 10.1021/jf00046a007
+   Kalaivani T, 2011, J FOOD SCI, V76, pT144, DOI 10.1111/j.1750-3841.2011.02243.x
+   Kim DO, 2002, J AGR FOOD CHEM, V50, P3713, DOI 10.1021/jf020071c
+   Kizling J, 2006, ADV COLLOID INTERFAC, V123, P295, DOI 10.1016/j.cis.2006.05.006
+   Korhonen M, 2000, INT J PHARM, V197, P143, DOI 10.1016/S0378-5173(99)00464-0
+   Korhonen M, 2001, INT J PHARM, V221, P187, DOI 10.1016/S0378-5173(01)00675-5
+   Matousek JL, 2003, CAN J VET RES, V67, P56
+   Muguet V, 2001, J CONTROL RELEASE, V70, P37, DOI 10.1016/S0168-3659(00)00314-X
+   Pereira DM, 2009, MOLECULES, V14, P2202, DOI 10.3390/molecules14062202
+   Sultana B, 2009, MOLECULES, V14, P2167, DOI 10.3390/molecules14062167
+   Sundaram R, 2007, INDIAN J PHARMACOL, V39, P33
+   Svobodova Alena, 2003, Biomedical Papers (Olomouc), V147, P137
+   Tadros T, 2004, ADV COLLOID INTERFAC, V108, P227, DOI 10.1016/j.cis.2003.10.025
+   Wojdylo A, 2007, FOOD CHEM, V105, P940, DOI 10.1016/j.foodchem.2007.04.038
+NR 24
+TC 2
+Z9 2
+U1 0
+U2 13
+PU HINDAWI PUBLISHING CORPORATION
+PI NEW YORK
+PA 410 PARK AVENUE, 15TH FLOOR, #287 PMB, NEW YORK, NY 10022 USA
+SN 2090-9063
+J9 J CHEM-NY
+JI J. Chem.
+PY 2013
+AR 938042
+DI 10.1155/2013/938042
+PG 7
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 992NJ
+UT WOS:000307783600001
+OA DOAJ Gold
+DA 2019-11-19
+ER
+
+PT J
+AU Tariq, SR
+   Rashid, N
+AF Tariq, Saadia R.
+   Rashid, Nabila
+TI Multivariate Analysis of Metal Levels in Paddy Soil, Rice Plants, and
+   Rice Grains: A Case Study from Shakargarh, Pakistan
+SO JOURNAL OF CHEMISTRY
+LA English
+DT Article
+ID DISSOLVED ORGANIC-MATTER; SEWAGE-SLUDGE; HEAVY-METALS; AGRICULTURAL
+   SOIL; NORTHERN GREECE; BENGAL BASIN; WASTE-WATER; HEALTH-RISK; CHINA;
+   ZINC
+AB The present study aims at determining the relationship between trace metal levels in paddy soils, rice plants, and rice grains obtained from these plants. The levels of selected metals (Fe, Co, Ni, Cd, Pb, and Cr) were determined by atomic absorption spectrophotometry in the soil, rice plants, and rice grain samples collected from paddy fields. All the metals were present at enhanced levels in paddy soil. Among the selected metals, Fe, Ni, Cd, and Cr were predominantly associated with oxidizable fraction. The metals such as Cr, Ni, Co, and Fe were significantly positively correlated in soil and plants, but no such correlation was observed in soil-grain matrix evidencing that these metals have a soil-based origin in the plants, but they were not translocated to grains. The Pb content of soil was strongly positively correlated with plants as well as the grains. The principal component analysis and cluster analysis were used to depict the origin of enhanced metal levels in rice plants. Under the given field conditions, different metals possess different translocation behaviours from soil to roots to shoots to grains. There is a dire need to implement the strategies for wise and optimum use of agrochemicals.
+C1 [Tariq, Saadia R.; Rashid, Nabila] Lahore Coll Women Univ, Dept Chem, Lahore 45600, Pakistan.
+RP Tariq, SR (reprint author), Lahore Coll Women Univ, Dept Chem, Lahore 45600, Pakistan.
+EM saadiartariq@yahoo.com
+CR Acharyya SK, 2000, ENVIRON GEOL, V39, P1127, DOI 10.1007/s002540000107
+   Achiba W. B., 2009, Agriculture, Ecosystems & Environment, V130, P156, DOI 10.1016/j.agee.2009.01.001
+   Anawar HM, 2006, ENVIRON GEOCHEM HLTH, V28, P553, DOI 10.1007/s10653-006-9054-0
+   [Anonymous], 1999, US EPA EST IN PRESS
+   [Anonymous], 2005, INT RIC RES I LAS BA
+   BEYCHOK MR, 1987, ATMOS ENVIRON, V21, P29
+   Bhattacharya S, 2012, TOXICOL ENVIRON CHEM, V94, P429, DOI 10.1080/02772248.2012.657200
+   BHOGAL A, 2003, TOXICOLOGICAL ENV CH, V121, P413
+   Bozkurt S, 1999, SCI TOTAL ENVIRON, V228, P135, DOI 10.1016/S0048-9697(99)00047-9
+   Casentini B, 2011, SCI TOTAL ENVIRON, V409, P4802, DOI 10.1016/j.scitotenv.2011.07.064
+   CHANDER K, 1991, SOIL BIOL BIOCHEM, V23, P927, DOI 10.1016/0038-0717(91)90172-G
+   Chen M, 2008, J HAZARD MATER, V160, P324, DOI 10.1016/j.jhazmat.2008.03.036
+   Chowdhury TR, 1999, NATURE, V401, P545
+   Fox PM, 2002, J ENVIRON QUAL, V31, P331, DOI 10.2134/jeq2002.0331
+   GIMENOGARCIA E, 1996, TOXICOLOGICAL ENV CH, V92, P19
+   Gupta AK, 2007, B ENVIRON CONTAM TOX, V79, P577, DOI 10.1007/s00128-007-9287-3
+   Hart J., 2004, 8856E EM OR STAT U
+   He ZL, 2006, SOIL SCI SOC AM J, V70, P1699, DOI 10.2136/sssaj2005.0255
+   Horiguchi H, 2004, ENVIRON RES, V95, P20, DOI 10.1016/S0013-9351(03)00142-7
+   Huang SS, 2007, CHEMOSPHERE, V67, P2148, DOI 10.1016/j.chemosphere.2006.12.043
+   Kabala C, 2001, J ENVIRON QUAL, V30, P485, DOI 10.2134/jeq2001.302485x
+   Katsoyiannis IA, 2006, ENVIRON MONIT ASSESS, V123, P393, DOI 10.1007/s10661-006-9204-y
+   Liu JU, 2003, PLANT SCI, V165, P793, DOI 10.1016/S0168-9452(03)00273-5
+   Liu XL, 2007, J HAZARD MATER, V149, P399, DOI 10.1016/j.jhazmat.2007.04.003
+   LORENZ SE, 1994, EUR J SOIL SCI, V45, P159, DOI 10.1111/j.1365-2389.1994.tb00497.x
+   McBride MB, 1999, SOIL SCI, V164, P613, DOI 10.1097/00010694-199909000-00001
+   McLaren RG, 2001, J ENVIRON QUAL, V30, P1968, DOI 10.2134/jeq2001.1968
+   NEQS, 1999, PAK ENV PROT AG
+   OREMLAND RS, 2003, AIDS RES HUM RETRO S, V300, P939
+   PETRUZZELLI G, 1989, AGR ECOSYST ENVIRON, V27, P493, DOI 10.1016/0167-8809(89)90110-2
+   Prakongkep N, 2007, KASETSART J NAT SCI, V41, P42
+   Qishlaqi A., 2007, American-Eurasian Journal of Agricultural and Environmental Science, V2, P565
+   Radojevic M, 1999, PRACTICAL ENV ANAL
+   Sanchez-Martin MJ, 2007, GEODERMA, V142, P262, DOI 10.1016/j.geoderma.2007.08.012
+   SEKHAR K.C., 2002, TOXICOL ENVIRON CHEM, V82, P33
+   Selivanovskaya Svetlana Yu., 2003, Journal of Soils and Sediments, V3, P85, DOI 10.1007/BF02991073
+   Shen GQ, 2005, J ENVIRON MANAGE, V76, P355, DOI 10.1016/j.jenvman.2005.02.011
+   Sigua GC, 2005, ENVIRON SCI POLLUT R, V12, P80, DOI 10.1065/espr2004.10.220
+   Silver S, 2005, APPL ENVIRON MICROB, V71, P599, DOI 10.1128/AEM.71.2.599-608.2005
+   Smedley PL, 2002, APPL GEOCHEM, V17, P517, DOI 10.1016/S0883-2927(02)00018-5
+   Statsoft inc, 1999, STATISTICA SOFTW WIN
+   Tariq SR, 2005, J HAZARD MATER, V122, P17, DOI 10.1016/j.jhazmat.2005.03.017
+   Wong JWC, 2007, GEODERMA, V137, P310, DOI 10.1016/j.geoderma.2006.08.026
+   WONG SC, 2002, TOXICOLOGICAL ENV CH, V119, P33
+   Yang QW, 2006, AGR WATER MANAGE, V84, P147, DOI 10.1016/j.agwat.2006.01.005
+   Yang QW, 2008, ENVIRON MONIT ASSESS, V147, P65, DOI 10.1007/s10661-007-0098-0
+   Zazoli M. A., 2006, Journal of Applied Sciences and Environmental Management, V10, P147
+   Zhuang P, 2009, SCI TOTAL ENVIRON, V407, P1551, DOI 10.1016/j.scitotenv.2008.10.061
+NR 48
+TC 6
+Z9 6
+U1 0
+U2 26
+PU HINDAWI PUBLISHING CORPORATION
+PI NEW YORK
+PA 410 PARK AVENUE, 15TH FLOOR, #287 PMB, NEW YORK, NY 10022 USA
+SN 2090-9063
+J9 J CHEM-NY
+JI J. Chem.
+PY 2013
+AR 539251
+DI 10.1155/2013/539251
+PG 10
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 992EJ
+UT WOS:000307758100001
+OA DOAJ Gold
+DA 2019-11-19
+ER
+
+PT J
+AU Shehzad, CT
+   De Haan, J
+   Scholtens, B
+AF Shehzad, C. T.
+   De Haan, J.
+   Scholtens, B.
+TI The relationship between size, growth and profitability of commercial
+   banks
+SO APPLIED ECONOMICS
+LA English
+DT Article
+DE bank profitability; bank size; Gibrat's law; bank growth
+ID PANEL-DATA; DIVERSIFICATION; VOLATILITY
+AB Using a dynamic panel model for more than 15 000 banks from 148 countries from 1988 to 2010, we investigate the interaction between size, growth and profitability of banks. For our total sample, we cannot reject the hypotheses that the variability of bank profitability and the level and variability of bank growth are independent of bank size. However, in high-income Organization for Economic Cooperation and Development (OECD) countries bigger banks grow slower but are more profitable than small banks. While bank growth is not persistent, bank profitability is persistent. Finally, we find that bank growth and bank profitability are independent of each other.
+C1 [Shehzad, C. T.; De Haan, J.; Scholtens, B.] Univ Groningen, Fac Econ & Business, Dept Finance, Groningen, Netherlands.
+   [Shehzad, C. T.] Lahore Univ Management Sci, SDSB, Lahore Cantt, Pakistan.
+   [De Haan, J.] Nederlandsche Bank, NL-1000 AB Amsterdam, Netherlands.
+   [De Haan, J.] CESifo, Munich, Germany.
+RP De Haan, J (reprint author), Univ Groningen, Fac Econ & Business, Dept Finance, POB 800, Groningen, Netherlands.
+EM jakob.de.haan@rug.nl
+OI Scholtens, Bert/0000-0001-5774-5191; Shehzad, Choudhry
+   Tanveer/0000-0002-3194-7147
+CR ARELLANO M, 1991, REV ECON STUD, V58, P277, DOI 10.2307/2297968
+   Athanasoglou P., 2008, J INT FINANC MARK I, V18, P121, DOI DOI 10.1016/J.INTFIN.2006.07.001
+   Benito E., 2008, 0801 BANC ESP
+   Berger AN, 2005, J FINANC ECON, V76, P237, DOI 10.1016/j.jfineco.2004.06.003
+   Bikker J. A., 2002, DNB STAFF REPORTS, V86
+   Blundell R, 1998, J ECONOMETRICS, V87, P115, DOI 10.1016/S0304-4076(98)00009-8
+   BREITUNG J, 1994, APPL ECON, V26, P353, DOI 10.1080/00036849400000081
+   Crotty J, 2009, CAMB J ECON, V33, P563, DOI 10.1093/cje/bep023
+   Demirguc-Kunt A, 1999, WORLD BANK ECON REV, V13, P379, DOI 10.1093/wber/13.2.379
+   DeYoung R, 2001, J FINANC INTERMED, V10, P54, DOI 10.1006/jfin.2000.0305
+   Gibrat R, 1931, INEGALITES EC
+   Goddard J, 2004, J MONEY CREDIT BANK, V36, P1069, DOI 10.1353/mcb.2005.0015
+   Goddard J, 2004, MANCH SCH, V72, P363, DOI 10.1111/j.1467-9957.2004.00397.x
+   Gore P, 2007, ACCOUNT BUS RES, V37, P123, DOI 10.1080/00014788.2007.9730065
+   HAMEETEMAN D., 2000, INT J EC BUSINESS, V7, P313
+   Petrovic N, 2009, J BUS FINAN ACCOUNT, V36, P1148, DOI 10.1111/j.1468-5957.2009.02165.x
+   Roodman D., 2006, 103 CTR GLOB DEV
+   Shehzad CT, 2010, J BANK FINANC, V34, P399, DOI 10.1016/j.jbankfin.2009.08.007
+   Stein JC, 2002, J FINANC, V57, P1891, DOI 10.1111/0022-1082.00483
+   Stever R., 2007, 238 BANK INT SETTL
+   Stiroh KJ, 2006, J BANK FINANC, V30, P2131, DOI 10.1016/j.jbankfin.2005.04.030
+   Stiroh KJ, 2004, J MONEY CREDIT BANK, V36, P853, DOI 10.1353/mcb.2004.0076
+   TSCHOEGL AE, 1983, J BUS, V56, P187, DOI 10.1086/296196
+   Vasilis S., 2009, J ECONOMETRICS, V148, P149
+NR 24
+TC 13
+Z9 14
+U1 1
+U2 24
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0003-6846
+J9 APPL ECON
+JI Appl. Econ.
+PY 2013
+VL 45
+IS 13
+BP 1751
+EP 1765
+DI 10.1080/00036846.2011.637896
+PG 15
+WC Economics
+SC Business & Economics
+GA 936HH
+UT WOS:000303581000012
+DA 2019-11-19
+ER
+
+EF

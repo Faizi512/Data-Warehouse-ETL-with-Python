@@ -1,0 +1,5 @@
+***************FOLLOW THESE INSTRUCTIONS TO USE CODE***************
+
+1 => Run database.py file to create database and tables in mysql.
+2 => Run LoadingDriver.py File to Load data in base tables.
+3 => Run MappingDriver.py File to Load Weak Entities/Mapping Tables.
